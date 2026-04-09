@@ -32,6 +32,63 @@ first_text = batch_texts[0]      # 索引访问
 sub_batch = batch_texts[1:3]     # 切片
 batch_size = len(batch_texts)    # 长度
 
+# 列表初始化
+numebr = ["1","2","3"]
+print(number)
+
+# 索引
+正向从0开始，负向从-1 反着数
+
+# 列表的CRUD
+列表名.append(新元素)
+列表名.insert(新元素的索引，新元素),    列表中间添加单个原生
+
+列表的拓展：被拓展的列表名.extend(列表名)
+
+列表的删除:列表名.pop() ,删除列表末尾元素;  列表名.pop(索引)，根据索引删除 
+del 列表名[索引] 也能对指定的索引进行删除
+
+根据值删除列表的元素
+列表名.remove(待删除的元素)
+
+修改列表元素
+列表名[索引] = 修改值
+
+列表的切片:
+列表切片 = 列表名[起始索引:终止索引:步长]
+
+eg: 左闭右开区间，可以直接省略步长，也可以直接省略起始索引，也可以省略终止索引，也有负索引
+list = [1,2,3,4,5,6]
+sub_list = list[0:4:1]
+print(sub_list)
+---- [1,2,3,4,5]
+
+负索引 [起始，终止]
+切片的负步长
+ls = [1,3,5,7,9,11]
+su_ls = ls[4:1:-1]
+print(su_ls)
+---- [9,7,5]
+
+列表常用方法和内置函数
+排序:sort(),sorted()
+翻转:reverse(),reversed()
+映射：map(func,iter)
+eg: 
+lst_str = ["1","2","3"]
+lst_num = list(map(int,list_str))上述过程等价于将str的"1","2","3"转化成int 类型的1,2,3
+
+
+字符串分割为列表
+split(x)，最常见的分隔符为空格""或者","
+列表合并为字符串
+join(list)
+
+- 字符串属于不可变数据类型，不能直接进行修改操作，需要对原来的字符串使用split()或list()转化为列表，再使用join()
+- lst必须是一个字符串类型列表，lst:List[str],如果是整数型列表，需要使用map()进行类型转换
+
+
+
 # 列表推导式 - 高效数据处理
 lengths = [len(text) for text in batch_texts]
 filtered = [x for x in token_ids if x > 100]
@@ -60,6 +117,10 @@ items = config.items()
 ### 1.4 元组（Tuple）- 不可变序列
 
 ```python
+# 元组的初始化
+元组名 = (元素,元素,元素，)
+元组也是不可变数据类型和字符串类型， 无法通过索引，对元组中的元素进行修改
+
 # 固定的配置参数
 model_shape = (768, 12, 12)  # (hidden_size, num_layers, num_heads)
 version = (1, 0, 0)
