@@ -1,0 +1,27 @@
+title: Agent Wiki - 大模型学习路线
+description: 大模型开发完整学习路线笔记
+theme: jekyll-theme-cayman
+# 其他可选主题：
+# jekyll-theme-minimal
+# jekyll-theme-slate
+# jekyll-theme-architect
+# jekyll-theme-hacker
+# jekyll-theme-midnight
+
+# 导航
+navigation:
+  - title: 首页
+    url: /
+  - title: 第一周
+    url: /01-第一周：大模型必备基础速通/
+
+# 插件
+plugins:
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+
+# Markdown 设置
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
