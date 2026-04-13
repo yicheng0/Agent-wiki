@@ -1,0 +1,15 @@
+# Obsidian 配置（插件、主题等不需要同步）
+.obsidian/plugins/
+.obsidian/themes/
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Claudian 插件数据
+.claudian/
+
+# 临时文件
+temp-plugin/
+
+# 系统文件
+.DS_Store
+Thumbs.db
