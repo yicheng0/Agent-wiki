@@ -35,3 +35,5 @@ Crose-Encoder：Re-rank使用的是这个交叉编码器，把查询和文档拼
 主流Re-rank模型:Cohere Reank、BGE-Reanker(开源方案)、ms-marco-MiniLM微软基于MiniLM训练的轻量级Cross-Encoder、Jina Reranker 
 
 实战思路：先检索50到100个候选，再重排序Top5-Top-10，相加比最高
+
+# 6.
