@@ -2,5 +2,7 @@
   "obsidian-local-rest-api",
   "obsidian-git",
   "obsidian-excalidraw-plugin",
-  "claudian"
+  "claudian",
+  "colored-text",
+  "highlightr-plugin"
 ]
