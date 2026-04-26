@@ -13,3 +13,4 @@ jieba是一个基于结巴分词的分词器，可以进行中文分词。![[Pas
 ### bert-base-chinese的分词器  
 ==bert自带的分词器是针对英文的，bert-base-chinese有单独的针对中文的分词器（按字来的）==
 ![[Pasted image 20260425185418.png]]
+![[Pasted image 20260426173038.png]]
