@@ -71,3 +71,99 @@ x = torch.randn(batch_size, seq_len, input_size)
 print(x)  
 print(x.shape)
 ```
+
+``` python
+  
+# 超参数设置  
+SEQ_LENGTH = 5  # 输入序列长度  
+BATCH_SIZE = 1  
+HIDDEN_SIZE = 128  
+INPUT_SIZE = 128  
+  
+  
+# 创建训练数据  
+class TextDataset(Dataset):  
+    def __init__(self, text, seq_length):  
+        self.text = text  
+        self.seq_length = seq_length  
+  
+        # 转换为索引序列  
+        self.data = [word_to_idx[ch] for ch in text]  
+  
+    def __len__(self):  
+        return len(self.data) - self.seq_length  
+  
+    def __getitem__(self, idx):  
+        # 文本里的某个序列 X        input_seq = self.data[idx:idx + self.seq_length]  
+  
+        # 目标序列 Y        target_seq = self.data[idx + 1:idx + self.seq_length + 1]  
+  
+        # 相当于，假如语料为abcdefg, input_seq=abc, target_seq=bcd  
+  
+        return torch.LongTensor(input_seq), torch.LongTensor(target_seq)  
+  
+  
+dataset = TextDataset(text, SEQ_LENGTH)  
+dataloader = DataLoader(dataset, batch_size=BATCH_SIZE, shuffle=False)  
+  
+for input_seq, target_seq in dataloader:  
+    print(input_seq)  
+    print(target_seq)  
+    break
+```
+
+```python
+class ZhouyuModel(nn.Module):  
+    def __init__(self, vocab_size, input_size, hidden_size):  
+        super().__init__()  
+  
+        self.hidden_size = hidden_size  
+  
+        # 嵌入层，输入词索引，输出词向量  
+        self.embedding = nn.Embedding(vocab_size, input_size)  
+  
+        # RNN参数  
+        self.W_xh = nn.Parameter(torch.randn(input_size, hidden_size))  
+        self.W_hh = nn.Parameter(torch.randn(hidden_size, hidden_size))  
+        self.b_h = nn.Parameter(torch.zeros(hidden_size))  
+  
+        # 输出层  
+        self.out_linear = nn.Linear(hidden_size, vocab_size)  
+  
+    def forward(self, x, hidden=None):  
+  
+        embedded = self.embedding(x)  
+  
+        batch_size, seq_len, input_size = embedded.shape  
+        embedded = torch.transpose(embedded, 0, 1)  
+  
+        # 初始化隐藏状态，每个seq都创建一个初始隐藏状态  
+        if hidden is None:  
+            hidden = torch.zeros(batch_size, self.hidden_size)  
+  
+        outputs = []  
+        for t in range(seq_len):  
+            # 取第t个时间步对应字的向量  
+            x_t = embedded[t]  # (batch_size, hidden_size)  
+  
+            hidden = torch.tanh(  
+                torch.mm(x_t, self.W_xh) +  
+                torch.mm(hidden, self.W_hh) +  
+                self.b_h  
+            )  
+  
+            # 隐藏状态输入到线性输出层，得到t时刻的输出  
+            # 这里的隐藏状态，相当于记忆了前t-1个字的信息，然后结合t时刻的输入x，要预测t时刻对应的y  
+            outputs.append(self.out_linear(hidden))  
+  
+        # outputs保存了所有时间步的输出，输入的是一个序列，每个时间步的输出就组合成了输出序列，然后再和目标序列进行误差计算  
+        outputs = torch.stack(outputs, dim=1)  # (batch_size, seq_length, vocab_size)  
+  
+        return outputs, hidden  
+  
+  
+# 初始化模型  
+model = ZhouyuModel(vocab_size, INPUT_SIZE, HIDDEN_SIZE)  
+criterion = nn.CrossEntropyLoss()  
+optimizer = torch.optim.SGD(model.parameters(), lr=0.005)
+```
