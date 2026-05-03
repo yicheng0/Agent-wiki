@@ -167,3 +167,76 @@ model = ZhouyuModel(vocab_size, INPUT_SIZE, HIDDEN_SIZE)
 criterion = nn.CrossEntropyLoss()  
 optimizer = torch.optim.SGD(model.parameters(), lr=0.005)
 ```
+
+``` python
+  
+    words = [word for word in content]  
+  
+    hidden = None  
+    for _ in range(steps):  
+        inputs = [word_to_idx[word] for word in words[-SEQ_LENGTH:]] # 取输入的最后SEQ_LENGTH个词的索引  
+        # inputs = [word_to_idx[word] for word in words[-1:]] # 取输入的最后SEQ_LENGTH个词的索引  
+        inputs = torch.LongTensor(inputs)  
+  
+        # 输入形状调整  
+        inputs = inputs.view(1, -1)  # (1, seq_len)  
+  
+        # 前向传播  
+        with torch.no_grad():  
+            # output中包含了每个时间步的输出，推理预测时，只需要取最后一个时间步的输出即可，比如输入“鹰击”，相当于有两个时间步，但是我们只需要第2个时间步的输出，而输出是词汇表中各个词的概率  
+            # 而hidden表示隐藏层，在推理预测时，因为我们会连续预测，外层有一个for循环，所以hidden需要保存，以便下一次循环使用  
+            outputs, hidden = model(inputs, hidden)  
+            last_output = outputs[0, -1, :]  # 取最后一个时间步的输出  
+  
+        # 应用温度采样  
+        # last_output / temperature，相当于将last_output缩小，比如[8,2,2] / 2 = [4,1,1]，使得三个选项对应的数字之间的差别变小了  
+        # 当然如果temperature<1，那么就是放大差别，比如[8,2,2] / 0.5 = [16,4,4]  
+        # probs为做了softmax之后的概率  
+        probs = torch.softmax(last_output / temperature, dim=-1)  
+  
+        # 多项式采样，probs是一个概率，比如是[0.3,0.2,0.5]，那么就是从0,1,2中随机选一个，那么2被选中的概率就是50%  
+        # 谁的概率大，随被采样的概率就大  
+        result_idx = torch.multinomial(probs, 1).item()  
+  
+        #  取概率最大的索引  
+        # result_idx = torch.argmax(probs).item()  
+  
+  
+        # 更新输入序列  
+        words.append(idx_to_word[result_idx])  
+  
+    return ''.join(words)  
+  
+  
+# 20表示预测20次, temperature越大，越随机
+```
+
+```python
+class ZhouyuModel(nn.Module):  
+    def __init__(self, vocab_size, input_size, hidden_size):  
+        super().__init__()  
+  
+        self.hidden_size = hidden_size  
+  
+        # 嵌入层，输入词索引，输出词向量  
+        self.embedding = nn.Embedding(vocab_size, input_size)  
+  
+        # RNN层  
+        # Deep RNN  
+        self.rnn = nn.RNN(input_size, hidden_size, batch_first=True, num_layers=2)  
+  
+        # 输出层  
+        self.out_linear = nn.Linear(hidden_size, vocab_size)  
+  
+    def forward(self, x, hidden=None):  
+        embedded = self.embedding(x)  
+        outputs, hidden = self.rnn(embedded, hidden)  
+        outputs = self.out_linear(outputs)  
+        return outputs, hidden  
+  
+  
+# 初始化模型  
+model = ZhouyuModel(vocab_size, INPUT_SIZE, HIDDEN_SIZE)  
+criterion = nn.CrossEntropyLoss()  
+optimizer = torch.optim.SGD(model.parameters(), lr=0.005)
+```
