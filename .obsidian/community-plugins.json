@@ -4,5 +4,7 @@
   "obsidian-excalidraw-plugin",
   "claudian",
   "colored-text",
-  "highlightr-plugin"
+  "highlightr-plugin",
+  "messager",
+  "notehelper"
 ]
