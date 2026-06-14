@@ -1,5 +1,8 @@
 {
-  "accentColor": "#7747e6",
-  "baseFontSize": 18,
-  "cssTheme": "Minimal"
+  "accentColor": "#5cf5ce",
+  "baseFontSize": 20,
+  "cssTheme": "AnuPpuccin",
+  "enabledCssSnippets": [
+    "interview-agent-readable"
+  ]
 }

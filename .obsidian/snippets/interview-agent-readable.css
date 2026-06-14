@@ -1,0 +1,124 @@
+/* Interview Agent question-bank readability layer.
+   Makes generated interview cards visually scannable in reading mode. */
+
+.markdown-preview-view,
+.markdown-reading-view {
+  --ia-blue: #74c7ec;
+  --ia-green: #a6e3a1;
+  --ia-yellow: #f9e2af;
+  --ia-orange: #fab387;
+  --ia-red: #f38ba8;
+  --ia-purple: #cba6f7;
+  --ia-teal: #94e2d5;
+  --ia-surface: rgba(255, 255, 255, 0.045);
+  --ia-border: rgba(255, 255, 255, 0.13);
+}
+
+.markdown-preview-view h1 {
+  color: var(--ia-purple);
+  border-bottom: 2px solid color-mix(in srgb, var(--ia-purple), transparent 45%);
+  padding-bottom: 0.35em;
+}
+
+.markdown-preview-view h2 {
+  color: var(--ia-blue);
+  background: linear-gradient(90deg, rgba(116, 199, 236, 0.16), transparent 78%);
+  border-left: 4px solid var(--ia-blue);
+  border-radius: 6px;
+  padding: 0.35em 0.7em;
+  margin-top: 2.2em;
+}
+
+.markdown-preview-view h3 {
+  width: fit-content;
+  max-width: 100%;
+  border-radius: 6px;
+  padding: 0.22em 0.62em;
+  margin-top: 1.55em;
+  background: var(--ia-surface);
+  border: 1px solid var(--ia-border);
+}
+
+.markdown-preview-view h3[data-heading="考点"] {
+  color: var(--ia-blue);
+  border-color: color-mix(in srgb, var(--ia-blue), transparent 45%);
+  background: rgba(116, 199, 236, 0.12);
+}
+
+.markdown-preview-view h3[data-heading="核心理解"] {
+  color: var(--ia-teal);
+  border-color: color-mix(in srgb, var(--ia-teal), transparent 45%);
+  background: rgba(148, 226, 213, 0.12);
+}
+
+.markdown-preview-view h3[data-heading="面试回答"] {
+  color: var(--ia-green);
+  border-color: color-mix(in srgb, var(--ia-green), transparent 45%);
+  background: rgba(166, 227, 161, 0.12);
+}
+
+.markdown-preview-view h3[data-heading="工程例子"] {
+  color: var(--ia-yellow);
+  border-color: color-mix(in srgb, var(--ia-yellow), transparent 45%);
+  background: rgba(249, 226, 175, 0.13);
+}
+
+.markdown-preview-view h3[data-heading="容易踩坑"] {
+  color: var(--ia-red);
+  border-color: color-mix(in srgb, var(--ia-red), transparent 45%);
+  background: rgba(243, 139, 168, 0.13);
+}
+
+.markdown-preview-view h3[data-heading="追问"] {
+  color: var(--ia-purple);
+  border-color: color-mix(in srgb, var(--ia-purple), transparent 45%);
+  background: rgba(203, 166, 247, 0.13);
+}
+
+.markdown-preview-view h3[data-heading="评分提示"] {
+  color: var(--ia-orange);
+  border-color: color-mix(in srgb, var(--ia-orange), transparent 45%);
+  background: rgba(250, 179, 135, 0.13);
+}
+
+.markdown-preview-view h3[data-heading="分类"],
+.markdown-preview-view h3[data-heading="状态"],
+.markdown-preview-view h3[data-heading="说明"] {
+  color: var(--ia-teal);
+}
+
+.markdown-preview-view a {
+  color: var(--ia-blue);
+  font-weight: 600;
+}
+
+.markdown-preview-view code {
+  color: var(--ia-yellow);
+  background: rgba(249, 226, 175, 0.12);
+  border: 1px solid rgba(249, 226, 175, 0.2);
+}
+
+.markdown-preview-view blockquote {
+  border-left-color: var(--ia-purple);
+  background: rgba(203, 166, 247, 0.08);
+  border-radius: 0 6px 6px 0;
+  padding: 0.8em 1em;
+}
+
+.markdown-preview-view ul > li::marker {
+  color: var(--ia-blue);
+}
+
+.markdown-preview-view ol > li::marker {
+  color: var(--ia-purple);
+  font-weight: 800;
+}
+
+.markdown-preview-view strong {
+  color: var(--ia-yellow);
+}
+
+.markdown-preview-view hr {
+  border-color: var(--ia-border);
+}
+

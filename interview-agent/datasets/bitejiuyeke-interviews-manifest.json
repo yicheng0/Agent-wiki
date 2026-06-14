@@ -1,0 +1,3597 @@
+{
+  "source": "https://xiaozhao.bitejiuyeke.com",
+  "pages": {
+    "2009187286014468098": {
+      "title": "不鸣科技-引擎工具开发工程师实习-二面",
+      "company": "不鸣科技",
+      "post": "引擎开发工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/不鸣科技/2009187286014468098-不鸣科技-引擎工具开发工程师实习-二面.md",
+      "content_hash": "0b3a411494b6832957a3ef480517116ce0107c3b60e4726d24b7d2f767b67688",
+      "updated_at": "2026-06-12T12:06:21+00:00"
+    },
+    "2014633931686453249": {
+      "title": "字节跳动 抖音直播后端实习 一面",
+      "company": "字节跳动",
+      "post": "后端开发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/字节跳动/2014633931686453249-字节跳动-抖音直播后端实习-一面.md",
+      "content_hash": "4827a90849aeddd8d726666a330c0f48f21d7ee80d885822a46cb470bc2814e6",
+      "updated_at": "2026-06-12T12:06:21+00:00"
+    },
+    "1895668628626280449": {
+      "title": "腾讯云智一面+二面+三面+HR面",
+      "company": "腾讯云智研发公司",
+      "post": "csig腾讯云后台开发",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/腾讯云智研发公司/1895668628626280449-腾讯云智一面+二面+三面+HR面.md",
+      "content_hash": "186fd54f01cc39a91fa7a3804812f18faceec0fc23e2c47709fe7f059142b238",
+      "updated_at": "2026-06-12T12:06:21+00:00"
+    },
+    "2011338278357147649": {
+      "title": "字节跳动-广告业务开发-一面-实习",
+      "company": "字节跳动",
+      "post": "Java开发工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/字节跳动/2011338278357147649-字节跳动-广告业务开发-一面-实习.md",
+      "content_hash": "8179318fadb935844660b48c34fe074b7b93f7e59552839e4fe1bf81fc54fef3",
+      "updated_at": "2026-06-12T12:06:22+00:00"
+    },
+    "1994660918438293505": {
+      "title": "字节跳动 测试开发（暑期实习） 一面",
+      "company": "字节跳动",
+      "post": "测试开发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/字节跳动/1994660918438293505-字节跳动-测试开发（暑期实习）-一面.md",
+      "content_hash": "f82984e7b0261c011e0a47ac6073e74e1f596d6f5960d1ccdae01c42e2130aa4",
+      "updated_at": "2026-06-12T12:06:22+00:00"
+    },
+    "1945062451722498049": {
+      "title": "多益网络",
+      "company": "多益网络",
+      "post": "游戏服务器开发",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/多益网络/1945062451722498049-多益网络.md",
+      "content_hash": "865b00c8d01ab1d4db467b0fd09352a5be71fdec90b2fae8ff53b8544f2e039e",
+      "updated_at": "2026-06-12T12:06:34+00:00"
+    },
+    "2014347250588622849": {
+      "title": "百度测开一面",
+      "company": "百度",
+      "post": "测试开发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/百度/2014347250588622849-百度测开一面.md",
+      "content_hash": "1846098fc262969fbee06c9392c3ab1c300d06db1a8d792a476de1fa137a100c",
+      "updated_at": "2026-06-12T12:06:34+00:00"
+    },
+    "1999729951789465602": {
+      "title": "字节-后台开发",
+      "company": "字节跳动",
+      "post": "后台开发实习",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/字节跳动/1999729951789465602-字节-后台开发.md",
+      "content_hash": "4a4ea693994b944d335cebf0514c9cf6a5764b1b87d3842c16e5a871dc86eecb",
+      "updated_at": "2026-06-12T12:06:34+00:00"
+    },
+    "2008795739573952514": {
+      "title": "不鸣科技-引擎开发工程师（实习）一面",
+      "company": "不鸣科技",
+      "post": "引擎开发工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/不鸣科技/2008795739573952514-不鸣科技-引擎开发工程师（实习）一面.md",
+      "content_hash": "c42af6914a2878ea064ce053976832cd1722d24bc1f08109236f8fd565818b86",
+      "updated_at": "2026-06-12T12:06:34+00:00"
+    },
+    "2009541256180375554": {
+      "title": "字节跳动Java开发一面",
+      "company": "字节跳动",
+      "post": "java后端",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/字节跳动/2009541256180375554-字节跳动Java开发一面.md",
+      "content_hash": "d163186e22d4ed056dab655b6b9835e022a06bb4ba51bfa6844613ed54850dde",
+      "updated_at": "2026-06-12T12:06:35+00:00"
+    },
+    "2013424971767775234": {
+      "title": "网易C++一面",
+      "company": "网易",
+      "post": "C++实习生",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/网易/2013424971767775234-网易C++一面.md",
+      "content_hash": "49c5ba693038e1a7e0128fcd2108be2a15fac3d4d8e291471ae56cb920eacebf",
+      "updated_at": "2026-06-12T12:06:35+00:00"
+    },
+    "1854360179686973441": {
+      "title": "影石Insta360    测试  实习 一面",
+      "company": "影石Insta360",
+      "post": "测试工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/影石Insta360/1854360179686973441-影石Insta360-测试-实习-一面.md",
+      "content_hash": "e77395eda73d643d3b5d398e38568155f7c0d1a89c5a5b55e9602cf796343d11",
+      "updated_at": "2026-06-12T12:06:35+00:00"
+    },
+    "2015809275508465665": {
+      "title": "度小满(北京)-数据库后端研发实习生-一面-二面-HR面",
+      "company": "度小满",
+      "post": "数据库研发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/度小满/2015809275508465665-度小满(北京)-数据库后端研发实习生-一面-二面-HR面.md",
+      "content_hash": "5d4088fdd22c6d325a5d2d807bd472aa0427ae98c8087ff34253aa165c1dce48",
+      "updated_at": "2026-06-12T12:06:36+00:00"
+    },
+    "1829075160143970306": {
+      "title": "字节跳动 后端开发 一面",
+      "company": "字节跳动",
+      "post": "后端开发",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/字节跳动/1829075160143970306-字节跳动-后端开发-一面.md",
+      "content_hash": "321a0adf60d0ce9fcdabf4537d6b825a173b5977f2df581a41a27054830d0f4d",
+      "updated_at": "2026-06-12T12:06:36+00:00"
+    },
+    "2020870635913138178": {
+      "title": "腾讯微信客户端 一面 二面",
+      "company": "腾讯",
+      "post": "客户端开发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/腾讯/2020870635913138178-腾讯微信客户端-一面-二面.md",
+      "content_hash": "38d0e0d69bd0daff4f2deb9a0d510eb54b316e2069251cb142c2c8ec4f951441",
+      "updated_at": "2026-06-12T12:06:36+00:00"
+    },
+    "1978039035865493505": {
+      "title": "字节跳动校招-客户端实习-生活服务岗位一面",
+      "company": "字节跳动",
+      "post": "客户端开发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/字节跳动/1978039035865493505-字节跳动校招-客户端实习-生活服务岗位一面.md",
+      "content_hash": "baddeea9510fc907bce679e43eb7a47f5c1bb16cb1fe773819e3b654d57f70b0",
+      "updated_at": "2026-06-12T12:06:36+00:00"
+    },
+    "2017131427570589697": {
+      "title": "西门子软件测试",
+      "company": "西门子",
+      "post": "软件测试工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/西门子/2017131427570589697-西门子软件测试.md",
+      "content_hash": "4963b73d1370d25c6f5e5d420f1f15e5b9b73a693e858bcb652f0c7334a7dab3",
+      "updated_at": "2026-06-12T12:06:37+00:00"
+    },
+    "1827964406644817922": {
+      "title": "诺瓦星云 一面 C++",
+      "company": "诺瓦星云",
+      "post": "软件研发工程师",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/诺瓦星云/1827964406644817922-诺瓦星云-一面-C++.md",
+      "content_hash": "a9b353a9a58a794b8f28fecb83ebfb65fedb1f51679598ce604a8c39abde8757",
+      "updated_at": "2026-06-12T12:06:37+00:00"
+    },
+    "2008784077672390657": {
+      "title": "不鸣科技-引擎工具开发工程师-实习-一面",
+      "company": "不鸣科技",
+      "post": "引擎开发工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/不鸣科技/2008784077672390657-不鸣科技-引擎工具开发工程师-实习-一面.md",
+      "content_hash": "6664a35918418dbf0a807b69260150f29030ec2998baca313d583d119bf50d80",
+      "updated_at": "2026-06-12T12:06:38+00:00"
+    },
+    "2032089312712937473": {
+      "title": "虾皮测开一面",
+      "company": "虾皮（Shopee）",
+      "post": "测试开发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/虾皮（Shopee）/2032089312712937473-虾皮测开一面.md",
+      "content_hash": "b10895433a4cce62175a639e6ac55539cc6096a18b291fb5393b9bc0787648af",
+      "updated_at": "2026-06-12T12:06:38+00:00"
+    },
+    "1906890142906195970": {
+      "title": "西安腾讯云智 - 后台开发 - C++ - 实习 - 一面",
+      "company": "腾讯云智研发公司",
+      "post": "后台开发实习",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/腾讯云智研发公司/1906890142906195970-西安腾讯云智---后台开发---C++---实习---一面.md",
+      "content_hash": "6dd0618787aaf58e5c2732ffbbce3cd0a72010594962a8669f6ef46c8977754f",
+      "updated_at": "2026-06-12T12:06:38+00:00"
+    },
+    "1985954398871699458": {
+      "title": "多益网络 游戏服务器 一面",
+      "company": "多益网络",
+      "post": "游戏服务器开发",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/多益网络/1985954398871699458-多益网络-游戏服务器-一面.md",
+      "content_hash": "ee569a6bb84ca850d34c53cd511c39fca9b3094479d68f95185191611884a0b3",
+      "updated_at": "2026-06-12T12:06:39+00:00"
+    },
+    "2038304250095677442": {
+      "title": "CVTE",
+      "company": "CVTE视源股份",
+      "post": "应用开发工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/CVTE视源股份/2038304250095677442-CVTE.md",
+      "content_hash": "9dc4c4d1250d7d998f41c4bbd996e2c3fe72b6772c204b455b3769f8efef1a83",
+      "updated_at": "2026-06-12T12:06:39+00:00"
+    },
+    "1833480532678094850": {
+      "title": "多益网络 一面C++",
+      "company": "多益网络",
+      "post": "游戏服务器开发",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/多益网络/1833480532678094850-多益网络-一面C++.md",
+      "content_hash": "5cb53b0926ca61196d90731d326a23672d1cfc25fdc85c1a682e4ba38b7b940d",
+      "updated_at": "2026-06-12T12:06:39+00:00"
+    },
+    "1897589955394211841": {
+      "title": "字节跳动 C++后端实习",
+      "company": "字节跳动",
+      "post": "后端开发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/字节跳动/1897589955394211841-字节跳动-C++后端实习.md",
+      "content_hash": "353e9ac82547cc1a4772676c1cf4b00819f181597817b77b16b0ee0cb9f45639",
+      "updated_at": "2026-06-12T12:06:39+00:00"
+    },
+    "2040004068174127106": {
+      "title": "安徽元琛环保科技技术一面(技术面试官 和 hr同时面)",
+      "company": "安徽元琛环保科技",
+      "post": "前端工程师",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/安徽元琛环保科技/2040004068174127106-安徽元琛环保科技技术一面(技术面试官-和-hr同时面).md",
+      "content_hash": "efd88c237fb4cecee3633f16376a2241a8842aedbc065c9061635608af1a8c53",
+      "updated_at": "2026-06-12T12:06:40+00:00"
+    },
+    "2013424604590014466": {
+      "title": "字节客户端一面",
+      "company": "字节跳动",
+      "post": "C++客户端开发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/字节跳动/2013424604590014466-字节客户端一面.md",
+      "content_hash": "be3bfea71d223855a579bb52e4a1741f4227bb3b6160473cbcac1a54754c9a2e",
+      "updated_at": "2026-06-12T12:06:40+00:00"
+    },
+    "2027230979594027009": {
+      "title": "金山办公软件测试一面面经",
+      "company": "金山WPS",
+      "post": "测试开发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/金山WPS/2027230979594027009-金山办公软件测试一面面经.md",
+      "content_hash": "365904ec6c0d60a2f76050705f873d48de57788fcb15836d84310a32b17467f3",
+      "updated_at": "2026-06-12T12:06:40+00:00"
+    },
+    "2019739893866823682": {
+      "title": "共道科技测试实习一面",
+      "company": "共道网络科技",
+      "post": "测试开发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/共道网络科技/2019739893866823682-共道科技测试实习一面.md",
+      "content_hash": "e7618de6dd095d2c0fa5d66975e7d8d4430aa4ecbdfce831862b8bc2b7bcaaaf",
+      "updated_at": "2026-06-12T12:06:40+00:00"
+    },
+    "1905639844858437633": {
+      "title": "优荞软件 面经",
+      "company": "优荞软件科技(武汉)有限公司",
+      "post": "QT",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/优荞软件科技(武汉)有限公司/1905639844858437633-优荞软件-面经.md",
+      "content_hash": "0cc92161da218d1948ad5818a11a2c0bd559201c6c9cebd58e129e47ff0f4834",
+      "updated_at": "2026-06-12T12:06:41+00:00"
+    },
+    "2035191360404828162": {
+      "title": "元绎娱乐 C++游戏服务器开发 实习",
+      "company": "元绎娱乐",
+      "post": "游戏服务器开发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/元绎娱乐/2035191360404828162-元绎娱乐-C++游戏服务器开发-实习.md",
+      "content_hash": "118da5817dcc04bac6fe2a7c640abb38dad3d3b364933af7139ce256167f054b",
+      "updated_at": "2026-06-12T12:06:41+00:00"
+    },
+    "1889566318250627073": {
+      "title": "腾讯 cdg 后端一面 (80min)",
+      "company": "腾讯科技（深圳）有限公司",
+      "post": "后端开发",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/腾讯科技（深圳）有限公司/1889566318250627073-腾讯-cdg-后端一面-(80min).md",
+      "content_hash": "cfb72d3c5b703e915b8f24b811e81020993e9483752c21515d16bb83ab95b06f",
+      "updated_at": "2026-06-12T12:06:41+00:00"
+    },
+    "1834164236656259073": {
+      "title": "九韶智能 C++开发",
+      "company": "九韶智能",
+      "post": "c++开发工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/九韶智能/1834164236656259073-九韶智能-C++开发.md",
+      "content_hash": "5aa95ba8d15269e4f12b7f33cd52493f069d01f0b2e7fa20e6ac2ceab1418411",
+      "updated_at": "2026-06-12T12:06:42+00:00"
+    },
+    "1922516398280458241": {
+      "title": "优荞软件面试",
+      "company": "优荞软件科技(武汉)有限公司",
+      "post": "QT开发工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/优荞软件科技(武汉)有限公司/1922516398280458241-优荞软件面试.md",
+      "content_hash": "560b028e3ec483e2ef03a8c1deefceb83e5636bc1f962bf14cfd77d2c7263cc7",
+      "updated_at": "2026-06-12T12:06:42+00:00"
+    },
+    "2037193937002639362": {
+      "title": "字节跳动飞书后端日常实习一面",
+      "company": "字节跳动",
+      "post": "后端开发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/字节跳动/2037193937002639362-字节跳动飞书后端日常实习一面.md",
+      "content_hash": "f88956c2382e858d006cb5267d3e98e850b5ea195107d565d60a21d7af42b741",
+      "updated_at": "2026-06-12T12:06:42+00:00"
+    },
+    "2009564805976793090": {
+      "title": "金山世游客户端开发实习生面试——C++",
+      "company": "金山游戏",
+      "post": "C++客户端开发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/金山游戏/2009564805976793090-金山世游客户端开发实习生面试——C++.md",
+      "content_hash": "c05619a7797efd4e80078e32ba7ec478517350ff4f08bfaf9a9b44d4e5888c9d",
+      "updated_at": "2026-06-12T12:06:42+00:00"
+    },
+    "1833820476353228801": {
+      "title": "畅聊天下 C++服务器开发",
+      "company": "北京畅聊天下科技股份有限公司",
+      "post": "C++服务器开发工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/北京畅聊天下科技股份有限公司/1833820476353228801-畅聊天下-C++服务器开发.md",
+      "content_hash": "abb0441f7c984c8e6b551acf8c7706e5d3f6d1dc4e43a164f9640f22366fb626",
+      "updated_at": "2026-06-12T12:06:43+00:00"
+    },
+    "1999745437071753217": {
+      "title": "云智-后台开发",
+      "company": "腾讯云智研发公司",
+      "post": "后台开发实习",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/腾讯云智研发公司/1999745437071753217-云智-后台开发.md",
+      "content_hash": "afe837615d1c1048d789e0ca83d890c5f0f393a34b036d6d0c3a01b654b524a6",
+      "updated_at": "2026-06-12T12:06:43+00:00"
+    },
+    "1900014646851473409": {
+      "title": "核桃编程笔试题",
+      "company": "核桃编程",
+      "post": "开发实习生",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/核桃编程/1900014646851473409-核桃编程笔试题.md",
+      "content_hash": "8c24c6b2c49ae588d3dfb96fb4dee6d48aa114c574b20562afc4c85454d2689f",
+      "updated_at": "2026-06-12T12:06:43+00:00"
+    },
+    "1895034032121384961": {
+      "title": "【字节跳动】飞书后端开发暑期实习一面",
+      "company": "字节跳动",
+      "post": "后端开发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/字节跳动/1895034032121384961-【字节跳动】飞书后端开发暑期实习一面.md",
+      "content_hash": "d4732224bae98d61ade437cd153471d894a6361e306f204fad6d67b59cc36af7",
+      "updated_at": "2026-06-12T12:06:44+00:00"
+    },
+    "1982282384466141186": {
+      "title": "网易互娱游戏研发岗位一面",
+      "company": "网易互娱",
+      "post": "游戏开发工程师",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/网易互娱/1982282384466141186-网易互娱游戏研发岗位一面.md",
+      "content_hash": "6069e52b23903698cf88708d3b27b38252cdee9fcd98efc9c078f5a86182371d",
+      "updated_at": "2026-06-12T12:06:44+00:00"
+    },
+    "2032390808805478402": {
+      "title": "用友——java开发",
+      "company": "用友",
+      "post": "Java开发工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/用友/2032390808805478402-用友——java开发.md",
+      "content_hash": "dbfb28ab4a3970dbbeaa5ff35e59dec1e7f7509b7afd3c410aeab4de794806ee",
+      "updated_at": "2026-06-12T12:06:44+00:00"
+    },
+    "1827971086086520833": {
+      "title": "灵犀互娱 服务器开发一面(C++)",
+      "company": "灵犀互娱",
+      "post": "游戏服务器开发",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/灵犀互娱/1827971086086520833-灵犀互娱-服务器开发一面(C++).md",
+      "content_hash": "227e166b35b0a6be1c042d43607b707edca168dca9002b9b0aed6ac978e5944b",
+      "updated_at": "2026-06-12T12:06:45+00:00"
+    },
+    "2010529571436208130": {
+      "title": "字节今日头条后端开发一面",
+      "company": "字节跳动",
+      "post": "后端开发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/字节跳动/2010529571436208130-字节今日头条后端开发一面.md",
+      "content_hash": "ff6708bca1c4c398b1ea0f7c87dbd68ba4b1797a9a243468a68b1b3394518aed",
+      "updated_at": "2026-06-12T12:06:45+00:00"
+    },
+    "2041807221576097794": {
+      "title": "欢聚时代集团-测试开发-实习一面",
+      "company": "欢聚时代",
+      "post": "测试开发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/欢聚时代/2041807221576097794-欢聚时代集团-测试开发-实习一面.md",
+      "content_hash": "d1c30e0cdc100e9951e343d67bcfc2933562886ac3d2901b9078b9e2975779cd",
+      "updated_at": "2026-06-12T12:06:45+00:00"
+    },
+    "1897593993506525185": {
+      "title": "腾讯wxg(小程序)一面面经",
+      "company": "腾讯",
+      "post": "后台开发实习",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/腾讯/1897593993506525185-腾讯wxg(小程序)一面面经.md",
+      "content_hash": "6528444155de1bd8bb240b2cbb1b84bd935a33ad660065d726fc7da6023022e9",
+      "updated_at": "2026-06-12T12:06:45+00:00"
+    },
+    "2008435953317683201": {
+      "title": "快手可灵后端Java实习一面",
+      "company": "快手",
+      "post": "java后端",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/快手/2008435953317683201-快手可灵后端Java实习一面.md",
+      "content_hash": "cbf6c0dec750b9ffcdbe6c7ed6cce874d766cfd7ca5841df6cb3f6ea851d069e",
+      "updated_at": "2026-06-12T12:06:46+00:00"
+    },
+    "2013528183338336257": {
+      "title": "腾讯客户端一面",
+      "company": "腾讯音乐娱乐集团",
+      "post": "客户端开发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/腾讯音乐娱乐集团/2013528183338336257-腾讯客户端一面.md",
+      "content_hash": "c8fad3f4b245435d59a44c8bd3b4c0b06331dd50d41a84bac98f7a3b236889ee",
+      "updated_at": "2026-06-12T12:06:46+00:00"
+    },
+    "1993587737476624385": {
+      "title": "CVTE 应用软件工程师 一面+HR面",
+      "company": "CVTE视源股份",
+      "post": "应用软件开发工程师",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/CVTE视源股份/1993587737476624385-CVTE-应用软件工程师-一面+HR面.md",
+      "content_hash": "2cf15a8310f7cc3b8ad198573b4c2a070de95874a31e5683f8f1f0c7726c1cba",
+      "updated_at": "2026-06-12T12:06:46+00:00"
+    },
+    "2038845198831693826": {
+      "title": "CVTE 测开 一二面",
+      "company": "CVTE视源股份",
+      "post": "软件测试工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/CVTE视源股份/2038845198831693826-CVTE-测开-一二面.md",
+      "content_hash": "61c3fcbf2b00021ac92c8e68f033651074bcc72b5794a510f7e72fdb11519e56",
+      "updated_at": "2026-06-12T12:06:47+00:00"
+    },
+    "1914147874101174273": {
+      "title": "软牛",
+      "company": "软牛科技",
+      "post": "逆向工程师",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/软牛科技/1914147874101174273-软牛.md",
+      "content_hash": "77d7a18e470a96662c26f2fbb205bd9a869056297229b8da262d32f1a70ea106",
+      "updated_at": "2026-06-12T12:06:47+00:00"
+    },
+    "1999741418521673730": {
+      "title": "腾讯-后台开发",
+      "company": "腾讯",
+      "post": "后台开发实习",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/腾讯/1999741418521673730-腾讯-后台开发.md",
+      "content_hash": "ae54c50ef59e13f347606954354658096ad82fb083f13d5a346d23d04cf4286c",
+      "updated_at": "2026-06-12T12:06:47+00:00"
+    },
+    "2033754519063425025": {
+      "title": "蔚来汽车科技",
+      "company": "蔚来NIO",
+      "post": "C++实习生",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/蔚来NIO/2033754519063425025-蔚来汽车科技.md",
+      "content_hash": "1c0dcdbd432a7a2b175293136911c44ce66becd93c457308805203665ce4927f",
+      "updated_at": "2026-06-12T12:06:47+00:00"
+    },
+    "2034520959920025602": {
+      "title": "京东测开一面",
+      "company": "京东",
+      "post": "测试开发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/京东/2034520959920025602-京东测开一面.md",
+      "content_hash": "62ec19c30bf35f056af02de438a99f50492da7537c8da6b9d8f3dfd02cb0089b",
+      "updated_at": "2026-06-12T12:06:48+00:00"
+    },
+    "1915654843177803778": {
+      "title": "腾讯云智（base长沙）——一、二面",
+      "company": "腾讯云智研发公司",
+      "post": "C++后台开发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/腾讯云智研发公司/1915654843177803778-腾讯云智（base长沙）——一、二面.md",
+      "content_hash": "d66ccfe0af2d95f06a90d3933077c2ab8baa9e7cd1ac8e3fa7b08366a6f93138",
+      "updated_at": "2026-06-12T12:06:48+00:00"
+    },
+    "2030552924527964162": {
+      "title": "杭州安脉盛--视觉软件实习生面经",
+      "company": "杭州安脉盛智能技术有限公司",
+      "post": "视觉软件实习生",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/杭州安脉盛智能技术有限公司/2030552924527964162-杭州安脉盛--视觉软件实习生面经.md",
+      "content_hash": "83d98e67b41f01f0e07b2263122b755538051a47ec3bbf41ffc68808ccb92157",
+      "updated_at": "2026-06-12T12:06:48+00:00"
+    },
+    "1833819772272193538": {
+      "title": "极氪 测试开发",
+      "company": "极氪智能科技",
+      "post": "测试开发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/极氪智能科技/1833819772272193538-极氪-测试开发.md",
+      "content_hash": "b809eca62dc3daaf746bc2422daeef61836eac6732a3319b6cf3a0a7c926b3d1",
+      "updated_at": "2026-06-12T12:06:49+00:00"
+    },
+    "1998971734394322946": {
+      "title": "腾讯互娱(Rust开发)   实习一面",
+      "company": "腾讯",
+      "post": "rust开发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/腾讯/1998971734394322946-腾讯互娱(Rust开发)-实习一面.md",
+      "content_hash": "24b6ad373c6fbbc7f394ecbddb9ae3197212cc0f3fd1f71ef5747129d115c5ee",
+      "updated_at": "2026-06-12T12:06:49+00:00"
+    },
+    "2011264065097146370": {
+      "title": "远大教科-C++实习-一面",
+      "company": "远大教科",
+      "post": "C/C++ 软件开发工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/远大教科/2011264065097146370-远大教科-C++实习-一面.md",
+      "content_hash": "1992e66a1514a805bfa0050c7ff2f11c82529611630d5cc6483ee0e42a9a49f7",
+      "updated_at": "2026-06-12T12:06:49+00:00"
+    },
+    "1954920205610029058": {
+      "title": "多益网络2026秋招 游戏客户端开发工程师 Hr面经",
+      "company": "多益网络",
+      "post": "游戏客户端",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/多益网络/1954920205610029058-多益网络2026秋招-游戏客户端开发工程师-Hr面经.md",
+      "content_hash": "b1d9634da9b041ace200a5b1a48f194a6e3610284bbee66a877bf289ab5d9852",
+      "updated_at": "2026-06-12T12:06:49+00:00"
+    },
+    "2002214040773771266": {
+      "title": "广州四合实习一面",
+      "company": "广州四合创新科技有限公司",
+      "post": "C/C++ 软件开发工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/广州四合创新科技有限公司/2002214040773771266-广州四合实习一面.md",
+      "content_hash": "561da2f172e48f7b8b4c7bb5f879243e61e74f7a4ced2f561f9e7b1583b8e688",
+      "updated_at": "2026-06-12T12:06:50+00:00"
+    },
+    "2027186087958315010": {
+      "title": "腾讯云开发一面",
+      "company": "腾讯云",
+      "post": "java后端",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/腾讯云/2027186087958315010-腾讯云开发一面.md",
+      "content_hash": "fc7538f9c7d3d8f24d6b39f5cdcb109812c0171eee6a14a95ac980cd1cdde379",
+      "updated_at": "2026-06-12T12:06:50+00:00"
+    },
+    "1921839265791000578": {
+      "title": "滴滴一、二面（26届秋储-系统实习生-系统）",
+      "company": "滴滴",
+      "post": "操作系统实习生",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/滴滴/1921839265791000578-滴滴一、二面（26届秋储-系统实习生-系统）.md",
+      "content_hash": "4414d3ed17132199797c29b8223d2ab8afdc61258d56f54747e058d0e3e86747",
+      "updated_at": "2026-06-12T12:06:50+00:00"
+    },
+    "1924447653171478529": {
+      "title": "网易雷火游开(服务器方向）",
+      "company": "网易雷火",
+      "post": "C++游戏开发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/网易雷火/1924447653171478529-网易雷火游开(服务器方向）.md",
+      "content_hash": "02a0a5326769ff93d2b421777f7e25a92e85e2344de5571de2b1a56ed97f59d1",
+      "updated_at": "2026-06-12T12:06:51+00:00"
+    },
+    "1901555502070841346": {
+      "title": "苏州金以太网络科技-软件工程师(实习)面经",
+      "company": "苏州金以太网络科技有限公司",
+      "post": "软件工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/苏州金以太网络科技有限公司/1901555502070841346-苏州金以太网络科技-软件工程师(实习)面经.md",
+      "content_hash": "702657556b3ef4a93acc80604bb40a1145169070f6f7dc3aa0526d5d0c90d5c2",
+      "updated_at": "2026-06-12T12:06:51+00:00"
+    },
+    "1993959592641327106": {
+      "title": "软牛科技集团 -- C++逆向开发 一面",
+      "company": "软牛科技",
+      "post": "C++软件开发工程师",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/软牛科技/1993959592641327106-软牛科技集团----C++逆向开发-一面.md",
+      "content_hash": "21fc6c937f47d624f36fbef5fea706e82558bc31481910c9319575d3beab567f",
+      "updated_at": "2026-06-12T12:06:51+00:00"
+    },
+    "1923704187441299457": {
+      "title": "腾讯 - 客户端开发 - 三面",
+      "company": "腾讯",
+      "post": "C++客户端开发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/腾讯/1923704187441299457-腾讯---客户端开发---三面.md",
+      "content_hash": "5f2b8f8c0f3aff4a5e97b0189b296224133d0826fdc5986c1b634ca3f681f6e7",
+      "updated_at": "2026-06-12T12:06:52+00:00"
+    },
+    "1995145011626143746": {
+      "title": "软牛-逆向开发工程师-一面 面经整理",
+      "company": "软牛科技",
+      "post": "pc逆向开发工程师",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/软牛科技/1995145011626143746-软牛-逆向开发工程师-一面-面经整理.md",
+      "content_hash": "c572f41213f3a9fb63d6becaa82b5e3e521d916e6f2482d5fdb608889c359292",
+      "updated_at": "2026-06-12T12:06:52+00:00"
+    },
+    "2038553350003175426": {
+      "title": "拼多多暑期实习C++服务端研发一面",
+      "company": "拼多多",
+      "post": "C++服务器开发工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/拼多多/2038553350003175426-拼多多暑期实习C++服务端研发一面.md",
+      "content_hash": "55002a105685b8f4f6c4e337b43859c6fa69cd4cb91ebef04f243fbdab214162",
+      "updated_at": "2026-06-12T12:06:52+00:00"
+    },
+    "2036404536739782657": {
+      "title": "成都迅维信息技术有限公司 qt开发实习生 一面",
+      "company": "成都迅维信息技术有限公司",
+      "post": "QT",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/成都迅维信息技术有限公司/2036404536739782657-成都迅维信息技术有限公司-qt开发实习生-一面.md",
+      "content_hash": "93b2bdb43902a14bd7bfe8a811dbe6cacc952b364bfe8dd769a9ba72c583bf81",
+      "updated_at": "2026-06-12T12:06:52+00:00"
+    },
+    "2052302569624997889": {
+      "title": "上海天漠科一面",
+      "company": "上海天漠科技术有限公司",
+      "post": "后台开发实习",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/上海天漠科技术有限公司/2052302569624997889-上海天漠科一面.md",
+      "content_hash": "46347bdba16ffc4ca537cf7abe07dbe7c763ad36e59d06aeddcdb07c1bb3c932",
+      "updated_at": "2026-06-12T12:06:53+00:00"
+    },
+    "1903793001774137345": {
+      "title": "华勤技术（西安）测试 二面",
+      "company": "华勤技术股份有限公司",
+      "post": "软件测试实习生",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/华勤技术股份有限公司/1903793001774137345-华勤技术（西安）测试-二面.md",
+      "content_hash": "0f5302daa9033144132f50297bf08922ad2845d20bee001bd33482db6dc7c91d",
+      "updated_at": "2026-06-12T12:06:53+00:00"
+    },
+    "1831974416416714753": {
+      "title": "灵犀互娱 服务器开发(二面,HR面)",
+      "company": "灵犀互娱",
+      "post": "游戏服务器开发",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/灵犀互娱/1831974416416714753-灵犀互娱-服务器开发(二面,HR面).md",
+      "content_hash": "e2148f842679064eec16c5ab4747e47036a940a34c181c9e456b05e578ba329f",
+      "updated_at": "2026-06-12T12:06:53+00:00"
+    },
+    "2033033084607012866": {
+      "title": "浩瀚深度",
+      "company": "浩瀚深度信息",
+      "post": "C++实习生",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/浩瀚深度信息/2033033084607012866-浩瀚深度.md",
+      "content_hash": "bfa05ea603f61ec299670ce8b51f389d26e4bcfb2524b5af85cc275d9d750a0c",
+      "updated_at": "2026-06-12T12:06:54+00:00"
+    },
+    "2039255264466546689": {
+      "title": "腾讯一面-软件开发后台开发-TEG 计费平台部门",
+      "company": "腾讯",
+      "post": "软件开发",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/腾讯/2039255264466546689-腾讯一面-软件开发后台开发-TEG-计费平台部门.md",
+      "content_hash": "e9d777a050a4cebda9cbb3c626e94f91364dadf238b552e5925b7dc92c56224e",
+      "updated_at": "2026-06-12T12:06:54+00:00"
+    },
+    "1889947305283358722": {
+      "title": "腾讯 CDG 后面二面 (70min)",
+      "company": "腾讯科技（深圳）有限公司",
+      "post": "后端开发",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/腾讯科技（深圳）有限公司/1889947305283358722-腾讯-CDG-后面二面-(70min).md",
+      "content_hash": "ec39021dbfc122b2e5a9fe861d091095941e7a9a5f49b77dab4115f1f44ccbdc",
+      "updated_at": "2026-06-12T12:06:54+00:00"
+    },
+    "1914874083311263745": {
+      "title": "深信服一面(线下)，已oc：",
+      "company": "深信服",
+      "post": "C++后台开发",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/深信服/1914874083311263745-深信服一面(线下)，已oc：.md",
+      "content_hash": "a3c58ee5e862b619eef6507e11500f49127b2542fc5aacb82fa1201b3724fe04",
+      "updated_at": "2026-06-12T12:06:55+00:00"
+    },
+    "1931926414670348290": {
+      "title": "武汉微派游戏服务器后端实习生一面",
+      "company": "微派网络科技",
+      "post": "服务器开发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/微派网络科技/1931926414670348290-武汉微派游戏服务器后端实习生一面.md",
+      "content_hash": "d248ae9b99c3d87f1eeeddd2a48188a0ef622279b5bd7285f72898fdf64aa2bc",
+      "updated_at": "2026-06-12T12:06:55+00:00"
+    },
+    "1920772594095538177": {
+      "title": "C++腾娱一面+二面-服务器开发实习",
+      "company": "深圳市腾娱互动科技有限公司",
+      "post": "服务器开发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/深圳市腾娱互动科技有限公司/1920772594095538177-C++腾娱一面+二面-服务器开发实习.md",
+      "content_hash": "968c2ce4c9b8ccaab89ea75891d0da819ae3530cd65077adb6c29c3958a98fb5",
+      "updated_at": "2026-06-12T12:06:55+00:00"
+    },
+    "1954919909462806530": {
+      "title": "多益网络 2026秋招 C++游戏客户端开发工程师  技术面",
+      "company": "多益网络",
+      "post": "游戏客户端",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/多益网络/1954919909462806530-多益网络-2026秋招-C++游戏客户端开发工程师-技术面.md",
+      "content_hash": "8e1ab9e37a4b861db8a070f6bc4a1c48e5491fbc323ff854ed4e6344581e3f85",
+      "updated_at": "2026-06-12T12:06:55+00:00"
+    },
+    "2016812372573757441": {
+      "title": "创梦天地游戏测试一面",
+      "company": "深圳市创梦天地科技有限公司",
+      "post": "游戏测试",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/深圳市创梦天地科技有限公司/2016812372573757441-创梦天地游戏测试一面.md",
+      "content_hash": "e44a2a2109fe3c4b20c0086b6e86fcd2c3567ac9cdbbb3eb588d7b9fd522c3e5",
+      "updated_at": "2026-06-12T12:06:56+00:00"
+    },
+    "1706635198918914049": {
+      "title": "特斯拉C++软件工程师一面",
+      "company": "特斯拉",
+      "post": "C++软件开发工程师",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/特斯拉/1706635198918914049-特斯拉C++软件工程师一面.md",
+      "content_hash": "32a78f0c21cd0da5ea1150834a6318a1c36cb69a02483305adb6f48e27afb041",
+      "updated_at": "2026-06-12T12:06:56+00:00"
+    },
+    "1943609323303120897": {
+      "title": "字节客户端开发",
+      "company": "字节跳动",
+      "post": "客户端开发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/字节跳动/1943609323303120897-字节客户端开发.md",
+      "content_hash": "64e6ad8a2f566962821c4387e14d7835bee74d283e0e45869ad3f5c09f230a5d",
+      "updated_at": "2026-06-12T12:06:56+00:00"
+    },
+    "1982009250429165570": {
+      "title": "华为三面（主管压力面）",
+      "company": "华为",
+      "post": "软件研发工程师",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/华为/1982009250429165570-华为三面（主管压力面）.md",
+      "content_hash": "6b0c819bf482165a978649d6e15d16700eee1cbf8727de95596ebef1ae952758",
+      "updated_at": "2026-06-12T12:06:57+00:00"
+    },
+    "1910930443455062017": {
+      "title": "松鼠Ai测试开发实习一二面",
+      "company": "上海松鼠云上人工智能技术有限公司",
+      "post": "测试开发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/上海松鼠云上人工智能技术有限公司/1910930443455062017-松鼠Ai测试开发实习一二面.md",
+      "content_hash": "f331cf91df013188a4715ff6ea809eedbfd8d0d786420b23475d6ed003025c89",
+      "updated_at": "2026-06-12T12:06:57+00:00"
+    },
+    "2039907722373029890": {
+      "title": "珠海全志科技 一二面",
+      "company": "全志科技",
+      "post": "软件测试工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/全志科技/2039907722373029890-珠海全志科技-一二面.md",
+      "content_hash": "dcf390d2ac962984758389530724ae40216f7d7937dedd1930c65968c73ad135",
+      "updated_at": "2026-06-12T12:06:57+00:00"
+    },
+    "2013888245462368257": {
+      "title": "实在智能-Java开发-实习一面",
+      "company": "浙江实在智能科技有限公司",
+      "post": "Java开发工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/浙江实在智能科技有限公司/2013888245462368257-实在智能-Java开发-实习一面.md",
+      "content_hash": "ce6e35734c738932c81d6ccfa579a86801529f4303e7f7d5cfeb3c98b78b90d3",
+      "updated_at": "2026-06-12T12:06:58+00:00"
+    },
+    "2016819011209076738": {
+      "title": "东软一面笔试题",
+      "company": "东软集团",
+      "post": "后端开发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/东软集团/2016819011209076738-东软一面笔试题.md",
+      "content_hash": "5cac2076514957c0d0fa3f5905baf8ddc69745fbb1fcf5185603710dbc54d9d7",
+      "updated_at": "2026-06-12T12:06:58+00:00"
+    },
+    "2024135698476335105": {
+      "title": "智之科技C++实习生一面",
+      "company": "智之科技",
+      "post": "QT",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/智之科技/2024135698476335105-智之科技C++实习生一面.md",
+      "content_hash": "0e6efa7f834547d84dfeb240cad6edacaca39ab902a9d38b242e58799573f621",
+      "updated_at": "2026-06-12T12:06:58+00:00"
+    },
+    "2029015144077373441": {
+      "title": "恒生电子",
+      "company": "恒生电子",
+      "post": "Java开发工程师",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/恒生电子/2029015144077373441-恒生电子.md",
+      "content_hash": "c4e2c9313e421345c2bcaeaa99c3c11a1069f7cfafe67c2a89e5802d3665fade",
+      "updated_at": "2026-06-12T12:06:59+00:00"
+    },
+    "2031271866837938177": {
+      "title": "26.3.10软通动力实习—小米外包测试岗位",
+      "company": "软通动力",
+      "post": "软件测试实习生",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/软通动力/2031271866837938177-26.3.10软通动力实习—小米外包测试岗位.md",
+      "content_hash": "6419e6bd926163c3f806c47d8213c1fbdcd68ca2647b4c9a03ba6dc45809b90c",
+      "updated_at": "2026-06-12T12:06:59+00:00"
+    },
+    "2036403201051090945": {
+      "title": "腾讯后端开发一面",
+      "company": "腾讯",
+      "post": "后端实习生",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/腾讯/2036403201051090945-腾讯后端开发一面.md",
+      "content_hash": "5c96e77ae7d8d6bf8d0d62205f3d79d60ff02cb73d38e697e0a068efdf9609a3",
+      "updated_at": "2026-06-12T12:06:59+00:00"
+    },
+    "2044382173802192897": {
+      "title": "不鸣科技 测试开发 一面",
+      "company": "不鸣科技",
+      "post": "测试开发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/不鸣科技/2044382173802192897-不鸣科技-测试开发-一面.md",
+      "content_hash": "6acd8601aa73b31d072d7d1f0f7b48cd6314bba122248128b966fc1e4e4ed392",
+      "updated_at": "2026-06-12T12:07:00+00:00"
+    },
+    "1904082607279128578": {
+      "title": "成都拾梦网络科技有限公司-面经",
+      "company": "成都拾梦网络科技有限公司",
+      "post": "c++开发工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/成都拾梦网络科技有限公司/1904082607279128578-成都拾梦网络科技有限公司-面经.md",
+      "content_hash": "ce5516b0babaa3547fdca6548842b127d5a97df056c8f5ee1714653bac9981f1",
+      "updated_at": "2026-06-12T12:07:00+00:00"
+    },
+    "1909881939366404097": {
+      "title": "腾讯云智C++后台开发实习 -- 一面",
+      "company": "腾讯云智研发公司",
+      "post": "C++后台开发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/腾讯云智研发公司/1909881939366404097-腾讯云智C++后台开发实习----一面.md",
+      "content_hash": "164b67e8153a1b0d0c1a23c5b7a377ce239f6bc6922ea8d31e29e7a1fc2b36d3",
+      "updated_at": "2026-06-12T12:07:00+00:00"
+    },
+    "1988534310010753026": {
+      "title": "华勤 软件测试一二三面",
+      "company": "华勤技术股份有限公司",
+      "post": "软件测试工程师",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/华勤技术股份有限公司/1988534310010753026-华勤-软件测试一二三面.md",
+      "content_hash": "50ed6484db5363d770f171c6ca12abd823c80317fe3d009a860a60ab134a098a",
+      "updated_at": "2026-06-12T12:07:00+00:00"
+    },
+    "2041774568126734338": {
+      "title": "南京予芯CPP一面",
+      "company": "南京予芯科技有限公司",
+      "post": "c++开发工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/南京予芯科技有限公司/2041774568126734338-南京予芯CPP一面.md",
+      "content_hash": "b8961889d3f1e8282a30a99ae54de9b08b5e274bbd8fa922d35bdc108a352080",
+      "updated_at": "2026-06-12T12:07:01+00:00"
+    },
+    "2046764864187064322": {
+      "title": "虹软科技",
+      "company": "虹软科技",
+      "post": "测试开发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/虹软科技/2046764864187064322-虹软科技.md",
+      "content_hash": "8349a17e7843582578531898919ef44a77d20d2c726d7df61a98c42f09e29f6f",
+      "updated_at": "2026-06-12T12:07:01+00:00"
+    },
+    "1849639933101154305": {
+      "title": "北京感知起源科技有限公司 C/C++实习生",
+      "company": "北京感知起源科技有限公司",
+      "post": "QT开发工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/北京感知起源科技有限公司/1849639933101154305-北京感知起源科技有限公司-C-C++实习生.md",
+      "content_hash": "5c5bea3249ee055fe835a7f09d4994c42f8ad98899d8eea8a3d2f73ceffa8aeb",
+      "updated_at": "2026-06-12T12:07:01+00:00"
+    },
+    "1934608540805042178": {
+      "title": "深信服科技",
+      "company": "深信服",
+      "post": "技术服务工程师",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/深信服/1934608540805042178-深信服科技.md",
+      "content_hash": "483f4c0967413d46a232b8215ee6d4a4d5171713f181b900bfe60e0f5a13754b",
+      "updated_at": "2026-06-12T12:07:01+00:00"
+    },
+    "1915365819707990017": {
+      "title": "中科创达-测开",
+      "company": "中科创达",
+      "post": "测试开发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/中科创达/1915365819707990017-中科创达-测开.md",
+      "content_hash": "fc778710eaca8c0d91c85da745faa84ddf9652a9fdffa7a1b16c0fe4b65025a4",
+      "updated_at": "2026-06-12T12:07:02+00:00"
+    },
+    "2014164230044811266": {
+      "title": "观妙科技",
+      "company": "观妙科技（杭州）有限公司",
+      "post": "Java开发工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/观妙科技（杭州）有限公司/2014164230044811266-观妙科技.md",
+      "content_hash": "dd247928dd5f9f0b5b722cefd1b262f1e804151e3b7c398373aba9e045a76ce9",
+      "updated_at": "2026-06-12T12:07:02+00:00"
+    },
+    "2016037721262202881": {
+      "title": "小马智行-自动驾驶测试实习生（一面）",
+      "company": "小马智行",
+      "post": "自动驾驶测试开发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/小马智行/2016037721262202881-小马智行-自动驾驶测试实习生（一面）.md",
+      "content_hash": "f6a7d848e785937928d020697be15d1ccb258535eb82e141715c1de28a366cdf",
+      "updated_at": "2026-06-12T12:07:02+00:00"
+    },
+    "1848542161467809794": {
+      "title": "momenta实习面经C++",
+      "company": "momenta",
+      "post": "后端开发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/momenta/1848542161467809794-momenta实习面经C++.md",
+      "content_hash": "ec8ff0642aea4a11007aee89725ebe21fa9c8d5772e00acb9d272861cc2821b2",
+      "updated_at": "2026-06-12T12:07:03+00:00"
+    },
+    "1980198612539170818": {
+      "title": "深信服一面",
+      "company": "深信服",
+      "post": "软件研发工程师",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/深信服/1980198612539170818-深信服一面.md",
+      "content_hash": "d0680bbb8b7fc4441574fe8af170e06d9e5204d12d218fe3dc3585b9b2e1ed65",
+      "updated_at": "2026-06-12T12:07:03+00:00"
+    },
+    "2013601855721865218": {
+      "title": "懂车帝 开发 一面",
+      "company": "懂车帝",
+      "post": "Java开发工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/懂车帝/2013601855721865218-懂车帝-开发-一面.md",
+      "content_hash": "d8d52865371b110b85a954462ed10c54163795f50b3b81de07d088c5dc282320",
+      "updated_at": "2026-06-12T12:07:03+00:00"
+    },
+    "1907631243103461378": {
+      "title": "深圳 同行者 笔试题",
+      "company": "同行者科技",
+      "post": "c++开发工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/同行者科技/1907631243103461378-深圳-同行者-笔试题.md",
+      "content_hash": "5d7f2624a5506aab864d38a6ed033de182396271ef13f4956a5063cd3986a79d",
+      "updated_at": "2026-06-12T12:07:04+00:00"
+    },
+    "1982012439039729666": {
+      "title": "吉比特游戏一面",
+      "company": "吉比特",
+      "post": "游戏开发工程师",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/吉比特/1982012439039729666-吉比特游戏一面.md",
+      "content_hash": "93655b17762bd658326c83c77aa3c13e2833cdd2e49680b4aef480589afc010b",
+      "updated_at": "2026-06-12T12:07:04+00:00"
+    },
+    "1901961328564584450": {
+      "title": "北京-着陆页科技-一面-线上-实习",
+      "company": "北京着陆页科技",
+      "post": "物联网工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/北京着陆页科技/1901961328564584450-北京-着陆页科技-一面-线上-实习.md",
+      "content_hash": "af4ae8aa492ab22018905a16333d38806e4dc7586ff668e45b01e299b9a2441f",
+      "updated_at": "2026-06-12T12:07:04+00:00"
+    },
+    "2039983797543297025": {
+      "title": "行至智能一面",
+      "company": "行至智能（北京）技术有限公司",
+      "post": "测试实习生",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/行至智能（北京）技术有限公司/2039983797543297025-行至智能一面.md",
+      "content_hash": "64744cc5a771d5481bbc6de57f0c35817da20f6ce6232fba847dd0afe0097a69",
+      "updated_at": "2026-06-12T12:07:05+00:00"
+    },
+    "2032663950140542977": {
+      "title": "不鸣科技-测试开发",
+      "company": "不鸣科技",
+      "post": "测试开发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/不鸣科技/2032663950140542977-不鸣科技-测试开发.md",
+      "content_hash": "905d711a41546805d1d0fe39f5acbed79b07fc028cea4dc1d8372c9cbedff799",
+      "updated_at": "2026-06-12T12:07:05+00:00"
+    },
+    "2032307920584003585": {
+      "title": "柠檬微趣-测试实习-一面-2026.3.13",
+      "company": "柠檬微趣",
+      "post": "测试实习生",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/柠檬微趣/2032307920584003585-柠檬微趣-测试实习-一面-2026.3.13.md",
+      "content_hash": "3b88d3f3c57c0378acb324ecdb97a0f0c8f439d9174ffb62c7db0a9a8dcc619a",
+      "updated_at": "2026-06-12T12:07:05+00:00"
+    },
+    "2033715927767248897": {
+      "title": "上海艾哲智",
+      "company": "上海艾哲智网络科技有限公司",
+      "post": "测试开发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/上海艾哲智网络科技有限公司/2033715927767248897-上海艾哲智.md",
+      "content_hash": "3b33d188067ccef9db8096330dd8cd95ebd5fecc1a3823047e317fdbf03dba3b",
+      "updated_at": "2026-06-12T12:07:05+00:00"
+    },
+    "1982013827262078977": {
+      "title": "4399游戏一面",
+      "company": "4399",
+      "post": "游戏服务器开发",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/4399/1982013827262078977-4399游戏一面.md",
+      "content_hash": "9b7508122761068550f80ff0859a06562b89353afd7dd82c5f760c2c637b2859",
+      "updated_at": "2026-06-12T12:07:06+00:00"
+    },
+    "1993617907805745153": {
+      "title": "字节跳动  豆包AI C++客户端 实习生一面",
+      "company": "字节跳动",
+      "post": "C++客户端开发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/字节跳动/1993617907805745153-字节跳动-豆包AI-C++客户端-实习生一面.md",
+      "content_hash": "f3476c0055f4df6c7c889239bd43b11903ca82e7bfe46c6c6bc07eee68a3de5c",
+      "updated_at": "2026-06-12T12:07:06+00:00"
+    },
+    "1833820675830132737": {
+      "title": "上海青鹤信息技术有限公司 C++开发",
+      "company": "上海青鹤信息技术有限公司",
+      "post": "c++开发工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/上海青鹤信息技术有限公司/1833820675830132737-上海青鹤信息技术有限公司-C++开发.md",
+      "content_hash": "6cff5eaff71dd038b26c77d86d831471895559b447010c2236fdd0af7db3452f",
+      "updated_at": "2026-06-12T12:07:06+00:00"
+    },
+    "2046505611895431170": {
+      "title": "不鸣科技 测试开发二面",
+      "company": "不鸣科技",
+      "post": "测试开发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/不鸣科技/2046505611895431170-不鸣科技-测试开发二面.md",
+      "content_hash": "2fdfea95479375607e810af9d48b01021e5699c66426449726a03de1cab25848",
+      "updated_at": "2026-06-12T12:07:07+00:00"
+    },
+    "1905599439051825154": {
+      "title": "成都拾梦网络科技有限公司",
+      "company": "成都拾梦网络科技有限公司",
+      "post": "c++开发工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/成都拾梦网络科技有限公司/1905599439051825154-成都拾梦网络科技有限公司.md",
+      "content_hash": "1464ac8a5710a13d145ce678853287fa8197277315218e0d6af64c866b1c15bc",
+      "updated_at": "2026-06-12T12:07:07+00:00"
+    },
+    "1912444718434639874": {
+      "title": "畅聊天下一面 （凉经）",
+      "company": "北京畅聊天下科技股份有限公司",
+      "post": "后端开发",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/北京畅聊天下科技股份有限公司/1912444718434639874-畅聊天下一面-（凉经）.md",
+      "content_hash": "51a21a142ec65c907cdfcbb41ba04beda6f872b4c744ff8a9a5872c9db0e8a3a",
+      "updated_at": "2026-06-12T12:07:07+00:00"
+    },
+    "1891396460883152897": {
+      "title": "粤港澳大湾区数字经济研究院(福田)    C++开发实习生",
+      "company": "粤港澳大湾区数字经济研究院(福田)",
+      "post": "c++开发工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/粤港澳大湾区数字经济研究院(福田)/1891396460883152897-粤港澳大湾区数字经济研究院(福田)-C++开发实习生.md",
+      "content_hash": "4594417a387eb7f3e9c920038dec39374a4d6b60eabde372d58f2d54b3121c12",
+      "updated_at": "2026-06-12T12:07:07+00:00"
+    },
+    "1906213554594127873": {
+      "title": "北京 智协慧同 一面+二面+三面",
+      "company": "智协慧同",
+      "post": "C++实习生",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/智协慧同/1906213554594127873-北京-智协慧同-一面+二面+三面.md",
+      "content_hash": "0fbf8014822f366d343c50b3bb90f6cf02b639e2a39798351890f3da1ea6c25e",
+      "updated_at": "2026-06-12T12:07:08+00:00"
+    },
+    "1970410553744429057": {
+      "title": "step足下科技C++ 一面",
+      "company": "足下科技",
+      "post": "C++软件开发工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/足下科技/1970410553744429057-step足下科技C++-一面.md",
+      "content_hash": "3989de1139d3ec6402c91892dbc55f3045c150dd3e569591831259560d56295f",
+      "updated_at": "2026-06-12T12:07:08+00:00"
+    },
+    "2017137013922144257": {
+      "title": "2026-1-28-智慧用能低碳研究院一面",
+      "company": "智慧用能低碳研究院",
+      "post": "Java开发工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/智慧用能低碳研究院/2017137013922144257-2026-1-28-智慧用能低碳研究院一面.md",
+      "content_hash": "24a4f716a1e349c01d510f037cbd7bc7ee3cb4e592ea429fe4da2b990ec9e4d9",
+      "updated_at": "2026-06-12T12:07:08+00:00"
+    },
+    "2046985198043586562": {
+      "title": "武汉智觉空间 C++开发(Linux软件开发工程师)",
+      "company": "武汉智觉空间",
+      "post": "c++开发工程师",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/武汉智觉空间/2046985198043586562-武汉智觉空间-C++开发(Linux软件开发工程师).md",
+      "content_hash": "47496b5a86a4ac700c742342edd60aa270b685f769a235ea65b83f53bea39049",
+      "updated_at": "2026-06-12T12:07:09+00:00"
+    },
+    "1927994555968176129": {
+      "title": "智之科技-C++ Qt实习生",
+      "company": "智之科技",
+      "post": "C/C++ 软件开发工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/智之科技/1927994555968176129-智之科技-C++-Qt实习生.md",
+      "content_hash": "1a2f471dd04dd435641db08c52f2b67b39268505146967ef0a1e1075140fe356",
+      "updated_at": "2026-06-12T12:07:09+00:00"
+    },
+    "1899767799230697473": {
+      "title": "腾讯QQ部门 一面 45min",
+      "company": "腾讯",
+      "post": "客户端开发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/腾讯/1899767799230697473-腾讯QQ部门-一面-45min.md",
+      "content_hash": "fa368549eab4f3a036ba21a2a4cd303a391dc889e3d8e3f17b7b3967906e2110",
+      "updated_at": "2026-06-12T12:07:09+00:00"
+    },
+    "1911682019413090305": {
+      "title": "【面经】腾讯C++后台开发一面",
+      "company": "腾讯",
+      "post": "C++后台开发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/腾讯/1911682019413090305-【面经】腾讯C++后台开发一面.md",
+      "content_hash": "80b42cffb7c6b485a1848e63d40b12b2e3ecbff44ff7e53e73e876682c6ae83a",
+      "updated_at": "2026-06-12T12:07:10+00:00"
+    },
+    "2039012503192580098": {
+      "title": "通凯科技",
+      "company": "南宁市通凯计算机软件有限责任公司",
+      "post": "后端实习生",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/南宁市通凯计算机软件有限责任公司/2039012503192580098-通凯科技.md",
+      "content_hash": "ebba1a64260f5c77e58afe906278775251c1856921f1a8d118ce0dd981ee2584",
+      "updated_at": "2026-06-12T12:07:10+00:00"
+    },
+    "1140965978441787847": {
+      "title": "米哈游 C++开发 面经（一面）",
+      "company": "米哈游",
+      "post": "C++后台开发",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/米哈游/1140965978441787847-米哈游-C++开发-面经（一面）.md",
+      "content_hash": "23b781d490bbb2dcf2a549278aa34df5028608d4489327850d80982b0a232de0",
+      "updated_at": "2026-06-12T12:07:10+00:00"
+    },
+    "2037364717443297281": {
+      "title": "腾讯校招实习--后台研发部--深圳广州",
+      "company": "腾讯",
+      "post": "后台开发实习",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/腾讯/2037364717443297281-腾讯校招实习--后台研发部--深圳广州.md",
+      "content_hash": "807bdccedf75400b132a579d14b3c50dd2375d546eb2b0002a39dc0276ad6c0a",
+      "updated_at": "2026-06-12T12:07:10+00:00"
+    },
+    "2039524178790375425": {
+      "title": "字节一面",
+      "company": "字节跳动",
+      "post": "Java开发工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/字节跳动/2039524178790375425-字节一面.md",
+      "content_hash": "819aef2407e828966b6a1320723a300856c715d2facdf15794a464a73b5014de",
+      "updated_at": "2026-06-12T12:07:11+00:00"
+    },
+    "2045788875588034561": {
+      "title": "腾讯云客户端开发一面 + 二面",
+      "company": "腾讯云智研发公司",
+      "post": "客户端开发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/腾讯云智研发公司/2045788875588034561-腾讯云客户端开发一面-+-二面.md",
+      "content_hash": "3bd57368b463a33d425f230d4413b67bc367b5851521a36e68ea4b47ec3cfdf2",
+      "updated_at": "2026-06-12T12:07:11+00:00"
+    },
+    "1971287279018053634": {
+      "title": "腾讯wxg-后台开发-一面",
+      "company": "腾讯",
+      "post": "后台开发工程师",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/腾讯/1971287279018053634-腾讯wxg-后台开发-一面.md",
+      "content_hash": "f86fa2853da8925d0330b3f19de6651fa26d015b5fd31961d25843e6e2d2fc30",
+      "updated_at": "2026-06-12T12:07:11+00:00"
+    },
+    "2017136827166564354": {
+      "title": "2026-1-26-实在智能二面",
+      "company": "浙江实在智能科技有限公司",
+      "post": "Java开发工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/浙江实在智能科技有限公司/2017136827166564354-2026-1-26-实在智能二面.md",
+      "content_hash": "c27f3ea709d5128996e29a1f7a6802e7cba6a56312426607c7638c4b6bf0cd61",
+      "updated_at": "2026-06-12T12:07:11+00:00"
+    },
+    "2029456076920762369": {
+      "title": "北京药帮忙科技有限公司-Java实习一面",
+      "company": "北京药帮忙科技有限公司",
+      "post": "java后端",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/北京药帮忙科技有限公司/2029456076920762369-北京药帮忙科技有限公司-Java实习一面.md",
+      "content_hash": "bec84ce0405aa5a9b1bfb95806fbfb1c8cde98e9161ef4563b75502d8dede79a",
+      "updated_at": "2026-06-12T12:07:12+00:00"
+    },
+    "2033716085301112834": {
+      "title": "中控技术",
+      "company": "中控技术",
+      "post": "测试开发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/中控技术/2033716085301112834-中控技术.md",
+      "content_hash": "f5c82365c69ebbc0f442bb8fe99ea03813177ab475ed80ef57e743d49dae557a",
+      "updated_at": "2026-06-12T12:07:12+00:00"
+    },
+    "2039236917800710146": {
+      "title": "元盟科技一 二面",
+      "company": "元盟科技",
+      "post": "软件测试工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/元盟科技/2039236917800710146-元盟科技一-二面.md",
+      "content_hash": "58df79bfb2b8fd8962ff5aaba9bd7d36dd0d2c18d8e1bf03d620cb359bc65c5a",
+      "updated_at": "2026-06-12T12:07:12+00:00"
+    },
+    "2050432292125315073": {
+      "title": "美云智数 Java开发 一面",
+      "company": "美云智数",
+      "post": "Java开发工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/美云智数/2050432292125315073-美云智数-Java开发-一面.md",
+      "content_hash": "2e772bb2d972128ff8a78d927d0b63d230be7f934019d23e8b3c90945fc73be5",
+      "updated_at": "2026-06-12T12:07:13+00:00"
+    },
+    "1917181650007924738": {
+      "title": "南京【中科创达】C++开发智能软件-1面+2面+人事面",
+      "company": "中科创达",
+      "post": "智能软件C++开发",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/中科创达/1917181650007924738-南京【中科创达】C++开发智能软件-1面+2面+人事面.md",
+      "content_hash": "a12a2af3d6d3bb3514592f7377b0ce4701346b55ff6ab03f97e90cbc5d7bb473",
+      "updated_at": "2026-06-12T12:07:13+00:00"
+    },
+    "1921838841155469314": {
+      "title": "北京博乐科技一二面（cocos2d-x开发实习生）",
+      "company": "博乐科技【比特高校】",
+      "post": "cocos2dx实习生",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/博乐科技【比特高校】/1921838841155469314-北京博乐科技一二面（cocos2d-x开发实习生）.md",
+      "content_hash": "9e3896e515840765186a34519d0120ddd7d69c60a4ca676e6f32fda4ccad9353",
+      "updated_at": "2026-06-12T12:07:13+00:00"
+    },
+    "1942519431387066370": {
+      "title": "字节   业务中台   客户端开发实习生",
+      "company": "字节跳动",
+      "post": "客户端开发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/字节跳动/1942519431387066370-字节-业务中台-客户端开发实习生.md",
+      "content_hash": "e01b582a842efbb5f4f177be9eb728343a4d3b0f357065543e85493a0058057c",
+      "updated_at": "2026-06-12T12:07:14+00:00"
+    },
+    "1995080926716915713": {
+      "title": "北京领识舜动科技有限公司  面经",
+      "company": "北京领识舜动科技有限公司",
+      "post": "c++开发工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/北京领识舜动科技有限公司/1995080926716915713-北京领识舜动科技有限公司-面经.md",
+      "content_hash": "a2aa8c5c4c05cd0ca539a9e996bf7e72e95101e040ba85df30b88d6dbc3695ce",
+      "updated_at": "2026-06-12T12:07:14+00:00"
+    },
+    "2003662054616907777": {
+      "title": "飞步科技面经",
+      "company": "飞步科技",
+      "post": "C++实习生",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/飞步科技/2003662054616907777-飞步科技面经.md",
+      "content_hash": "7795c83052b7c5c6b5de1b561a02e89118c7044d895c555ba88c186a39d0c789",
+      "updated_at": "2026-06-12T12:07:14+00:00"
+    },
+    "2011745335891623937": {
+      "title": "北京北大软件工程股份有限公司+Java后端开发+第一面",
+      "company": "北大软件",
+      "post": "java后端",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/北大软件/2011745335891623937-北京北大软件工程股份有限公司+Java后端开发+第一面.md",
+      "content_hash": "6085f4e039f32e2f852d0fb6579c53125eeef7086aacf5464add5ee8037af8aa",
+      "updated_at": "2026-06-12T12:07:15+00:00"
+    },
+    "1902987074380709890": {
+      "title": "腾讯云 测试实习生 一面",
+      "company": "腾讯",
+      "post": "测试开发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/腾讯/1902987074380709890-腾讯云-测试实习生-一面.md",
+      "content_hash": "85082bf11e32b71f7f0936c0dd66c1315c81b80711954660d6c9439a7cd33548",
+      "updated_at": "2026-06-12T12:07:15+00:00"
+    },
+    "1905195212601171969": {
+      "title": "深圳尚游游戏C++客户端开发春招面经",
+      "company": "尚游游戏",
+      "post": "游戏客户端",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/尚游游戏/1905195212601171969-深圳尚游游戏C++客户端开发春招面经.md",
+      "content_hash": "f6812717e603127339a28aac8f89bf7285279e474447497b55edd58d5145d6e0",
+      "updated_at": "2026-06-12T12:07:15+00:00"
+    },
+    "1904746554755784705": {
+      "title": "美团-C++-AI面",
+      "company": "美团",
+      "post": "C++后台开发",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/美团/1904746554755784705-美团-C++-AI面.md",
+      "content_hash": "8d6b6856a85c4d5ffaf63ed939d482f1faccefdae677a477cbb615c38fcccd7b",
+      "updated_at": "2026-06-12T12:07:15+00:00"
+    },
+    "1913225106262237185": {
+      "title": "广州嘉为科技有限公司-测开实习",
+      "company": "嘉为科技",
+      "post": "测试开发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/嘉为科技/1913225106262237185-广州嘉为科技有限公司-测开实习.md",
+      "content_hash": "585cb7154ae66e37dca433288dd96feb4a9d502089515effd025245399956f8c",
+      "updated_at": "2026-06-12T12:07:16+00:00"
+    },
+    "1994658559142293506": {
+      "title": "腾讯 暑期实习一面",
+      "company": "腾讯",
+      "post": "后端开发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/腾讯/1994658559142293506-腾讯-暑期实习一面.md",
+      "content_hash": "b686e8ddd24869448ecbbb7c37cfd0a60802623d50215e25a0ca97aadb520ac8",
+      "updated_at": "2026-06-12T12:07:16+00:00"
+    },
+    "2015076761441574914": {
+      "title": "深圳市乔杨咨询顾问(深圳)-软件开发实习生-一面",
+      "company": "深圳市乔杨咨询顾问有限公司",
+      "post": "软件开发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/深圳市乔杨咨询顾问有限公司/2015076761441574914-深圳市乔杨咨询顾问(深圳)-软件开发实习生-一面.md",
+      "content_hash": "00fb52e3691b7c3593eba3def9198c76e210ab0710610fe551996c10bec654de",
+      "updated_at": "2026-06-12T12:07:16+00:00"
+    },
+    "2030553310835945474": {
+      "title": "陕西天权时空智能科技--C++实习生面经",
+      "company": "陕西天权时空智能科技有限公司",
+      "post": "C++实习生",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/陕西天权时空智能科技有限公司/2030553310835945474-陕西天权时空智能科技--C++实习生面经.md",
+      "content_hash": "c840c20de6f83eb542e4be8e7ed3ea948eca3cfee1ed4dfeffb50f1beef80810",
+      "updated_at": "2026-06-12T12:07:16+00:00"
+    },
+    "1833820131749212161": {
+      "title": "未尔科技 C++开发",
+      "company": "北京未尔锐创科技有限公司",
+      "post": "c++开发工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/北京未尔锐创科技有限公司/1833820131749212161-未尔科技-C++开发.md",
+      "content_hash": "0383b4b0f0f006dd328dcf09e7fc110e97d85aa655497604ebf6cf69a6c94950",
+      "updated_at": "2026-06-12T12:07:17+00:00"
+    },
+    "1140965978441614983": {
+      "title": "网易雷火游戏开发一二三面+hr面",
+      "company": "网易雷火",
+      "post": "游戏开发工程师",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/网易雷火/1140965978441614983-网易雷火游戏开发一二三面+hr面.md",
+      "content_hash": "f16f80d90cdc54dcea2c93843076fa39ffe6f6e808bcf3c45d6fe7538a06c14a",
+      "updated_at": "2026-06-12T12:07:17+00:00"
+    },
+    "1140965978442866776": {
+      "title": "米哈游  c++研发工程师 面经 （三面）",
+      "company": "米哈游",
+      "post": "C++软件开发工程师",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/米哈游/1140965978442866776-米哈游-c++研发工程师-面经-（三面）.md",
+      "content_hash": "2010e3deee986a646d318f20f9e396f7d9b971708e70b6331be27c43ecd0f3a9",
+      "updated_at": "2026-06-12T12:07:17+00:00"
+    },
+    "1910931550214447105": {
+      "title": "用友测试",
+      "company": "用友",
+      "post": "测试工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/用友/1910931550214447105-用友测试.md",
+      "content_hash": "cc6f8339e48ba73bc0c250ea43e88de6b3b6bc29bb4ff8169f498ba639db7530",
+      "updated_at": "2026-06-12T12:07:18+00:00"
+    },
+    "1970671345714728961": {
+      "title": "米哈游日常实习一面",
+      "company": "米哈游",
+      "post": "后端开发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/米哈游/1970671345714728961-米哈游日常实习一面.md",
+      "content_hash": "69b18e3ef78e58d854fec9835463f19119f450b84aefccaf446d829af086b4c9",
+      "updated_at": "2026-06-12T12:07:18+00:00"
+    },
+    "1859506004641701890": {
+      "title": "比亚迪-软件开发",
+      "company": "比亚迪",
+      "post": "软件研发工程师",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/比亚迪/1859506004641701890-比亚迪-软件开发.md",
+      "content_hash": "488a95913295a1be143b58cadf97abd25804635b6d5d2e6498bbe471c35eb16c",
+      "updated_at": "2026-06-12T12:07:18+00:00"
+    },
+    "1982007976556126209": {
+      "title": "华为二面",
+      "company": "华为",
+      "post": "软件研发工程师",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/华为/1982007976556126209-华为二面.md",
+      "content_hash": "ef390e9c216bb011cb696e7d77b97ee6ee5421e85842a17dc73b3dcaa7bbef25",
+      "updated_at": "2026-06-12T12:07:18+00:00"
+    },
+    "1968989956355321857": {
+      "title": "美团AI面试",
+      "company": "美团",
+      "post": "c++开发工程师",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/美团/1968989956355321857-美团AI面试.md",
+      "content_hash": "35db184a80c27f34a4454db8f998c05f225d999059fd45f40fd53e81612df52a",
+      "updated_at": "2026-06-12T12:07:19+00:00"
+    },
+    "2010528500638785538": {
+      "title": "脑虎科技 C++后端实习生一面",
+      "company": "脑虎科技",
+      "post": "后端开发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/脑虎科技/2010528500638785538-脑虎科技-C++后端实习生一面.md",
+      "content_hash": "8c720f6c84a167643d5a09fad2cdfed6405c4b0075c8b20bf290f0b100896d24",
+      "updated_at": "2026-06-12T12:07:19+00:00"
+    },
+    "2036306671765970945": {
+      "title": "腾讯IEG后台暑期一面",
+      "company": "腾讯",
+      "post": "后台开发工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/腾讯/2036306671765970945-腾讯IEG后台暑期一面.md",
+      "content_hash": "a381e0cf27dafec6dc942bdf86e39ec0955fd5054d98c89101a36fd31de6ce7a",
+      "updated_at": "2026-06-12T12:07:20+00:00"
+    },
+    "2039515478365233154": {
+      "title": "成都摩勒普公司",
+      "company": "成都摩勒普公司",
+      "post": "C/C++ 软件开发工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/成都摩勒普公司/2039515478365233154-成都摩勒普公司.md",
+      "content_hash": "d6f5e3a68ca16b7dfced4203c6e24340231b504411c6398840b6ca761df94e6d",
+      "updated_at": "2026-06-12T12:07:20+00:00"
+    },
+    "2039985067704377346": {
+      "title": "洋葱学园",
+      "company": "洋葱学园",
+      "post": "软件测试实习生",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/洋葱学园/2039985067704377346-洋葱学园.md",
+      "content_hash": "e1a4b04d510e354dcf9f40ae47e29a09311d18852a22f37882fb40b888b1557f",
+      "updated_at": "2026-06-12T12:07:20+00:00"
+    },
+    "1982006594402934785": {
+      "title": "华为一面",
+      "company": "华为",
+      "post": "软件研发工程师",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/华为/1982006594402934785-华为一面.md",
+      "content_hash": "5bf037f77a092138871e59f1b33018d7c3d2e4759e8a213a6a29dad96f83a0f9",
+      "updated_at": "2026-06-12T12:07:21+00:00"
+    },
+    "1943607407403773954": {
+      "title": "字节客户端开发",
+      "company": "字节跳动",
+      "post": "客户端开发",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/字节跳动/1943607407403773954-字节客户端开发.md",
+      "content_hash": "2f39e7b8e23e0faa31aa39e726f40a16635c5e5475a02ed1053dcbfd5ee83262",
+      "updated_at": "2026-06-12T12:07:21+00:00"
+    },
+    "1903792302130675714": {
+      "title": "华勤技术（西安） 测试 一面",
+      "company": "华勤技术股份有限公司",
+      "post": "软件测试实习生",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/华勤技术股份有限公司/1903792302130675714-华勤技术（西安）-测试-一面.md",
+      "content_hash": "a75455d398e4e8df02da84138ec189eea2a24782aa23bbb64dd362f2175ca582",
+      "updated_at": "2026-06-12T12:07:21+00:00"
+    },
+    "1831901386726387714": {
+      "title": "元戎启行 C++ 一面",
+      "company": "元戎启行",
+      "post": "C/C++ 软件开发工程师",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/元戎启行/1831901386726387714-元戎启行-C++-一面.md",
+      "content_hash": "3c3b6c7f12c61624600bc87cb2b94a07a8795140ec720bc309af36940b53dca3",
+      "updated_at": "2026-06-12T12:07:21+00:00"
+    },
+    "2001502866587435010": {
+      "title": "极佳科技 C++开发实习生",
+      "company": "北京极佳视界",
+      "post": "C/C++ 嵌入式开发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/北京极佳视界/2001502866587435010-极佳科技-C++开发实习生.md",
+      "content_hash": "b24805b1d0557d07d5baa4cba39a09ca3e0916e1ed425b0c855b9b9fa63ffe7d",
+      "updated_at": "2026-06-12T12:07:22+00:00"
+    },
+    "2016706714188849154": {
+      "title": "合肥人工智能和大数据研究院 C++算法开发实习生 一面",
+      "company": "合肥人工智能与大数据研究院有限公司",
+      "post": "c++开发工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/合肥人工智能与大数据研究院有限公司/2016706714188849154-合肥人工智能和大数据研究院-C++算法开发实习生-一面.md",
+      "content_hash": "801024cc892bc79a929cd0281ee4f21cd7f4a84b518dc615885c04a4a9798c5c",
+      "updated_at": "2026-06-12T12:07:22+00:00"
+    },
+    "2032235161241735169": {
+      "title": "叙简科技测试实习一面",
+      "company": "叙简科技",
+      "post": "测试工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/叙简科技/2032235161241735169-叙简科技测试实习一面.md",
+      "content_hash": "5f40988fb10cb2222e8144ffc22e87e926d730dad03b0466a7f5831031d8ba8e",
+      "updated_at": "2026-06-12T12:07:22+00:00"
+    },
+    "2032403226898108418": {
+      "title": "创梦天地-HR面",
+      "company": "深圳市创梦天地科技有限公司",
+      "post": "游戏测试",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/深圳市创梦天地科技有限公司/2032403226898108418-创梦天地-HR面.md",
+      "content_hash": "71c5374c83040fc9bc9d1be7b8d7f799ded7917a9e3caba37b9bb17138980411",
+      "updated_at": "2026-06-12T12:07:23+00:00"
+    },
+    "2032711513522737154": {
+      "title": "北京律之华  Java开发",
+      "company": "北京律之华",
+      "post": "Java开发工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/北京律之华/2032711513522737154-北京律之华-Java开发.md",
+      "content_hash": "24d3fff184d388ca0193d9a6bc887f143a95c2badffa41c9efbb67aef07e5978",
+      "updated_at": "2026-06-12T12:07:23+00:00"
+    },
+    "1847597251654713345": {
+      "title": "tap4fun 服务器开发 HR面,主管面",
+      "company": "tap4fun",
+      "post": "游戏服务器开发",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/tap4fun/1847597251654713345-tap4fun-服务器开发-HR面,主管面.md",
+      "content_hash": "28b0e21935a49638fc63b4a3c913b2caaea975f955a63a0f5b9b0419083a29d2",
+      "updated_at": "2026-06-12T12:07:23+00:00"
+    },
+    "2011261773199417345": {
+      "title": "cvte--测试实习生（一面+二面）",
+      "company": "CVTE视源股份",
+      "post": "测试工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/CVTE视源股份/2011261773199417345-cvte--测试实习生（一面+二面）.md",
+      "content_hash": "064269a6696f70fbd3868365b1014d531ac111b10fe1580def22cef9bf6f0bdd",
+      "updated_at": "2026-06-12T12:07:23+00:00"
+    },
+    "1836949898073665538": {
+      "title": "招商银行 后端开发 二面, HR面 (线下面试)",
+      "company": "招商银行",
+      "post": "后端开发",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/招商银行/1836949898073665538-招商银行-后端开发-二面,-HR面-(线下面试).md",
+      "content_hash": "c0f9ea727e5deaa6ea79165bbbb6f15ab75338faec674e8a35ee430b8a4aa2c2",
+      "updated_at": "2026-06-12T12:07:24+00:00"
+    },
+    "1968897798898118657": {
+      "title": "【字节跳动】 客户端一面",
+      "company": "字节跳动",
+      "post": "C++客户端开发",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/字节跳动/1968897798898118657-【字节跳动】-客户端一面.md",
+      "content_hash": "35ba984f1ee5aad0db323745ecb12ed7d101961778f643e6414a783d475539c0",
+      "updated_at": "2026-06-12T12:07:24+00:00"
+    },
+    "1957717997281828865": {
+      "title": "多益网络 游戏服务器开发",
+      "company": "多益网络",
+      "post": "游戏服务器开发",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/多益网络/1957717997281828865-多益网络-游戏服务器开发.md",
+      "content_hash": "74f533bd130b7007d68f5a8a2b0b50890690ca642f4c831fb9eea712e801071b",
+      "updated_at": "2026-06-12T12:07:24+00:00"
+    },
+    "1859505622196674561": {
+      "title": "小米-软件开发工程师",
+      "company": "小米",
+      "post": "C/C++ 软件开发工程师",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/小米/1859505622196674561-小米-软件开发工程师.md",
+      "content_hash": "1d4d09a3a092d58f6f49098910cdeb8ecb9c6908a11a2ee59c0de1861f4697fd",
+      "updated_at": "2026-06-12T12:07:24+00:00"
+    },
+    "2034588815777050625": {
+      "title": "创业慧康科技面经",
+      "company": "创业慧康科技股份有限公司",
+      "post": "java后端",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/创业慧康科技股份有限公司/2034588815777050625-创业慧康科技面经.md",
+      "content_hash": "0918928034e539dc63bc0b787ced02d0aeb18f5eaf6c06ac127609c1ac549924",
+      "updated_at": "2026-06-12T12:07:25+00:00"
+    },
+    "2039984340743413761": {
+      "title": "行至智能二面",
+      "company": "行至智能（北京）技术有限公司",
+      "post": "软件测试实习生",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/行至智能（北京）技术有限公司/2039984340743413761-行至智能二面.md",
+      "content_hash": "941743663b35baf7998543652c2145dbcdb0012bfc2907a0e745e20b4d51fd94",
+      "updated_at": "2026-06-12T12:07:25+00:00"
+    },
+    "2045800521198919682": {
+      "title": "米哈游服务器开发一面(线下面试)",
+      "company": "米哈游",
+      "post": "游戏服务器开发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/米哈游/2045800521198919682-米哈游服务器开发一面(线下面试).md",
+      "content_hash": "9bd9c3f9ba33a24dd59b75974ab7a225928aebb08f14bf392ec27147fce5b672",
+      "updated_at": "2026-06-12T12:07:25+00:00"
+    },
+    "2054416792102539265": {
+      "title": "上海游族网络 C/C++开发实习",
+      "company": "游族网络",
+      "post": "C++游戏开发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/游族网络/2054416792102539265-上海游族网络-C-C++开发实习.md",
+      "content_hash": "34caeb6b62627e57a7301ffb772c95fa2dc513182a87eba5b742ec6ef1b9c630",
+      "updated_at": "2026-06-12T12:07:26+00:00"
+    },
+    "1911681785777774593": {
+      "title": "【面经】字节跳动客户端开发一面",
+      "company": "字节跳动",
+      "post": "客户端开发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/字节跳动/1911681785777774593-【面经】字节跳动客户端开发一面.md",
+      "content_hash": "bf0edfad3111d0c10bdaf18909c02321083c44aee1ae80314514ce886006795c",
+      "updated_at": "2026-06-12T12:07:26+00:00"
+    },
+    "2009222601726992385": {
+      "title": "矩阵起源 数据库研发实习生 一面",
+      "company": "矩阵起源",
+      "post": "数据库研发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/矩阵起源/2009222601726992385-矩阵起源-数据库研发实习生-一面.md",
+      "content_hash": "6a26229786e76f9fbef0b23ead3ddbc11a732e969f1736a52f819e784c76975e",
+      "updated_at": "2026-06-12T12:07:26+00:00"
+    },
+    "2030642685565382657": {
+      "title": "b站测试开发 一面",
+      "company": "哔哩哔哩",
+      "post": "测试开发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/哔哩哔哩/2030642685565382657-b站测试开发-一面.md",
+      "content_hash": "f8c126dbb527827954babc64478d48f9a31045ffe495b26c4bd628afa74b6176",
+      "updated_at": "2026-06-12T12:07:27+00:00"
+    },
+    "2031579942338080769": {
+      "title": "争新科技 Java后端实习生",
+      "company": "争新科技",
+      "post": "java后端",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/争新科技/2031579942338080769-争新科技-Java后端实习生.md",
+      "content_hash": "806dcaf6bef97d3e87f165e8effb52a75078e2559ff70021d67ed94b30519320",
+      "updated_at": "2026-06-12T12:07:27+00:00"
+    },
+    "2009114212644659202": {
+      "title": "彤天基金-量化实习生-一面",
+      "company": "彤天基金",
+      "post": "高频量化研究员",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/彤天基金/2009114212644659202-彤天基金-量化实习生-一面.md",
+      "content_hash": "721c0aae92b82faffd5308afbc5a36027670d2e9965cc0e812274ddb46e654f7",
+      "updated_at": "2026-06-12T12:07:27+00:00"
+    },
+    "1938073033669316610": {
+      "title": "深圳同行者科技笔试+面试+HR面",
+      "company": "同行者科技",
+      "post": "测试工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/同行者科技/1938073033669316610-深圳同行者科技笔试+面试+HR面.md",
+      "content_hash": "a3b67fdcccd40c1b19ab13c27ec40c133c73dd2ae5a3ceb7a99d2716e9739b15",
+      "updated_at": "2026-06-12T12:07:27+00:00"
+    },
+    "1943598026020794369": {
+      "title": "字节客户端开发",
+      "company": "字节跳动",
+      "post": "客户端开发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/字节跳动/1943598026020794369-字节客户端开发.md",
+      "content_hash": "6ea455487590829f9aa244e86a44d78709241ca958e9821f04505e30db56107b",
+      "updated_at": "2026-06-12T12:07:28+00:00"
+    },
+    "2038553759170113538": {
+      "title": "深圳锐明技术C++开发实习生一面",
+      "company": "锐明技术",
+      "post": "c++开发工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/锐明技术/2038553759170113538-深圳锐明技术C++开发实习生一面.md",
+      "content_hash": "f7fccb0a5ff07b5553fa83785d73206cce30323d03e27d7f62d4a1b4b77fba15",
+      "updated_at": "2026-06-12T12:07:28+00:00"
+    },
+    "2041448817145864193": {
+      "title": "小马智行车载测试",
+      "company": "小马智行",
+      "post": "测试工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/小马智行/2041448817145864193-小马智行车载测试.md",
+      "content_hash": "a11185d563f5d7d9a936e5155ef1a0e0ed2d4fdcc725f008b340214a90a11136",
+      "updated_at": "2026-06-12T12:07:28+00:00"
+    },
+    "2042793637806268417": {
+      "title": "时空方程数据科技——java开发",
+      "company": "时空方程数据科技",
+      "post": "Java初级开发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/时空方程数据科技/2042793637806268417-时空方程数据科技——java开发.md",
+      "content_hash": "f333a1d3b167aad8db4f79169171c72fd4a330277ce554c07596104043732345",
+      "updated_at": "2026-06-12T12:07:29+00:00"
+    },
+    "1971287779213971458": {
+      "title": "网易雷火-线上二面-游戏服务器",
+      "company": "网易雷火",
+      "post": "游戏服务器开发",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/网易雷火/1971287779213971458-网易雷火-线上二面-游戏服务器.md",
+      "content_hash": "00689bafe997ad55456e4ed93ec70f2264d5911fc31371f94e180b6143b940c9",
+      "updated_at": "2026-06-12T12:07:29+00:00"
+    },
+    "2007682514019131394": {
+      "title": "长沙奇葩乐游一面",
+      "company": "长沙奇葩斗斗网络科技有限公司",
+      "post": "java后端",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/长沙奇葩斗斗网络科技有限公司/2007682514019131394-长沙奇葩乐游一面.md",
+      "content_hash": "88dbb1d99e995534a625ec74eaf74824e2bcdb0c916485dac2df4d3f1c522d6d",
+      "updated_at": "2026-06-12T12:07:29+00:00"
+    },
+    "2008466930702196737": {
+      "title": "影石360软件测试实习 一面+二面",
+      "company": "影石Insta360",
+      "post": "软件测试实习生",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/影石Insta360/2008466930702196737-影石360软件测试实习-一面+二面.md",
+      "content_hash": "50b9819eefe93b0f67d19d88806eeb283348f9105124390e7a2a38de42912849",
+      "updated_at": "2026-06-12T12:07:29+00:00"
+    },
+    "2009196062692057090": {
+      "title": "快手可灵Java后端实习二面",
+      "company": "快手",
+      "post": "java后端",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/快手/2009196062692057090-快手可灵Java后端实习二面.md",
+      "content_hash": "caf4ff91924765c32eb6ed82c48578f884c844c788bf1fe82f42227ee3df68e6",
+      "updated_at": "2026-06-12T12:07:30+00:00"
+    },
+    "2041778638765875201": {
+      "title": "蚂蚁-后端开发-HR 面",
+      "company": "蚂蚁金服",
+      "post": "后端实习生",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/蚂蚁金服/2041778638765875201-蚂蚁-后端开发-HR-面.md",
+      "content_hash": "5ec82437a4dba0e01b7a4915329baa35d74714991d582ced323b0a77427e363f",
+      "updated_at": "2026-06-12T12:07:30+00:00"
+    },
+    "2042863833136947202": {
+      "title": "字节跳动暑期实习客户端一面",
+      "company": "字节跳动",
+      "post": "C++客户端开发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/字节跳动/2042863833136947202-字节跳动暑期实习客户端一面.md",
+      "content_hash": "991de23b5d19b16660160bd3418092c15abb5b99733c5f844b62ec3cd4cf8aa8",
+      "updated_at": "2026-06-12T12:07:30+00:00"
+    },
+    "1957716495184125954": {
+      "title": "#灵感游戏  游戏服务端开发   2025-07-23",
+      "company": "灵感互娱",
+      "post": "游戏服务器开发",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/灵感互娱/1957716495184125954-#灵感游戏-游戏服务端开发-2025-07-23.md",
+      "content_hash": "f3fbbdcd1dbe08ef3a38d198cbc64030bccee0332c491bca13d75397da55b217",
+      "updated_at": "2026-06-12T12:07:31+00:00"
+    },
+    "1993718620745527298": {
+      "title": "快手 C++开发工程师 一面",
+      "company": "快手",
+      "post": "c++开发工程师",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/快手/1993718620745527298-快手-C++开发工程师-一面.md",
+      "content_hash": "b5a1682fa43f82ffdc171a8600801652e522b5e321e3bfb799086e6f6b3f980e",
+      "updated_at": "2026-06-12T12:07:31+00:00"
+    },
+    "1905089564047712258": {
+      "title": "成都拾梦网络科技 c++开发实习生",
+      "company": "成都拾梦网络科技有限公司",
+      "post": "c++开发工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/成都拾梦网络科技有限公司/1905089564047712258-成都拾梦网络科技-c++开发实习生.md",
+      "content_hash": "0a70b0109b83ec7c530e3ec771bea6ed7fa3660ed18d56d3f23c48b0e9860f5b",
+      "updated_at": "2026-06-12T12:07:31+00:00"
+    },
+    "1913160702699151362": {
+      "title": "腾讯cdg-后台开发- 一面",
+      "company": "腾讯",
+      "post": "后台开发实习",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/腾讯/1913160702699151362-腾讯cdg-后台开发--一面.md",
+      "content_hash": "6fdb19b9f5d97cafb12b77792731fa3a9efbb98e2b06e87d099d9a4bf35dcfc3",
+      "updated_at": "2026-06-12T12:07:32+00:00"
+    },
+    "1969843679772209154": {
+      "title": "网易雷火一面面经（已挂）",
+      "company": "网易雷火",
+      "post": "服务端开发初级工程师",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/网易雷火/1969843679772209154-网易雷火一面面经（已挂）.md",
+      "content_hash": "829dba63970991ccb6261755a9937f2460ccbb56ebb4954b6a33f1eb077737f6",
+      "updated_at": "2026-06-12T12:07:32+00:00"
+    },
+    "2014584300365586434": {
+      "title": "江苏政采一面C++实习",
+      "company": "江苏政采数据科技有限公司",
+      "post": "后端开发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/江苏政采数据科技有限公司/2014584300365586434-江苏政采一面C++实习.md",
+      "content_hash": "0af80b54ebe535428978c2f6770545c3c709b2bb79be4072fb42937afbcc7703",
+      "updated_at": "2026-06-12T12:07:32+00:00"
+    },
+    "2027366161793843201": {
+      "title": "共道科技一面",
+      "company": "共道网络科技",
+      "post": "测试工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/共道网络科技/2027366161793843201-共道科技一面.md",
+      "content_hash": "aa561be1ac280eae906ee9f7293561460466f3dec6638011f72cf0bf00b9c73a",
+      "updated_at": "2026-06-12T12:07:32+00:00"
+    },
+    "2032063240613089281": {
+      "title": "致远互联java开发",
+      "company": "致远互联",
+      "post": "Java初级开发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/致远互联/2032063240613089281-致远互联java开发.md",
+      "content_hash": "8354b4484355a5906299b86d7707fb0d4fdeec50e5f92dd8708864fbb8ab28fe",
+      "updated_at": "2026-06-12T12:07:33+00:00"
+    },
+    "2034895109138395137": {
+      "title": "艾瑞数智Java实习生",
+      "company": "艾瑞数智",
+      "post": "开发实习生",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/艾瑞数智/2034895109138395137-艾瑞数智Java实习生.md",
+      "content_hash": "da3e9890c34572fef2ea5d36bbb2c0bf9a190d4c015193fa102ecd31acc00f3a",
+      "updated_at": "2026-06-12T12:07:33+00:00"
+    },
+    "2041805608773935106": {
+      "title": "视源股份（CVTE）-软件测试-实习一面",
+      "company": "CVTE视源股份",
+      "post": "软件测试实习生",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/CVTE视源股份/2041805608773935106-视源股份（CVTE）-软件测试-实习一面.md",
+      "content_hash": "9298e7b0716eda0888230b9b97733888720e2dbe2b027389818bc269e975b108",
+      "updated_at": "2026-06-12T12:07:33+00:00"
+    },
+    "1924791773152854018": {
+      "title": "优荞软件面试",
+      "company": "优荞软件科技(武汉)有限公司",
+      "post": "QT开发工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/优荞软件科技(武汉)有限公司/1924791773152854018-优荞软件面试.md",
+      "content_hash": "1dcde10784ce7a2e4e398d8629cd8efaf504f4768327480dd10729b24c2a72fd",
+      "updated_at": "2026-06-12T12:07:33+00:00"
+    },
+    "1934605549909774338": {
+      "title": "广东奥普特科技股份有限公司",
+      "company": "广东奥普特科技股份有限公司",
+      "post": "C++后台开发",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/广东奥普特科技股份有限公司/1934605549909774338-广东奥普特科技股份有限公司.md",
+      "content_hash": "0a2bbf099fb41c88c408f4554054aa95c2cdafc92ba9f17f371c588f9a7fdb31",
+      "updated_at": "2026-06-12T12:07:34+00:00"
+    },
+    "1947183953427185666": {
+      "title": "优荞软件 C++实习生",
+      "company": "优荞软件科技(武汉)有限公司",
+      "post": "C++实习生",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/优荞软件科技(武汉)有限公司/1947183953427185666-优荞软件-C++实习生.md",
+      "content_hash": "4b18a21da9950cf74d41dbe102336f970dba43a7c01fad8db748f88f874e0ad9",
+      "updated_at": "2026-06-12T12:07:34+00:00"
+    },
+    "1906632188906840066": {
+      "title": "Momenta一面",
+      "company": "momenta",
+      "post": "中间件开发工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/momenta/1906632188906840066-Momenta一面.md",
+      "content_hash": "28a97dc2c97eb8d08258747ec27ac1ac9d66c1d9c0bd27f68bfdc8aabb5272ae",
+      "updated_at": "2026-06-12T12:07:34+00:00"
+    },
+    "1833352987685105665": {
+      "title": "招商银行 后端开发 一面",
+      "company": "招商银行",
+      "post": "后端开发",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/招商银行/1833352987685105665-招商银行-后端开发-一面.md",
+      "content_hash": "ab5afedfe1e97670387df23c34e05b8f9cbb8559d2f20ff40a58efa96a1cf4e5",
+      "updated_at": "2026-06-12T12:07:35+00:00"
+    },
+    "1837128699994923009": {
+      "title": "太平洋网络-测试实习生-技术面+HR面",
+      "company": "太平洋网络",
+      "post": "测试工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/太平洋网络/1837128699994923009-太平洋网络-测试实习生-技术面+HR面.md",
+      "content_hash": "f32f0ea88726358d258888b6c85636358b205938871cc20fcd806b2ff79ffadb",
+      "updated_at": "2026-06-12T12:07:35+00:00"
+    },
+    "2033034067114336257": {
+      "title": "OPMT原点智能",
+      "company": "广东原点智能技术有限公司",
+      "post": "QT",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/广东原点智能技术有限公司/2033034067114336257-OPMT原点智能.md",
+      "content_hash": "3d11e9a98780b7172c9fe5970b88aa68714b75df9b019a67982a539ad1838e10",
+      "updated_at": "2026-06-12T12:07:35+00:00"
+    },
+    "1978807167576076290": {
+      "title": "水滴-测试开发一面",
+      "company": "水滴公司",
+      "post": "测试开发",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/水滴公司/1978807167576076290-水滴-测试开发一面.md",
+      "content_hash": "f6f659f4fb7206d44543c2344dcc583c9077ca5e5b000effa74df72f85fd98a3",
+      "updated_at": "2026-06-12T12:07:36+00:00"
+    },
+    "1986724460389933057": {
+      "title": "CVTE 一面",
+      "company": "CVTE视源股份",
+      "post": "测试工程师",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/CVTE视源股份/1986724460389933057-CVTE-一面.md",
+      "content_hash": "5174b577b5ec54da7ca987440b5c4b7761e4682a25b4e07b5eb0629a4998f9c7",
+      "updated_at": "2026-06-12T12:07:36+00:00"
+    },
+    "2034842293711646721": {
+      "title": "深圳市锐明技术股份有限公司（重庆）一面",
+      "company": "锐明技术",
+      "post": "软件测试工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/锐明技术/2034842293711646721-深圳市锐明技术股份有限公司（重庆）一面.md",
+      "content_hash": "fc8a225f3f4154080f7cc2ee01f681be632f956e15b6e9b287ccdd3289d97596",
+      "updated_at": "2026-06-12T12:07:36+00:00"
+    },
+    "1968576917781016578": {
+      "title": "网易雷火-游戏服务器-线下一面",
+      "company": "网易雷火",
+      "post": "游戏服务器开发",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/网易雷火/1968576917781016578-网易雷火-游戏服务器-线下一面.md",
+      "content_hash": "7da4ef2eba0043a2e72eec7a9803c8d52ddcfb67c06dc82de94f59877f160672",
+      "updated_at": "2026-06-12T12:07:36+00:00"
+    },
+    "1930807516428419073": {
+      "title": "武汉小药药 测试实习",
+      "company": "武汉小药药医药科技有限公司",
+      "post": "测试工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/武汉小药药医药科技有限公司/1930807516428419073-武汉小药药-测试实习.md",
+      "content_hash": "ffa8a337a8287e7d20ce8a0c96db2abd1c169733dd58255096930253c6b27e43",
+      "updated_at": "2026-06-12T12:07:37+00:00"
+    },
+    "2033033496303116290": {
+      "title": "上海桠格科技有限公司",
+      "company": "上海桠格科技有限公司",
+      "post": "操作系统实习生",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/上海桠格科技有限公司/2033033496303116290-上海桠格科技有限公司.md",
+      "content_hash": "ed1cf61ffb5766ae70bb8b42cf369d8b18b11ecc69e284aa5bed88cb8e8e8827",
+      "updated_at": "2026-06-12T12:07:37+00:00"
+    },
+    "1823307410444337153": {
+      "title": "武汉格蓝若-平台软件工程师-一面-60min",
+      "company": "武汉格蓝若智能技术股份有限公司",
+      "post": "平台开发工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/武汉格蓝若智能技术股份有限公司/1823307410444337153-武汉格蓝若-平台软件工程师-一面-60min.md",
+      "content_hash": "9e7415149305f7c93e161297373b54fabdd3c168f6cb8794dc8748cd1cace3a1",
+      "updated_at": "2026-06-12T12:07:37+00:00"
+    },
+    "1968980042337677314": {
+      "title": "鲲云科技 - 正式 - C++开发工程师 - 笔试",
+      "company": "鲲云科技",
+      "post": "c++开发工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/鲲云科技/1968980042337677314-鲲云科技---正式---C++开发工程师---笔试.md",
+      "content_hash": "40cbaca527dbcee28f2dfabc8425718e43fd9f19e5801d6e42b76f1ddbe72212",
+      "updated_at": "2026-06-12T12:07:38+00:00"
+    },
+    "1972584250974539778": {
+      "title": "去哪儿网-测试开发工程师一面",
+      "company": "去哪儿网",
+      "post": "测试开发",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/去哪儿网/1972584250974539778-去哪儿网-测试开发工程师一面.md",
+      "content_hash": "0fc9bc71e3f5fd373d5b8d2f8571e9cc3659c9c9b286f0f24388850cc606bee8",
+      "updated_at": "2026-06-12T12:07:38+00:00"
+    },
+    "2034893650384629762": {
+      "title": "武汉意特科技软件实习开发",
+      "company": "武汉意特信息科技有限公司",
+      "post": "软件实习生",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/武汉意特信息科技有限公司/2034893650384629762-武汉意特科技软件实习开发.md",
+      "content_hash": "521473cd973f4afef0f4c0d26c1b348d06d667d458e4b068685dad5cfecd665f",
+      "updated_at": "2026-06-12T12:07:38+00:00"
+    },
+    "2039984794458054658": {
+      "title": "心动",
+      "company": "心动网络",
+      "post": "软件测试实习生",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/心动网络/2039984794458054658-心动.md",
+      "content_hash": "909a2faa814a763a2eb30f5f638bdc4427390450ce31a3e32e45cd9d285ba365",
+      "updated_at": "2026-06-12T12:07:39+00:00"
+    },
+    "2047258598846664705": {
+      "title": "腾讯云智测开二面",
+      "company": "腾讯云智研发公司",
+      "post": "测试开发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/腾讯云智研发公司/2047258598846664705-腾讯云智测开二面.md",
+      "content_hash": "3f593e07cf078296788dd10d61b5c75a5ebd30ac6c4d74a144788b38eb0bdfa5",
+      "updated_at": "2026-06-12T12:07:39+00:00"
+    },
+    "2048375806024912897": {
+      "title": "云智 后台开发 一面",
+      "company": "腾讯云计算(西安)有限责任公司",
+      "post": "后台开发实习",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/腾讯云计算(西安)有限责任公司/2048375806024912897-云智-后台开发-一面.md",
+      "content_hash": "7f7177f02edc62be18205b65726fc9ecf825b2c8cfa601b40ef0b2cfc70a1d8b",
+      "updated_at": "2026-06-12T12:07:39+00:00"
+    },
+    "2051919268296953857": {
+      "title": "视源股份",
+      "company": "CVTE视源股份",
+      "post": "测试开发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/CVTE视源股份/2051919268296953857-视源股份.md",
+      "content_hash": "4c7e8bc06644eda89c4c54534d101da16a72285b8872d1ec5bf90ec9aaa96579",
+      "updated_at": "2026-06-12T12:07:39+00:00"
+    },
+    "2052317566778380290": {
+      "title": "不鸣科技测试一面",
+      "company": "不鸣科技",
+      "post": "测试工程师",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/不鸣科技/2052317566778380290-不鸣科技测试一面.md",
+      "content_hash": "eff3ad7e7efba9dc1a3c4c509a9d7e8bdbc2a367bac96250f5ac319b7461b12c",
+      "updated_at": "2026-06-12T12:07:40+00:00"
+    },
+    "1897604217680367617": {
+      "title": "海南高图网络科技有限公司(笔试+面试)",
+      "company": "海南高图网络",
+      "post": "客户端开发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/海南高图网络/1897604217680367617-海南高图网络科技有限公司(笔试+面试).md",
+      "content_hash": "1d745855dc14ea56a3c4afc7c501c91cdd9abe4f41089d5d16207a38ad80d748",
+      "updated_at": "2026-06-12T12:07:40+00:00"
+    },
+    "2009186385577091074": {
+      "title": "英语流利说",
+      "company": "英语流利说",
+      "post": "测试实习生",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/英语流利说/2009186385577091074-英语流利说.md",
+      "content_hash": "c1d5ee9e17d51ff8a2437ca491da7605fd4fcc7047edd8d0f05983bf17360737",
+      "updated_at": "2026-06-12T12:07:40+00:00"
+    },
+    "2009519614335098882": {
+      "title": "小熊美家-测开一面（实习）",
+      "company": "北京小熊美家科技有限公司",
+      "post": "测试开发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/北京小熊美家科技有限公司/2009519614335098882-小熊美家-测开一面（实习）.md",
+      "content_hash": "bd4238c82a3be22ac9ebd973b4b7dfc3ca32d0ebe1e8cdfcf248336825f30c65",
+      "updated_at": "2026-06-12T12:07:45+00:00"
+    },
+    "2026554287514877954": {
+      "title": "2.25 实在智能一面面经",
+      "company": "浙江实在智能科技有限公司",
+      "post": "Java开发工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/浙江实在智能科技有限公司/2026554287514877954-2.25-实在智能一面面经.md",
+      "content_hash": "d07db3c821281338293c08c8998ee3d59a72e562a4eac10fdb980a0d2494bd84",
+      "updated_at": "2026-06-12T12:07:46+00:00"
+    },
+    "2033032510914306049": {
+      "title": "合肥九韶",
+      "company": "九韶智能",
+      "post": "QT",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/九韶智能/2033032510914306049-合肥九韶.md",
+      "content_hash": "3d3a0e43c23a3bc2121055314176401a15a049de309535e3996894832fe308c7",
+      "updated_at": "2026-06-12T12:07:46+00:00"
+    },
+    "2009120574732738562": {
+      "title": "埃维科技一面",
+      "company": "埃维创新科技",
+      "post": "测试工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/埃维创新科技/2009120574732738562-埃维科技一面.md",
+      "content_hash": "e9ac9e24ab558a6170f48826f61c411a896ee9319814d08f72a445645266b85d",
+      "updated_at": "2026-06-12T12:07:46+00:00"
+    },
+    "2011277544789090305": {
+      "title": "远大教科-C++开发",
+      "company": "远大教科",
+      "post": "C++实习生",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/远大教科/2011277544789090305-远大教科-C++开发.md",
+      "content_hash": "21c52353a0a3888fdb0f26453c4cbaa33f31710a447a88b3706e02de5ee0f504",
+      "updated_at": "2026-06-12T12:07:46+00:00"
+    },
+    "2033819059440513026": {
+      "title": "腾讯IEG暑期实习 - 游戏数据开发 - 一面",
+      "company": "腾讯",
+      "post": "后端开发",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/腾讯/2033819059440513026-腾讯IEG暑期实习---游戏数据开发---一面.md",
+      "content_hash": "5da90ba6b0ffb04fa4867db7a3d1b121c99bc618637175c4b2714927298195f9",
+      "updated_at": "2026-06-12T12:07:47+00:00"
+    },
+    "1837126452892360705": {
+      "title": "软通动力-手机测试工程师（南京）-实习一面",
+      "company": "软通动力",
+      "post": "手机测试",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/软通动力/1837126452892360705-软通动力-手机测试工程师（南京）-实习一面.md",
+      "content_hash": "e8db58e935469665b14df77821e340f340d25dcafc6963f0650539b4afc4ca44",
+      "updated_at": "2026-06-12T12:07:47+00:00"
+    },
+    "1897571017390231553": {
+      "title": "CVTE2025校招一面",
+      "company": "CVTE视源股份",
+      "post": "嵌入式软件开发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/CVTE视源股份/1897571017390231553-CVTE2025校招一面.md",
+      "content_hash": "3e0b303edad51a51efe138eb817ae0d608718f1b7d35c793615a950d2e6c70a4",
+      "updated_at": "2026-06-12T12:07:47+00:00"
+    },
+    "1904489705661931522": {
+      "title": "北京---零零科技--测试",
+      "company": "零零科技",
+      "post": "测试开发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/零零科技/1904489705661931522-北京---零零科技--测试.md",
+      "content_hash": "ad32f6765ee68f528415c0456eab28e41935a4412901a9263548440612cddb1c",
+      "updated_at": "2026-06-12T12:07:48+00:00"
+    },
+    "1905457555386015745": {
+      "title": "上海勤翔科学仪器有限公司-软件开发实习生",
+      "company": "上海勤翔科学仪器有限公司",
+      "post": "C/C++ 软件开发工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/上海勤翔科学仪器有限公司/1905457555386015745-上海勤翔科学仪器有限公司-软件开发实习生.md",
+      "content_hash": "4da5cef224773b85caf169f79f4331b5afc5ff78e62d2754912094fe8856824e",
+      "updated_at": "2026-06-12T12:07:48+00:00"
+    },
+    "1140965978443799378": {
+      "title": "vivo  机器学习算法 面经 （二面）",
+      "company": "vivo",
+      "post": "算法工程师",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/vivo/1140965978443799378-vivo-机器学习算法-面经-（二面）.md",
+      "content_hash": "9cff1588441701aca19e776d77e0bf2ea81dd9d8fbdfe8e1836ff9af4dd6e4e8",
+      "updated_at": "2026-06-12T12:07:48+00:00"
+    },
+    "2030925943565889538": {
+      "title": "大连随益软件科技 Java开发实习生",
+      "company": "大连随益软件科技",
+      "post": "java后端",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/大连随益软件科技/2030925943565889538-大连随益软件科技-Java开发实习生.md",
+      "content_hash": "f99e06f55031e797f467e504ef04bbecef343020ff0b25a8935abcc7cac9d2fe",
+      "updated_at": "2026-06-12T12:07:49+00:00"
+    },
+    "2042909426991423490": {
+      "title": "锦海捷亚-测试开发实习生",
+      "company": "锦海捷亚",
+      "post": "测试开发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/锦海捷亚/2042909426991423490-锦海捷亚-测试开发实习生.md",
+      "content_hash": "83aeccaf43dd7b8bdea014cfd42931f6c018ab3aa36bcbf3c728af0988767eda",
+      "updated_at": "2026-06-12T12:07:49+00:00"
+    },
+    "1943593380388712450": {
+      "title": "字节客户端开发",
+      "company": "字节跳动",
+      "post": "客户端开发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/字节跳动/1943593380388712450-字节客户端开发.md",
+      "content_hash": "63913c99f2fea2bb786b6d3b93b72083752dac5b00f6fad8405cb4be6b41fa0d",
+      "updated_at": "2026-06-12T12:07:49+00:00"
+    },
+    "1915021869902110722": {
+      "title": "腾讯ieg -后台开发-一面",
+      "company": "腾讯",
+      "post": "后台开发实习",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/腾讯/1915021869902110722-腾讯ieg--后台开发-一面.md",
+      "content_hash": "f5a7b5b7321fd81b928365ef41d92c6d9c0b852e48fc7b053fc1880573be4160",
+      "updated_at": "2026-06-12T12:07:49+00:00"
+    },
+    "2030992957022056449": {
+      "title": "华测导航测试开发一面",
+      "company": "华测导航",
+      "post": "软件测试工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/华测导航/2030992957022056449-华测导航测试开发一面.md",
+      "content_hash": "ff4d39e4d9f5124f5b9e4b0fc759aa64087be87a63dc9a771fa27acafda167d0",
+      "updated_at": "2026-06-12T12:07:50+00:00"
+    },
+    "2046252080844169217": {
+      "title": "微派 游戏测试一面 实习",
+      "company": "微派网络科技",
+      "post": "游戏测试",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/微派网络科技/2046252080844169217-微派-游戏测试一面-实习.md",
+      "content_hash": "494b280245725772fdb3a2b78835d73a60c17d8adb8bcb8f477367300141952f",
+      "updated_at": "2026-06-12T12:07:50+00:00"
+    },
+    "1971226600491847682": {
+      "title": "紫龙游戏-游戏测试开发工程师二面",
+      "company": "紫龙游戏",
+      "post": "游戏测试开发",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/紫龙游戏/1971226600491847682-紫龙游戏-游戏测试开发工程师二面.md",
+      "content_hash": "efd020f54c578f0de32c5af245c338f785c7e322afd1e4ca98115382be31c292",
+      "updated_at": "2026-06-12T12:07:50+00:00"
+    },
+    "1985524070004768769": {
+      "title": "金山C++二面",
+      "company": "金山WPS",
+      "post": "C++软件开发工程师",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/金山WPS/1985524070004768769-金山C++二面.md",
+      "content_hash": "ec87b98b1bdb67523010cd193514b6b6f69a4766b1f2ba2a5e72a97e2df3e6d7",
+      "updated_at": "2026-06-12T12:07:50+00:00"
+    },
+    "1923694914514632706": {
+      "title": "中科时代 - Linux软件开发 - 复试",
+      "company": "中科时代",
+      "post": "嵌入式linux软件工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/中科时代/1923694914514632706-中科时代---Linux软件开发---复试.md",
+      "content_hash": "c78e05d3a09d52c3b0558f076af2f03bd5b72e9f179e37c381a058963e0e97cb",
+      "updated_at": "2026-06-12T12:07:51+00:00"
+    },
+    "1915653617799307265": {
+      "title": "灵犀互娱一、二面",
+      "company": "阿里巴巴灵犀互娱",
+      "post": "游戏服务器开发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/阿里巴巴灵犀互娱/1915653617799307265-灵犀互娱一、二面.md",
+      "content_hash": "f4245a0ca005b981229dcace85019c074ca19f0897ddfcbe3ac9cb6d3c033d76",
+      "updated_at": "2026-06-12T12:07:51+00:00"
+    },
+    "1915693292601647106": {
+      "title": "拼多多春招 客户端开发一面",
+      "company": "拼多多",
+      "post": "客户端开发",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/拼多多/1915693292601647106-拼多多春招-客户端开发一面.md",
+      "content_hash": "7f21030f478abdabdf338a4f1b8e5e021f2083efbab6090009969a6a0e236a48",
+      "updated_at": "2026-06-12T12:07:51+00:00"
+    },
+    "1999749027760881666": {
+      "title": "长川科技-自动化软件实习",
+      "company": "长川科技",
+      "post": "自动化软件工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/长川科技/1999749027760881666-长川科技-自动化软件实习.md",
+      "content_hash": "374f9370002e3ad3169c8f64b39220d61abd4ae04ef574f24532fa4b631c2e53",
+      "updated_at": "2026-06-12T12:07:52+00:00"
+    },
+    "2026984691686342658": {
+      "title": "金山世游客户端开发实习生面试[C++]",
+      "company": "金山游戏",
+      "post": "游戏客户端",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/金山游戏/2026984691686342658-金山世游客户端开发实习生面试[C++].md",
+      "content_hash": "d2e732fca8770856febcbbc7256985b64d81bbb0b279867b7cbe645736115309",
+      "updated_at": "2026-06-12T12:07:52+00:00"
+    },
+    "1985181265080303618": {
+      "title": "海康威视 C/C++应用软件开发 一面",
+      "company": "海康威视",
+      "post": "C/C++ 软件开发工程师",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/海康威视/1985181265080303618-海康威视-C-C++应用软件开发-一面.md",
+      "content_hash": "916c5b80b7e756facd109c284dee0276fbb71d575959799bf562efe2530c47f6",
+      "updated_at": "2026-06-12T12:07:52+00:00"
+    },
+    "2056671968276418562": {
+      "title": "北京心影随形 测试开发",
+      "company": "心影随形",
+      "post": "测试开发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/心影随形/2056671968276418562-北京心影随形-测试开发.md",
+      "content_hash": "43ff7ad7512014628b38c7533a2bc33fbda1671192fb83dcba2daf39c21cc6e8",
+      "updated_at": "2026-06-12T12:07:52+00:00"
+    },
+    "1968987363033935874": {
+      "title": "杭州炎魂 - 笔试 -  后端",
+      "company": "炎魂",
+      "post": "后端开发",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/炎魂/1968987363033935874-杭州炎魂---笔试---后端.md",
+      "content_hash": "c79a9024154db640c3c6059752c1af198deda9bd1b2ba02b2b407aa1d63418e1",
+      "updated_at": "2026-06-12T12:07:53+00:00"
+    },
+    "1995086441463312386": {
+      "title": "北京一雄信息科技有限公司 面试",
+      "company": "北京一雄信息科技有限公司",
+      "post": "C开发工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/北京一雄信息科技有限公司/1995086441463312386-北京一雄信息科技有限公司-面试.md",
+      "content_hash": "0cac25702a4ae40e31b4fd688748d3fc330b01ad75f5f26124e1b2b960257218",
+      "updated_at": "2026-06-12T12:07:53+00:00"
+    },
+    "2009181302898532353": {
+      "title": "灵狐科技",
+      "company": "灵狐科技",
+      "post": "Java开发工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/灵狐科技/2009181302898532353-灵狐科技.md",
+      "content_hash": "23555eba27982f376e6cd4b88180e5a3bc803400697079010c79d95e91648c06",
+      "updated_at": "2026-06-12T12:07:53+00:00"
+    },
+    "2017137114317004801": {
+      "title": "2026-1-30-智识神工NPCTEK一面",
+      "company": "智识神工（上海）信息技术",
+      "post": "Java开发工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/智识神工（上海）信息技术/2017137114317004801-2026-1-30-智识神工NPCTEK一面.md",
+      "content_hash": "47b7ec3644f4304bd3cc39dfa7f7f3d264b400549093eb5ea81cf21a4e31e228",
+      "updated_at": "2026-06-12T12:07:54+00:00"
+    },
+    "2028807735350308865": {
+      "title": "宁波数展一面",
+      "company": "宁波数展信息科技有限公司",
+      "post": "Java开发工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/宁波数展信息科技有限公司/2028807735350308865-宁波数展一面.md",
+      "content_hash": "b79cf5d738889cadd00efe8396091c58c7cd1cc0d650f9f3d46e2b8612b7cdf1",
+      "updated_at": "2026-06-12T12:07:54+00:00"
+    },
+    "1903798267877998593": {
+      "title": "黑镜科技 测试",
+      "company": "北京黑镜科技",
+      "post": "软件测试实习生",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/北京黑镜科技/1903798267877998593-黑镜科技-测试.md",
+      "content_hash": "31b5e46df04ed095ec2661f7c950119d5b39020358c6a913a9bb324faf93f6a6",
+      "updated_at": "2026-06-12T12:07:54+00:00"
+    },
+    "1914210657433985026": {
+      "title": "客户端",
+      "company": "腾讯",
+      "post": "桌面客户端开发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/腾讯/1914210657433985026-客户端.md",
+      "content_hash": "0c34c9f08e784b4148ef5036e6744a00e28221d706b20c090aabb50ea8b7d719",
+      "updated_at": "2026-06-12T12:07:55+00:00"
+    },
+    "1968579348891889666": {
+      "title": "4399 - 游戏服务器 - 三面",
+      "company": "4399",
+      "post": "游戏服务器开发",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/4399/1968579348891889666-4399---游戏服务器---三面.md",
+      "content_hash": "38dd755fffc6e661e4286ae9864821f0ef12980c6c75950ffc5680c23fd654a8",
+      "updated_at": "2026-06-12T12:07:55+00:00"
+    },
+    "2039524865637015553": {
+      "title": "喜马拉雅",
+      "company": "喜马拉雅",
+      "post": "Java开发工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/喜马拉雅/2039524865637015553-喜马拉雅.md",
+      "content_hash": "bb1edcf5a3746d6531604190be73ae8f98fefc91754dd6f81dc00c2efa95fd3c",
+      "updated_at": "2026-06-12T12:07:55+00:00"
+    },
+    "1934607086761480194": {
+      "title": "华汉伟业科技有限公司",
+      "company": "华汉伟业",
+      "post": "后端开发",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/华汉伟业/1934607086761480194-华汉伟业科技有限公司.md",
+      "content_hash": "79c6220ed9bcaba03c1b20a7271d858c4ea2fcdc572a5ef1e98c7b8abcd849f4",
+      "updated_at": "2026-06-12T12:07:56+00:00"
+    },
+    "1937430983827402753": {
+      "title": "成都领之锋",
+      "company": "成都领之锋网络技术有限公司",
+      "post": "C++实习生",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/成都领之锋网络技术有限公司/1937430983827402753-成都领之锋.md",
+      "content_hash": "05137a1a21b72ec2b2f9fa172f42785b2cd9e0618651cd53428719cabc4a1170",
+      "updated_at": "2026-06-12T12:07:56+00:00"
+    },
+    "2009520939282178049": {
+      "title": "合思 - 测试开发实习 一面",
+      "company": "北京合思汇智信息技术有限公司",
+      "post": "测试开发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/北京合思汇智信息技术有限公司/2009520939282178049-合思---测试开发实习-一面.md",
+      "content_hash": "502aaa30490012cd27847dd11e441cec7802db0e8493ea77bcca360cd88bb7e6",
+      "updated_at": "2026-06-12T12:07:56+00:00"
+    },
+    "2009517037514104834": {
+      "title": "要易云科技——测试实习一面",
+      "company": "要易云科技",
+      "post": "测试工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/要易云科技/2009517037514104834-要易云科技——测试实习一面.md",
+      "content_hash": "4bad1e8a8aceb4d3c6a2bf5936ef877d571a89092f5393ae0bde8aee000d7453",
+      "updated_at": "2026-06-12T12:07:56+00:00"
+    },
+    "2031207086596993025": {
+      "title": "中科信息技术——测试",
+      "company": "宁波中科信息技术应用研究院",
+      "post": "测试工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/宁波中科信息技术应用研究院/2031207086596993025-中科信息技术——测试.md",
+      "content_hash": "84c4ee21241f6ff733f20c38289fe9551d2dc0cd6e27fa421352fccfcb9b7c5a",
+      "updated_at": "2026-06-12T12:07:57+00:00"
+    },
+    "2033453424885768193": {
+      "title": "蔚蓝数科面经",
+      "company": "蔚蓝数科",
+      "post": "java后端",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/蔚蓝数科/2033453424885768193-蔚蓝数科面经.md",
+      "content_hash": "9f33635918a07e83b5a42c70dbdff9fde4b1af27d471651f81307f7a0edd653c",
+      "updated_at": "2026-06-12T12:07:57+00:00"
+    },
+    "1983057793487159297": {
+      "title": "大华股份嵌入式软件二面",
+      "company": "大华股份",
+      "post": "嵌入式软件开发",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/大华股份/1983057793487159297-大华股份嵌入式软件二面.md",
+      "content_hash": "1ca1fbd2b6b38b335f4a57eb2d8b02eaee037469d512fa14d2d7f728f4f493df",
+      "updated_at": "2026-06-12T12:07:57+00:00"
+    },
+    "1970436087895429122": {
+      "title": "智协慧同C++一面",
+      "company": "智协慧同",
+      "post": "C/C++ 软件开发工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/智协慧同/1970436087895429122-智协慧同C++一面.md",
+      "content_hash": "dc71a69603c93ae9ce3089e685b189528cb07cc756121621333725a2925eb8b9",
+      "updated_at": "2026-06-12T12:07:58+00:00"
+    },
+    "1971917467078758402": {
+      "title": "百度-客户端面经",
+      "company": "百度",
+      "post": "客户端开发",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/百度/1971917467078758402-百度-客户端面经.md",
+      "content_hash": "9c6aa046ad6bbc89cd2d3ec4f3f6dd2c304a9de82c0233b7ff3d76c25bf5139e",
+      "updated_at": "2026-06-12T12:07:58+00:00"
+    },
+    "2036404133054799873": {
+      "title": "360 中间件研发工程师 一面",
+      "company": "奇虎360【比特高校】",
+      "post": "中间件开发工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/奇虎360【比特高校】/2036404133054799873-360-中间件研发工程师-一面.md",
+      "content_hash": "03a0d757b24f4bf77b520c935b43cf7233958e960d1a3c369fd6058bf9c008f2",
+      "updated_at": "2026-06-12T12:07:58+00:00"
+    },
+    "1140965978441960398": {
+      "title": "交大捷普-C++开发-面经一面",
+      "company": "交大捷普",
+      "post": "C++后台开发",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/交大捷普/1140965978441960398-交大捷普-C++开发-面经一面.md",
+      "content_hash": "3ed8bc18c0ac2f71bd00a5481e45f9fc899132d5026f2ab15b07d653605adab6",
+      "updated_at": "2026-06-12T12:07:58+00:00"
+    },
+    "1910633736599134209": {
+      "title": "小米安卓开发",
+      "company": "小米",
+      "post": "安卓开发",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/小米/1910633736599134209-小米安卓开发.md",
+      "content_hash": "7b11f98b5271301e4b52fdae5da05cef10b1c132543cf6fed24c7fd8782c1619",
+      "updated_at": "2026-06-12T12:07:59+00:00"
+    },
+    "1986723182574247937": {
+      "title": "吉比特  一面",
+      "company": "吉比特",
+      "post": "游戏测试",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/吉比特/1986723182574247937-吉比特-一面.md",
+      "content_hash": "8b3683224e4186bde4bc2af7441eea3dbacab56c9bc1562c16477eaa4790220b",
+      "updated_at": "2026-06-12T12:07:59+00:00"
+    },
+    "1986725003833319426": {
+      "title": "博思软件   一面",
+      "company": "博思软件",
+      "post": "测试工程师",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/博思软件/1986725003833319426-博思软件-一面.md",
+      "content_hash": "9bf6fb846085407dc2f319820296f162b894c4263568264f9915473540490a86",
+      "updated_at": "2026-06-12T12:07:59+00:00"
+    },
+    "2001120500618543106": {
+      "title": "英诺菲特科技  软件工程师",
+      "company": "英诺菲特科技",
+      "post": "高级软件工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/英诺菲特科技/2001120500618543106-英诺菲特科技-软件工程师.md",
+      "content_hash": "d59154edb0ba1ada52a82c4a5138031ff752831bb4abddad02b227c9e611ad1a",
+      "updated_at": "2026-06-12T12:08:00+00:00"
+    },
+    "2014988673776263169": {
+      "title": "中科天塔--Java开发实习",
+      "company": "中科天塔",
+      "post": "java后端",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/中科天塔/2014988673776263169-中科天塔--Java开发实习.md",
+      "content_hash": "418d1f78f4b8821287bc8568872ff812d0a3ccc45d765478ede020f903e63373",
+      "updated_at": "2026-06-12T12:08:00+00:00"
+    },
+    "2033413829758427137": {
+      "title": "赛美特——java开发",
+      "company": "赛美特",
+      "post": "Java初级开发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/赛美特/2033413829758427137-赛美特——java开发.md",
+      "content_hash": "0310627ab3d9146624f1c6372aaf726344910b1b95e2b8b6ce6ab97c1a50d8eb",
+      "updated_at": "2026-06-12T12:08:00+00:00"
+    },
+    "1839126848682827778": {
+      "title": "tap4fun 服务器开发 一面",
+      "company": "tap4fun",
+      "post": "游戏服务器开发",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/tap4fun/1839126848682827778-tap4fun-服务器开发-一面.md",
+      "content_hash": "17b45f6f3a9831044696545356abf6be6c6bd32152d529ed106912284dbbdc4b",
+      "updated_at": "2026-06-12T12:08:00+00:00"
+    },
+    "2034890649460781058": {
+      "title": "传音控股--一面",
+      "company": "传音控股",
+      "post": "测试工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/传音控股/2034890649460781058-传音控股--一面.md",
+      "content_hash": "9d65affcf70a284e387e723b58de055f60fb2737876f327c781b9ba57cc581b0",
+      "updated_at": "2026-06-12T12:08:01+00:00"
+    },
+    "2035884716663484417": {
+      "title": "洋葱学园--测试实习生",
+      "company": "洋葱学园",
+      "post": "测试工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/洋葱学园/2035884716663484417-洋葱学园--测试实习生.md",
+      "content_hash": "9ec53cf9d36b535016e3f3e55c6ed5c5d53f2bdf7283119db31a5fa0d0ae574e",
+      "updated_at": "2026-06-12T12:08:01+00:00"
+    },
+    "2042143622318448642": {
+      "title": "南京思后行信息技术有限公司",
+      "company": "南京思后行信息技术有限公司",
+      "post": "全栈工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/南京思后行信息技术有限公司/2042143622318448642-南京思后行信息技术有限公司.md",
+      "content_hash": "068f4513751254724b3fed0600febc1ae87f6cbb06ef61f29caaf1ff78f4a10f",
+      "updated_at": "2026-06-12T12:08:01+00:00"
+    },
+    "2042848928438607874": {
+      "title": "华勤技术-一面",
+      "company": "华勤技术股份有限公司",
+      "post": "软件测试实习生",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/华勤技术股份有限公司/2042848928438607874-华勤技术-一面.md",
+      "content_hash": "1e27b851a0e2f8e57b02b3fbb7adcbfb51ed298df8c7a07959c542b9663dcf30",
+      "updated_at": "2026-06-12T12:08:02+00:00"
+    },
+    "1934606031180992514": {
+      "title": "东莞世工智能科技有限公司",
+      "company": "东莞世工智能科技有限公司",
+      "post": "后端开发",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/东莞世工智能科技有限公司/1934606031180992514-东莞世工智能科技有限公司.md",
+      "content_hash": "7c5e16d12552a1417143b6bffbaed120e9bdf62dcbe713f2de337074f6a197be",
+      "updated_at": "2026-06-12T12:08:02+00:00"
+    },
+    "1942517540930367490": {
+      "title": "同行者科技",
+      "company": "同行者科技",
+      "post": "C++实习生",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/同行者科技/1942517540930367490-同行者科技.md",
+      "content_hash": "78253d082d9a2cd42c8a42690f70015c56d53fd53103380a8bd818793c39cde2",
+      "updated_at": "2026-06-12T12:08:02+00:00"
+    },
+    "1943621734647115777": {
+      "title": "数坤网络科技测试开发一面",
+      "company": "数坤网络科技",
+      "post": "测试开发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/数坤网络科技/1943621734647115777-数坤网络科技测试开发一面.md",
+      "content_hash": "2635dfc2a180598185c4670cd45b9dd449e494c51b7e5ee87e226cd7ad691a90",
+      "updated_at": "2026-06-12T12:08:02+00:00"
+    },
+    "1942519218593247233": {
+      "title": "小天才",
+      "company": "小天才",
+      "post": "安卓开发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/小天才/1942519218593247233-小天才.md",
+      "content_hash": "56c5bb5b6f9b9e02a4e6cc66032cf75ac43a600841161a5723f36ed862caab6e",
+      "updated_at": "2026-06-12T12:08:03+00:00"
+    },
+    "1943603789418115073": {
+      "title": "字节客户端开发",
+      "company": "字节跳动",
+      "post": "客户端开发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/字节跳动/1943603789418115073-字节客户端开发.md",
+      "content_hash": "486facd8c12daa59cf237dcb84d58b143bf07813ea7fa658853580a2cb126b2e",
+      "updated_at": "2026-06-12T12:08:03+00:00"
+    },
+    "1982010840007467010": {
+      "title": "荣耀一面",
+      "company": "荣耀",
+      "post": "软件研发工程师",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/荣耀/1982010840007467010-荣耀一面.md",
+      "content_hash": "c3b79c3c12ad9247b05e6eedaed94e29092103e725a96e290be36f1fe32b291f",
+      "updated_at": "2026-06-12T12:08:03+00:00"
+    },
+    "1991396767234506754": {
+      "title": "广和通 C++开发工程师 技术一面",
+      "company": "广和通",
+      "post": "C/C++ 软件开发工程师",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/广和通/1991396767234506754-广和通-C++开发工程师-技术一面.md",
+      "content_hash": "23e4fc148da74d04a8d891581878acff3104c02bcabbe1c787222e60ae235415",
+      "updated_at": "2026-06-12T12:08:04+00:00"
+    },
+    "1904435455938478081": {
+      "title": "深思考 测试",
+      "company": "深思考",
+      "post": "软件测试实习生",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/深思考/1904435455938478081-深思考-测试.md",
+      "content_hash": "773f3e95880ea4810931e805de1335e6a24c28dd3ea4050564c10f763f4daba7",
+      "updated_at": "2026-06-12T12:08:04+00:00"
+    },
+    "1917088670928510977": {
+      "title": "腾讯-客户端-二面",
+      "company": "腾讯",
+      "post": "客户端开发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/腾讯/1917088670928510977-腾讯-客户端-二面.md",
+      "content_hash": "b0854e664aa736f99c3384ebffaab6e81cff4b07c94d1f2ac5fa98fc5d933fb7",
+      "updated_at": "2026-06-12T12:08:04+00:00"
+    },
+    "1968245937660665858": {
+      "title": "富特科技-软件测试一面",
+      "company": "浙江富特科技股份有限公司",
+      "post": "软件测试工程师",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/浙江富特科技股份有限公司/1968245937660665858-富特科技-软件测试一面.md",
+      "content_hash": "3163827ccdb3864450fa60dc073b255bf17a73a47dbbecca32f4673fa19d79a3",
+      "updated_at": "2026-06-12T12:08:04+00:00"
+    },
+    "1968990168436109314": {
+      "title": "戈途科技 - 二面",
+      "company": "戈途科技",
+      "post": "c++开发工程师",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/戈途科技/1968990168436109314-戈途科技---二面.md",
+      "content_hash": "b676236bbafcbb5ce0dd1fc3c7aa0b8be33715147e9f51bc7f2d94f1bef2680a",
+      "updated_at": "2026-06-12T12:08:05+00:00"
+    },
+    "1970683490770751489": {
+      "title": "字节 国际广告 一面",
+      "company": "字节跳动",
+      "post": "后端开发",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/字节跳动/1970683490770751489-字节-国际广告-一面.md",
+      "content_hash": "0f819a8ce9b904e4b71f1c1fa9d014839800fd04ef39be8f8dbba64fb230915f",
+      "updated_at": "2026-06-12T12:08:05+00:00"
+    },
+    "2008729631378612226": {
+      "title": "神工坊智能科技（全栈工程师实习）",
+      "company": "智识神工（上海）信息技术",
+      "post": "全栈工程师",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/智识神工（上海）信息技术/2008729631378612226-神工坊智能科技（全栈工程师实习）.md",
+      "content_hash": "51578d4374d60fdbb57c0975cd80df91136d59dc0f8bba14696dc9a58ec2c2c9",
+      "updated_at": "2026-06-12T12:08:05+00:00"
+    },
+    "2010528978688778241": {
+      "title": "星程智能后端开发一面",
+      "company": "广州星程智能科技有限公司",
+      "post": "后端开发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/广州星程智能科技有限公司/2010528978688778241-星程智能后端开发一面.md",
+      "content_hash": "72d8e1da32dbfb537b053527ca83ec38918ae9e50ac33e053541948cc2ae296b",
+      "updated_at": "2026-06-12T12:08:06+00:00"
+    },
+    "2037851569975668738": {
+      "title": "先安科技 C/C++开发工程师 一面",
+      "company": "南京先安科技",
+      "post": "C/C++ 软件开发工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/南京先安科技/2037851569975668738-先安科技-C-C++开发工程师-一面.md",
+      "content_hash": "0ff5631d8501b3a89ff2139d1a7df23b4ab4b2f5654b477946ebacadaa32dd3e",
+      "updated_at": "2026-06-12T12:08:06+00:00"
+    },
+    "2043991280351895554": {
+      "title": "腾讯wxg一面",
+      "company": "腾讯",
+      "post": "后台开发实习",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/腾讯/2043991280351895554-腾讯wxg一面.md",
+      "content_hash": "790cb1686b7edcd2f0816224cc0b44387bb8cba0b313bc1f733af3408202d7cd",
+      "updated_at": "2026-06-12T12:08:06+00:00"
+    },
+    "2036305404503154690": {
+      "title": "横乐医疗科技",
+      "company": "珠海横乐医疗",
+      "post": "C/C++ 软件开发工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/珠海横乐医疗/2036305404503154690-横乐医疗科技.md",
+      "content_hash": "39a61677b4d132f80549b6fb97164b47d0511db5a2f7d52c970a1050be52e6ca",
+      "updated_at": "2026-06-12T12:08:06+00:00"
+    },
+    "2045795701532581890": {
+      "title": "腾讯WXG一面",
+      "company": "腾讯",
+      "post": "后端开发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/腾讯/2045795701532581890-腾讯WXG一面.md",
+      "content_hash": "6d277a35d04fa79a87f04b1f6965eb2603beace43d9a6f088dba5eff0360aafb",
+      "updated_at": "2026-06-12T12:08:07+00:00"
+    },
+    "1968987837514575874": {
+      "title": "腾讯客户端 - AI面试",
+      "company": "腾讯",
+      "post": "客户端开发",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/腾讯/1968987837514575874-腾讯客户端---AI面试.md",
+      "content_hash": "d4c118f005fc39ad579ee1ba45df8c6a570048e368c7ffc01a157c724eaab3e9",
+      "updated_at": "2026-06-12T12:08:07+00:00"
+    },
+    "1970055127425282049": {
+      "title": "多益游戏客户端开发（回忆）",
+      "company": "多益网络",
+      "post": "游戏客户端",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/多益网络/1970055127425282049-多益游戏客户端开发（回忆）.md",
+      "content_hash": "6695bb51414c44cc2c5b64d8d80f20205d029db87d4ba4310bb0386edf19a071",
+      "updated_at": "2026-06-12T12:08:07+00:00"
+    },
+    "1976965188680593409": {
+      "title": "真景科技-Qt开发工程师一面",
+      "company": "真景科技",
+      "post": "QT开发工程师",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/真景科技/1976965188680593409-真景科技-Qt开发工程师一面.md",
+      "content_hash": "7774015eb59cc267b7a5f8fadf317854ad39599e4c3891066c9a5239dc0bce2c",
+      "updated_at": "2026-06-12T12:08:08+00:00"
+    },
+    "1986723868951126018": {
+      "title": "英雄游戏  一面",
+      "company": "英雄游戏有限公司",
+      "post": "游戏测试",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/英雄游戏有限公司/1986723868951126018-英雄游戏-一面.md",
+      "content_hash": "e7b073352145b49418c84834dab3a48a35cee43f948b3100f1371a939c547393",
+      "updated_at": "2026-06-12T12:08:08+00:00"
+    },
+    "1918596150368059393": {
+      "title": "华汉伟业一二面：",
+      "company": "华汉伟业",
+      "post": "C/C++ 软件开发工程师",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/华汉伟业/1918596150368059393-华汉伟业一二面：.md",
+      "content_hash": "abd184b9e291738e77311ad63129842b4188ecc9a13fe002369658213f32645b",
+      "updated_at": "2026-06-12T12:08:08+00:00"
+    },
+    "1918605857237417985": {
+      "title": "京东测开一面：",
+      "company": "京东",
+      "post": "测试开发",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/京东/1918605857237417985-京东测开一面：.md",
+      "content_hash": "c564cfc8a38e1a6a66fef7c0091fb60aae66ab547de8f3ecd9a62e2e6ea65d3a",
+      "updated_at": "2026-06-12T12:08:08+00:00"
+    },
+    "1943565806589620225": {
+      "title": "深圳市腾娱互动科技游戏客户端开发",
+      "company": "深圳市腾娱互动科技有限公司",
+      "post": "游戏客户端",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/深圳市腾娱互动科技有限公司/1943565806589620225-深圳市腾娱互动科技游戏客户端开发.md",
+      "content_hash": "931edfecf75975a912fd826f1c03af5ec0236812025aece8a7e8f1aa2dfe1d27",
+      "updated_at": "2026-06-12T12:08:09+00:00"
+    },
+    "1946845279682445314": {
+      "title": "北京一苇宇航科技 -C++实习生",
+      "company": "一苇宇航（北京）科技有限公司",
+      "post": "C++实习生",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/一苇宇航（北京）科技有限公司/1946845279682445314-北京一苇宇航科技--C++实习生.md",
+      "content_hash": "0bbb3245312904db23eca29b8eb338fe17ccf506e5d629ae96fc1ad426d11265",
+      "updated_at": "2026-06-12T12:08:09+00:00"
+    },
+    "1859505077985730562": {
+      "title": "广联达-软开c++-官网",
+      "company": "广联达",
+      "post": "C/C++ 软件开发工程师",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/广联达/1859505077985730562-广联达-软开c++-官网.md",
+      "content_hash": "58cfe37ecccd629c0a8d54cb8c8b56d5204466506b3211e1cb0e374b8ca01541",
+      "updated_at": "2026-06-12T12:08:09+00:00"
+    },
+    "1914943826651160578": {
+      "title": "江波龙-测试实习",
+      "company": "江波龙",
+      "post": "测试工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/江波龙/1914943826651160578-江波龙-测试实习.md",
+      "content_hash": "b6c10d09471219005dbc3fdf529b2413cb2432093dd30b37e2e085c6a059c472",
+      "updated_at": "2026-06-12T12:08:10+00:00"
+    },
+    "1823307128842960898": {
+      "title": "大连北境互娱（腾讯全资游戏相关子公司）-游戏开发实习生-一面",
+      "company": "大连北境互动娱乐科技有限公司",
+      "post": "游戏开发工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/大连北境互动娱乐科技有限公司/1823307128842960898-大连北境互娱（腾讯全资游戏相关子公司）-游戏开发实习生-一面.md",
+      "content_hash": "6279f307c453b9f99cb2afd1211d7a531f798d9e7008bd67d13286e24eb39cdc",
+      "updated_at": "2026-06-12T12:08:10+00:00"
+    },
+    "2009521839920881666": {
+      "title": "合思 - 测试开发实习  2面",
+      "company": "北京合思汇智信息技术有限公司",
+      "post": "测试开发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/北京合思汇智信息技术有限公司/2009521839920881666-合思---测试开发实习-2面.md",
+      "content_hash": "d1fae58fc6109bf4be82293e2e3e1d0b8bc100d001e332c498b3b3103e7d58bc",
+      "updated_at": "2026-06-12T12:08:10+00:00"
+    },
+    "2015388169358188545": {
+      "title": "英语流利说 测试实习生",
+      "company": "英语流利说",
+      "post": "测试工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/英语流利说/2015388169358188545-英语流利说-测试实习生.md",
+      "content_hash": "bd5449662bd9ce195c3600e4d61663beb9077d674dfdfa77467b8963f6cd3978",
+      "updated_at": "2026-06-12T12:08:11+00:00"
+    },
+    "2016863449935454210": {
+      "title": "Java开发实习--中科天塔",
+      "company": "中科天塔",
+      "post": "Java开发工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/中科天塔/2016863449935454210-Java开发实习--中科天塔.md",
+      "content_hash": "c8258944f572a1ad1891c3522ea8eb11b87b80ea92c62d057b059bb559a8bf91",
+      "updated_at": "2026-06-12T12:08:11+00:00"
+    },
+    "2031235973909491714": {
+      "title": "奇梦者科技 C/Linux开发 一二面",
+      "company": "苏州奇梦者科技",
+      "post": "C开发工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/苏州奇梦者科技/2031235973909491714-奇梦者科技-C-Linux开发-一二面.md",
+      "content_hash": "e503ee21c4c022b2725a94f0f79537be02f2d152f2f079fc9c5086fff4e47690",
+      "updated_at": "2026-06-12T12:08:11+00:00"
+    },
+    "1986342084774141954": {
+      "title": "乐易网络-测试工程师一面",
+      "company": "深圳市乐易网络股份有限公司",
+      "post": "测试工程师",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/深圳市乐易网络股份有限公司/1986342084774141954-乐易网络-测试工程师一面.md",
+      "content_hash": "52a96cf2f87e890e80f00b76684a9bb342f923a07741316744aa1a0922e0dff5",
+      "updated_at": "2026-06-12T12:08:11+00:00"
+    },
+    "2036403478252642305": {
+      "title": "广州四合创新科技有限公司 软件开发工程师 一面",
+      "company": "广州四合创新科技有限公司",
+      "post": "C/C++ 软件开发工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/广州四合创新科技有限公司/2036403478252642305-广州四合创新科技有限公司-软件开发工程师-一面.md",
+      "content_hash": "3542de7341d55ed4515d4152e376d95e6c1fc18d819eb52dcca81e68c052db33",
+      "updated_at": "2026-06-12T12:08:12+00:00"
+    },
+    "2041814970892476418": {
+      "title": "华银康集团-软件测试实习-一面",
+      "company": "广州华银康集团股份有限公司",
+      "post": "软件测试实习生",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/广州华银康集团股份有限公司/2041814970892476418-华银康集团-软件测试实习-一面.md",
+      "content_hash": "8bb63671802b2f9f28619dd95e128adf6417ba8b1e6c84802e701e7730b8f2a0",
+      "updated_at": "2026-06-12T12:08:12+00:00"
+    },
+    "2042872828895617025": {
+      "title": "金山办公-软件测试实习生",
+      "company": "金山WPS",
+      "post": "软件测试实习生",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/金山WPS/2042872828895617025-金山办公-软件测试实习生.md",
+      "content_hash": "5c6f259ce3b2b56e96f266f80d8d79de826b8f1f8627d33ff30b6edb918e574d",
+      "updated_at": "2026-06-12T12:08:12+00:00"
+    },
+    "2046894512455737346": {
+      "title": "绿盟科技研发岗一面",
+      "company": "绿盟科技",
+      "post": "C/C++ 软件开发工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/绿盟科技/2046894512455737346-绿盟科技研发岗一面.md",
+      "content_hash": "40589b8d102e872cf7654b74743808c85aed530a18f69f39208f69e823546b53",
+      "updated_at": "2026-06-12T12:08:12+00:00"
+    },
+    "2047311902691725314": {
+      "title": "网易互娱游戏服务端一面",
+      "company": "网易互娱",
+      "post": "游戏服务器开发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/网易互娱/2047311902691725314-网易互娱游戏服务端一面.md",
+      "content_hash": "b213080b74be93af6f91abbb8484c7417006168da2f8f7ac53cd4bbc7517aaf4",
+      "updated_at": "2026-06-12T12:08:13+00:00"
+    },
+    "1968578242455465985": {
+      "title": "4399 - 游戏服务器 - 一面",
+      "company": "4399",
+      "post": "游戏服务器开发",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/4399/1968578242455465985-4399---游戏服务器---一面.md",
+      "content_hash": "8387d2feb1945fa0e16bb0809127c4638655d05b3493a5f431c5742a8ad1aacf",
+      "updated_at": "2026-06-12T12:08:13+00:00"
+    },
+    "1945685862375112706": {
+      "title": "C++ 千里时空 一面7.17",
+      "company": "北京千里时空科技有限公司",
+      "post": "C++软件开发工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/北京千里时空科技有限公司/1945685862375112706-C++-千里时空-一面7.17.md",
+      "content_hash": "a749784303e371968ce5ecdf8a249584f565902deaa9c64c05a58d2c21e7064f",
+      "updated_at": "2026-06-12T12:08:13+00:00"
+    },
+    "1994593908870246401": {
+      "title": "汇丰科技 技术面+HR面",
+      "company": "汇丰科技",
+      "post": "软件开发",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/汇丰科技/1994593908870246401-汇丰科技-技术面+HR面.md",
+      "content_hash": "51cb4b58af9d2a7e48a08d1ef83cd38c9867e5ee415f1f10f0406f9936b437ed",
+      "updated_at": "2026-06-12T12:08:14+00:00"
+    },
+    "2009518848274833409": {
+      "title": "四川腾智",
+      "company": "沸腾(上海)科技有限公司",
+      "post": "测试工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/沸腾(上海)科技有限公司/2009518848274833409-四川腾智.md",
+      "content_hash": "fb2258500db301d374bb6328369497eca7fd5957c6e292a5a329258fb206af55",
+      "updated_at": "2026-06-12T12:08:14+00:00"
+    },
+    "1903794607894773762": {
+      "title": "嘉为科技 测试",
+      "company": "嘉为科技",
+      "post": "软件测试实习生",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/嘉为科技/1903794607894773762-嘉为科技-测试.md",
+      "content_hash": "ee44e73eae3de5e1a2305727ed3af8ff6cc14bcc187fdfd49d136fd25b2408d9",
+      "updated_at": "2026-06-12T12:08:14+00:00"
+    },
+    "1903795581547921410": {
+      "title": "用友网络 测试",
+      "company": "用友",
+      "post": "软件测试实习生",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/用友/1903795581547921410-用友网络-测试.md",
+      "content_hash": "291acc4adaccbc7e4a137ba57c10adce038d3d356491b27632fd44968d4d7cef",
+      "updated_at": "2026-06-12T12:08:14+00:00"
+    },
+    "1910632196131938305": {
+      "title": "小红书面经",
+      "company": "小红书",
+      "post": "客户端开发",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/小红书/1910632196131938305-小红书面经.md",
+      "content_hash": "79d104db517662963ae6a4004f3a5b0c29412139b0cf6aee9fd0455abd2f3683",
+      "updated_at": "2026-06-12T12:08:15+00:00"
+    },
+    "1911682345935462401": {
+      "title": "【面经】美团一面",
+      "company": "美团",
+      "post": "软件开发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/美团/1911682345935462401-【面经】美团一面.md",
+      "content_hash": "5c3dc62c696fc8f5dd31c5785450f8ceb473bdca758222865a1ec2670beebbfe",
+      "updated_at": "2026-06-12T12:08:15+00:00"
+    },
+    "1837131404524085250": {
+      "title": "法本-软件测试工程师（外派去测试鸿蒙系统）-实习一面",
+      "company": "深圳市法本信息技术股份有限公司",
+      "post": "软件测试工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/深圳市法本信息技术股份有限公司/1837131404524085250-法本-软件测试工程师（外派去测试鸿蒙系统）-实习一面.md",
+      "content_hash": "c89349510bd8006d726458eca4335e365a223970e076d44b401ec45e9758944e",
+      "updated_at": "2026-06-12T12:08:15+00:00"
+    },
+    "1140965978443005627": {
+      "title": "360影石一面（移动端C++开发工程师）",
+      "company": "Insta360",
+      "post": "C++后台开发",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/Insta360/1140965978443005627-360影石一面（移动端C++开发工程师）.md",
+      "content_hash": "f66d66ac44c1e4c0966180d4003e58d4dad01ff2c2a37cbb46f6d796e75e8658",
+      "updated_at": "2026-06-12T12:08:16+00:00"
+    },
+    "1714196345667383298": {
+      "title": "汇川技术 数字化测试 一面",
+      "company": "深圳市汇川技术股份有限公司西安分公司",
+      "post": "软件测试工程师",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/深圳市汇川技术股份有限公司西安分公司/1714196345667383298-汇川技术-数字化测试-一面.md",
+      "content_hash": "c0a10eb022fa0c98f9f7229184ee6e424d8bcea9224536e006c5ed272a2e68ee",
+      "updated_at": "2026-06-12T12:08:16+00:00"
+    },
+    "1831524895521976322": {
+      "title": "名创优品 一面正式",
+      "company": "名创优品",
+      "post": "后端开发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/名创优品/1831524895521976322-名创优品-一面正式.md",
+      "content_hash": "f8670851364dd08feffe916a0d07a5e308cb17697936833a52ec5e65eaf007b8",
+      "updated_at": "2026-06-12T12:08:16+00:00"
+    },
+    "1968980469351378946": {
+      "title": "陌陌 - 正式 - 服务端 - 笔试",
+      "company": "陌陌",
+      "post": "服务端开发初级工程师",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/陌陌/1968980469351378946-陌陌---正式---服务端---笔试.md",
+      "content_hash": "651765e88ce60924e5f5ed96183093cd6c546af6f299fed734e65dafb9714388",
+      "updated_at": "2026-06-12T12:08:17+00:00"
+    },
+    "1968982549344481282": {
+      "title": "起源太空 - 正式 - C++初级开发工程师",
+      "company": "北京感知起源科技有限公司",
+      "post": "c++开发工程师",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/北京感知起源科技有限公司/1968982549344481282-起源太空---正式---C++初级开发工程师.md",
+      "content_hash": "ce17ada9ee0307f47450dda22c5bd0643bfba3e9f9e1f800253ebdfeae509644",
+      "updated_at": "2026-06-12T12:08:17+00:00"
+    },
+    "1968984490216714241": {
+      "title": "滴滴26秋招笔试题 - 后端",
+      "company": "滴滴",
+      "post": "c++开发工程师",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/滴滴/1968984490216714241-滴滴26秋招笔试题---后端.md",
+      "content_hash": "d6a72f212b0ce58d44c640baed9c1a196abd67618dc033972874053237b4267f",
+      "updated_at": "2026-06-12T12:08:17+00:00"
+    },
+    "1970682784273797122": {
+      "title": "虾皮 一面",
+      "company": "虾皮（Shopee）",
+      "post": "后端开发",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/虾皮（Shopee）/1970682784273797122-虾皮-一面.md",
+      "content_hash": "f4bc45c952ab969dae1e6ba13820697d2c0acbf59fa0ad83fde04289b9c4721a",
+      "updated_at": "2026-06-12T12:08:17+00:00"
+    },
+    "1972579184515354626": {
+      "title": "亿道集团-测试工程师一面",
+      "company": "亿道集团",
+      "post": "测试工程师",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/亿道集团/1972579184515354626-亿道集团-测试工程师一面.md",
+      "content_hash": "61e20bc2898820a9e4fb1ec999c1674996a083e1bf738607388fbb22d441f9d0",
+      "updated_at": "2026-06-12T12:08:18+00:00"
+    },
+    "1964579488127688706": {
+      "title": "洋葱学院-测试（30min）",
+      "company": "洋葱学院",
+      "post": "测试工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/洋葱学院/1964579488127688706-洋葱学院-测试（30min）.md",
+      "content_hash": "82bccf1828e9f6493f7a21cd2f233807e1424d2480f9dba7787ec95826b2de08",
+      "updated_at": "2026-06-12T12:08:18+00:00"
+    },
+    "2041801872915750913": {
+      "title": "湖南朔奇科技有限公司 -软件测试-实习一面",
+      "company": "朔奇科技",
+      "post": "软件测试实习生",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/朔奇科技/2041801872915750913-湖南朔奇科技有限公司--软件测试-实习一面.md",
+      "content_hash": "abbe8d25e9235d7b86b9f1b3d9822b3ba9fdf750bb4e25023e0abb091a5c9e1f",
+      "updated_at": "2026-06-12T12:08:18+00:00"
+    },
+    "2042887410011791362": {
+      "title": "金山办公-hr面",
+      "company": "金山WPS",
+      "post": "软件测试实习生",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/金山WPS/2042887410011791362-金山办公-hr面.md",
+      "content_hash": "8246effc9b7a0b539d77b5ac381c68b1f4037f14941dfacce5ef4b046ca063ae",
+      "updated_at": "2026-06-12T12:08:18+00:00"
+    },
+    "2045003159962574850": {
+      "title": "中科闻歌-测试",
+      "company": "中科闻歌",
+      "post": "测试工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/中科闻歌/2045003159962574850-中科闻歌-测试.md",
+      "content_hash": "653e4e9f4def2a4a5fcfd24f246c5dfb63f2c8f6a93235ea3202c8362150fbab",
+      "updated_at": "2026-06-12T12:08:19+00:00"
+    },
+    "2057736644280094722": {
+      "title": "安脉盛  软件后端实习生",
+      "company": "杭州安脉盛智能技术有限公司",
+      "post": "java后端",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/杭州安脉盛智能技术有限公司/2057736644280094722-安脉盛-软件后端实习生.md",
+      "content_hash": "a9ff848910c5c2468f113f20c7acb45c0ffef5e22ef7bffe8505d4c53c2817f0",
+      "updated_at": "2026-06-12T12:08:19+00:00"
+    },
+    "2059254933544144897": {
+      "title": "中控技术 测试开发助理实习",
+      "company": "中控技术股份有限公司",
+      "post": "测试开发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/中控技术股份有限公司/2059254933544144897-中控技术-测试开发助理实习.md",
+      "content_hash": "eb81879404a1abea1d529337f81a70ce28a24240db402f1a11de0766ef502d2d",
+      "updated_at": "2026-06-12T12:08:19+00:00"
+    },
+    "1913226683236655105": {
+      "title": "深圳猿人创新科技有限公司-测开实习",
+      "company": "猿人科技",
+      "post": "测试开发",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/猿人科技/1913226683236655105-深圳猿人创新科技有限公司-测开实习.md",
+      "content_hash": "4c1851593968b70ada9b6bcb156c9552708d784c3339f21659daefd65ed71b2a",
+      "updated_at": "2026-06-12T12:08:20+00:00"
+    },
+    "1914147475118006273": {
+      "title": "旷世三面",
+      "company": "旷视科技（Face++）",
+      "post": "测试开发",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/旷视科技（Face++）/1914147475118006273-旷世三面.md",
+      "content_hash": "c44fc43eb436b2b4b0f74aa8094cd989075b4cb79d08e019dc1f343663fd7e01",
+      "updated_at": "2026-06-12T12:08:20+00:00"
+    },
+    "1915243086189862914": {
+      "title": "腾讯云测试数据库方向一面(群面)：",
+      "company": "腾讯云智研发公司",
+      "post": "测试工程师",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/腾讯云智研发公司/1915243086189862914-腾讯云测试数据库方向一面(群面)：.md",
+      "content_hash": "f7ce92d1c8dc6cafcd51f7723689f02c37276b6762ec25036bc59732da9699c1",
+      "updated_at": "2026-06-12T12:08:20+00:00"
+    },
+    "1916405581243916289": {
+      "title": "成都拾梦网络科技 c++开发实习生",
+      "company": "成都拾梦网络科技有限公司",
+      "post": "c++开发工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/成都拾梦网络科技有限公司/1916405581243916289-成都拾梦网络科技-c++开发实习生.md",
+      "content_hash": "f5c0773d869d95c5d78f13431b6be4f5946d729320d6673ff3528cec4035fd5a",
+      "updated_at": "2026-06-12T12:08:20+00:00"
+    },
+    "1920374919361642497": {
+      "title": "中科时代 - Linux软件开发实习生",
+      "company": "中科时代",
+      "post": "Linux研发工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/中科时代/1920374919361642497-中科时代---Linux软件开发实习生.md",
+      "content_hash": "2ffc569fc6e6d99cfa007cc7e7d4ca16bc70fc14aec13d4196f221cf01b4ae75",
+      "updated_at": "2026-06-12T12:08:21+00:00"
+    },
+    "1938073699968061442": {
+      "title": "上海驿申Java实习一面面经",
+      "company": "驿申",
+      "post": "java后端",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/驿申/1938073699968061442-上海驿申Java实习一面面经.md",
+      "content_hash": "68d75b2100a361de50c6a22fd72a45877e5e560eb6653ea50630de3be456ff3e",
+      "updated_at": "2026-06-12T12:08:21+00:00"
+    },
+    "1942518599568502786": {
+      "title": "译选网络",
+      "company": "译选网络",
+      "post": "IOS开发工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/译选网络/1942518599568502786-译选网络.md",
+      "content_hash": "56db586e428671f5bd5cf5843a07cc4232fb7ac4e57a84567555d3d7a616f72d",
+      "updated_at": "2026-06-12T12:08:21+00:00"
+    },
+    "2029807065880244225": {
+      "title": "广州星奇异科技有限公司（软件测试技术员）",
+      "company": "星奇异",
+      "post": "软件测试实习生",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/星奇异/2029807065880244225-广州星奇异科技有限公司（软件测试技术员）.md",
+      "content_hash": "459a80d1bbdb5cfcb8eebc5c838f301f8c2e2f847e6adf580b63575d4851b3de",
+      "updated_at": "2026-06-12T12:08:22+00:00"
+    },
+    "1999138193254825985": {
+      "title": "优刻得科技股份有限公司(云计算技术支持(实习))",
+      "company": "UCloud（优刻得）",
+      "post": "云计算基础架构研发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/UCloud（优刻得）/1999138193254825985-优刻得科技股份有限公司(云计算技术支持(实习)).md",
+      "content_hash": "13352222ff3b51ef4b407f9e983201845b33932c74c2675450427296e67ab643",
+      "updated_at": "2026-06-12T12:08:22+00:00"
+    },
+    "2013817223803469825": {
+      "title": "流利说--测试实习生",
+      "company": "英语流利说",
+      "post": "测试工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/英语流利说/2013817223803469825-流利说--测试实习生.md",
+      "content_hash": "4c511e7f5946095dc25c2c2ded3de289621705f9e77aea02a60f112a2ace95a4",
+      "updated_at": "2026-06-12T12:08:22+00:00"
+    },
+    "2028400926399578114": {
+      "title": "润和科技 Java后端开发 一面",
+      "company": "江苏润和软件股份有限公司",
+      "post": "Java开发工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/江苏润和软件股份有限公司/2028400926399578114-润和科技-Java后端开发-一面.md",
+      "content_hash": "7416ae04e9485f297082d07eb957a65ef1df45e15e23b5753293e5308c598d02",
+      "updated_at": "2026-06-12T12:08:23+00:00"
+    },
+    "2029830706990854146": {
+      "title": "网新恒天软件Java开发",
+      "company": "网新恒天",
+      "post": "Java开发工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/网新恒天/2029830706990854146-网新恒天软件Java开发.md",
+      "content_hash": "c69eea3808d5366ebcc95b15866cd07ed19695a607d0372bbb22b659fc4fd8a0",
+      "updated_at": "2026-06-12T12:08:23+00:00"
+    },
+    "2030994069330505729": {
+      "title": "强师测试开发一面",
+      "company": "北京强师科技有限公司",
+      "post": "测试工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/北京强师科技有限公司/2030994069330505729-强师测试开发一面.md",
+      "content_hash": "32ab2c0d1bb36e936f2e47d8def47ba88cf12c319963bfbee3ea0186340b4b50",
+      "updated_at": "2026-06-12T12:08:23+00:00"
+    },
+    "1976983667706081282": {
+      "title": "天启智能科技-软件开发工程师（嵌入式&&Linux）-全流程",
+      "company": "天启科技",
+      "post": "C/C++ 软件开发工程师",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/天启科技/1976983667706081282-天启智能科技-软件开发工程师（嵌入式&&Linux）-全流程.md",
+      "content_hash": "1a8a7a85ed3d104a55bdf0d1cad0d0c6023d3d1437100b6d1444fda03f68eb8f",
+      "updated_at": "2026-06-12T12:08:23+00:00"
+    },
+    "1986350054434086913": {
+      "title": "极米科技-软件测试工程师一面",
+      "company": "极米科技",
+      "post": "软件测试工程师",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/极米科技/1986350054434086913-极米科技-软件测试工程师一面.md",
+      "content_hash": "a97d3d2c33be5d4a7f26c94970ab9cb9eff6579b2664cba2427429f5c5746c89",
+      "updated_at": "2026-06-12T12:08:24+00:00"
+    },
+    "1968578965666721794": {
+      "title": "4399 - 游戏服务器 - 二面",
+      "company": "4399",
+      "post": "游戏服务器开发",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/4399/1968578965666721794-4399---游戏服务器---二面.md",
+      "content_hash": "c91b7032b4049c98cd0d6427a61daf3e249b9ce1b667e62cb1643de5546be1ad",
+      "updated_at": "2026-06-12T12:08:24+00:00"
+    },
+    "1957719581592084481": {
+      "title": "杭州思看   软件实习生  2025-07-24",
+      "company": "思看科技",
+      "post": "软件实习生",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/思看科技/1957719581592084481-杭州思看-软件实习生-2025-07-24.md",
+      "content_hash": "5426079fddb971aca61b2104bb0949cec40c92a2a04f52a25367093051b358f9",
+      "updated_at": "2026-06-12T12:08:24+00:00"
+    },
+    "1934606646867070977": {
+      "title": "东莞市高洋信息科技",
+      "company": "东莞市高洋信息科技",
+      "post": "后端开发",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/东莞市高洋信息科技/1934606646867070977-东莞市高洋信息科技.md",
+      "content_hash": "e7e4587da4c21720dd1b42d1937dfd2663ad872a0d6211143e437d001151f6a5",
+      "updated_at": "2026-06-12T12:08:24+00:00"
+    },
+    "2042850971375034369": {
+      "title": "肤焕科技-测试实习生",
+      "company": "肤焕科技",
+      "post": "软件测试实习生",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/肤焕科技/2042850971375034369-肤焕科技-测试实习生.md",
+      "content_hash": "0c3e04ddfaf81169e713cc41e1232b85e33ddf9bc984c020d64e48b2c030ea3a",
+      "updated_at": "2026-06-12T12:08:25+00:00"
+    },
+    "2045034148046757890": {
+      "title": "零壹视界-智能体方向测试开发实习生-面试",
+      "company": "零壹视界",
+      "post": "测试开发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/零壹视界/2045034148046757890-零壹视界-智能体方向测试开发实习生-面试.md",
+      "content_hash": "d5607d78c905fb02190d954351c9c58ac69291a54c69ca5ffecc433d73169372",
+      "updated_at": "2026-06-12T12:08:25+00:00"
+    },
+    "1903796471679893506": {
+      "title": "电魂网络 黑盒测试实习生",
+      "company": "电魂网络",
+      "post": "软件测试实习生",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/电魂网络/1903796471679893506-电魂网络-黑盒测试实习生.md",
+      "content_hash": "c1d73c635a9d5f8e387304ed57466d9213682b6cc3702dcbac0ecd4b6f8a37f4",
+      "updated_at": "2026-06-12T12:08:25+00:00"
+    },
+    "1911314814787805186": {
+      "title": "章和技术笔试",
+      "company": "章和技术",
+      "post": "后端开发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/章和技术/1911314814787805186-章和技术笔试.md",
+      "content_hash": "bec00e4a13ed52763c9de3d91bc93c0925f62a0bd477da42d28e46560d5e7a6c",
+      "updated_at": "2026-06-12T12:08:26+00:00"
+    },
+    "1914148045136502786": {
+      "title": "中科星图深海一面",
+      "company": "中科星图股份有限公司",
+      "post": "C/C++ 软件开发工程师",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/中科星图股份有限公司/1914148045136502786-中科星图深海一面.md",
+      "content_hash": "0ad4f176fad743d3cff9e1b99d82237493cc930deab074b303940526661aed5a",
+      "updated_at": "2026-06-12T12:08:26+00:00"
+    },
+    "1140965978442464777": {
+      "title": "网易雷火 游戏开发工程师 面经（二面）",
+      "company": "网易雷火",
+      "post": "游戏开发工程师",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/网易雷火/1140965978442464777-网易雷火-游戏开发工程师-面经（二面）.md",
+      "content_hash": "d435fcfee734a19ee4c6aa8591d31844f77b8ab63877a269ae4a52623f35d6ce",
+      "updated_at": "2026-06-12T12:08:26+00:00"
+    },
+    "1903791093256765441": {
+      "title": "牛客 测试",
+      "company": "北京牛客科技有限公司",
+      "post": "软件测试实习生",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/北京牛客科技有限公司/1903791093256765441-牛客-测试.md",
+      "content_hash": "4ef4ab58c45cca823858e30cd21f577319fb6c71f7c1a18be2e348a514c52d46",
+      "updated_at": "2026-06-12T12:08:26+00:00"
+    },
+    "1915972735819751426": {
+      "title": "涂鸦智能一、二面：",
+      "company": "涂鸦智能",
+      "post": "IOS开发工程师",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/涂鸦智能/1915972735819751426-涂鸦智能一、二面：.md",
+      "content_hash": "d3afbcfdc96b9b62c0fe5ec2dcd0e5082b16c63d2dda3335eabf3555ad246c8b",
+      "updated_at": "2026-06-12T12:08:27+00:00"
+    },
+    "1968983501808005121": {
+      "title": "小米26秋招笔试题 - 开发",
+      "company": "小米",
+      "post": "服务端开发初级工程师",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/小米/1968983501808005121-小米26秋招笔试题---开发.md",
+      "content_hash": "5271ed408500ce5b8d323445ced7e8e98467604b52dbd1f43e7943529aa8b689",
+      "updated_at": "2026-06-12T12:08:27+00:00"
+    },
+    "1970325903252525057": {
+      "title": "字节校招C++客户端一面",
+      "company": "字节跳动",
+      "post": "C++客户端开发",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/字节跳动/1970325903252525057-字节校招C++客户端一面.md",
+      "content_hash": "9b0ceedb5c1cec278d3408fd493a68531bb4c86f2c4830bd48d17db43151e122",
+      "updated_at": "2026-06-12T12:08:27+00:00"
+    },
+    "1972581785667506178": {
+      "title": "上海艾为电子-量产测试工程师一面",
+      "company": "艾为电子",
+      "post": "测试工程师",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/艾为电子/1972581785667506178-上海艾为电子-量产测试工程师一面.md",
+      "content_hash": "5699bb13b100fa1955ae49c236110d8d7c4ef5ab304ec2f8bfc78a8245c47c79",
+      "updated_at": "2026-06-12T12:08:28+00:00"
+    },
+    "1988177976551727106": {
+      "title": "《CVTE嵌入式技术支持工程师》一面",
+      "company": "CVTE视源股份",
+      "post": "嵌入式软件开发",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/CVTE视源股份/1988177976551727106-《CVTE嵌入式技术支持工程师》一面.md",
+      "content_hash": "18285f18a0187858ad08d4301bd24d788a514710c542cc44f276f428aa2fa495",
+      "updated_at": "2026-06-12T12:08:28+00:00"
+    },
+    "1993595028464627714": {
+      "title": "鼎甲科技 C++开发工程师 一面+HR面",
+      "company": "鼎甲科技",
+      "post": "c++开发工程师",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/鼎甲科技/1993595028464627714-鼎甲科技-C++开发工程师-一面+HR面.md",
+      "content_hash": "e8cb39d23f53bdddfa2fc2e1a901dc2a4ff7b256ac407825a62a99826512985e",
+      "updated_at": "2026-06-12T12:08:28+00:00"
+    },
+    "1994580880384749569": {
+      "title": "鼎甲科技 C++开发工程师 一面+HR面",
+      "company": "鼎甲科技",
+      "post": "c++开发工程师",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/鼎甲科技/1994580880384749569-鼎甲科技-C++开发工程师-一面+HR面.md",
+      "content_hash": "1c44be3b3af9715b64baff0e5a957e41fd34b2084d49d57679483f332abbbf52",
+      "updated_at": "2026-06-12T12:08:28+00:00"
+    },
+    "1995091930075000833": {
+      "title": "昂永（上海）科技有限公司 面经",
+      "company": "昂永(上海)科技有限公司",
+      "post": "c++开发工程师",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/昂永(上海)科技有限公司/1995091930075000833-昂永（上海）科技有限公司-面经.md",
+      "content_hash": "474878fffd6c4cd3a0d415a72a1df4dcf07410203d31b5f0f7ee7e4d43426ee2",
+      "updated_at": "2026-06-12T12:08:29+00:00"
+    },
+    "2008400561101053953": {
+      "title": "微思格科技--测试工程师实习生",
+      "company": "成都微思格科技有限公司",
+      "post": "测试工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/成都微思格科技有限公司/2008400561101053953-微思格科技--测试工程师实习生.md",
+      "content_hash": "68525b26cc3694b7085721c1dae7c201ede7e3f84755acc10999b3ba672afd51",
+      "updated_at": "2026-06-12T12:08:29+00:00"
+    },
+    "2009452424374231041": {
+      "title": "汇川——应用软件测试实习生",
+      "company": "汇川技术",
+      "post": "测试实习生",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/汇川技术/2009452424374231041-汇川——应用软件测试实习生.md",
+      "content_hash": "54c0a234b009f6fc53125ddc6a41ac86a60adaaeaf41d2930c6a488db3a0872b",
+      "updated_at": "2026-06-12T12:08:29+00:00"
+    },
+    "2011262408007327746": {
+      "title": "星奇异--技术部测试实习生（一面+二面）",
+      "company": "星奇异",
+      "post": "测试工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/星奇异/2011262408007327746-星奇异--技术部测试实习生（一面+二面）.md",
+      "content_hash": "65d4c42d3668c38cdff5e5b68fe803a18da367c153221506f7e754fd06ed8872",
+      "updated_at": "2026-06-12T12:08:30+00:00"
+    },
+    "2030894327372099586": {
+      "title": "零零科技java开发实习一面",
+      "company": "零零科技",
+      "post": "Java初级开发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/零零科技/2030894327372099586-零零科技java开发实习一面.md",
+      "content_hash": "d245ed97d6c5cf38dd1eaeb79655ff704b41098c3dc7b37eb9c0238068707053",
+      "updated_at": "2026-06-12T12:08:30+00:00"
+    },
+    "2031747358934347777": {
+      "title": "舜云互联测试一面",
+      "company": "舜云科技（苏州）",
+      "post": "测试工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/舜云科技（苏州）/2031747358934347777-舜云互联测试一面.md",
+      "content_hash": "f16f1d4c223198aeb3542a9d0ff6ea864a4db036509e55b6c6ba0c3d69c3c029",
+      "updated_at": "2026-06-12T12:08:30+00:00"
+    },
+    "1859507721210945537": {
+      "title": "东方财富 -测试",
+      "company": "东方财富",
+      "post": "测试工程师",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/东方财富/1859507721210945537-东方财富--测试.md",
+      "content_hash": "eca89a35d57163e0678bd1121a8cb063c604bb4c9c68ee44abcb5e4ef375203b",
+      "updated_at": "2026-06-12T12:08:30+00:00"
+    },
+    "2042501515974729729": {
+      "title": "星河觉醒 AIGC软件测试实习生",
+      "company": "星河觉醒",
+      "post": "软件测试实习生",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/星河觉醒/2042501515974729729-星河觉醒-AIGC软件测试实习生.md",
+      "content_hash": "d78a02a7e1001840377437272dd615861e92eef15891405ada8e115b3c8dc51e",
+      "updated_at": "2026-06-12T12:08:31+00:00"
+    },
+    "2042794139906400258": {
+      "title": "中科合讯——java开发",
+      "company": "成都中科合迅信息科技有限公司",
+      "post": "Java初级开发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/成都中科合迅信息科技有限公司/2042794139906400258-中科合讯——java开发.md",
+      "content_hash": "2c9f907aa97c15e627194568e029e99b08547484cff1273467f98d99d6a134e3",
+      "updated_at": "2026-06-12T12:08:31+00:00"
+    },
+    "2046760765982957569": {
+      "title": "非夕测试开发 一面",
+      "company": "非夕机器人",
+      "post": "测试开发",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/非夕机器人/2046760765982957569-非夕测试开发-一面.md",
+      "content_hash": "0827038d93c706d9ad5c4b6d2f7aad8777648b666b167bc6bca41df74f3468dc",
+      "updated_at": "2026-06-12T12:08:31+00:00"
+    },
+    "2048670158295044098": {
+      "title": "华程国际Java开发一面",
+      "company": "华程国际旅行社集团",
+      "post": "Java开发工程师",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/华程国际旅行社集团/2048670158295044098-华程国际Java开发一面.md",
+      "content_hash": "80061b5f11a612f3d3ac8d244fb5933cd6e63f2dd738f119e9ce859dd99044c2",
+      "updated_at": "2026-06-12T12:08:32+00:00"
+    },
+    "1953754156315389954": {
+      "title": "冰川网络游戏测试1面",
+      "company": "深圳冰川网络",
+      "post": "游戏测试",
+      "job_type": 2,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/深圳冰川网络/1953754156315389954-冰川网络游戏测试1面.md",
+      "content_hash": "5abcd7201eeeae84ef2edba0da6e4ffb52ed3a5d9763bf321127a9a488ba8fe9",
+      "updated_at": "2026-06-12T12:08:32+00:00"
+    },
+    "1919713865065480193": {
+      "title": "上海量魁一面：",
+      "company": "上海量魁",
+      "post": "C/C++ 软件开发工程师",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/上海量魁/1919713865065480193-上海量魁一面：.md",
+      "content_hash": "b8d8597a8bf9290374b2b600654014c74929dbcd2097147fa8fe110df1138817",
+      "updated_at": "2026-06-12T12:08:32+00:00"
+    },
+    "1934606905705959425": {
+      "title": "深圳市弧克创新科技有限公司",
+      "company": "深圳市弧克创新科技有限公司",
+      "post": "后端开发",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/深圳市弧克创新科技有限公司/1934606905705959425-深圳市弧克创新科技有限公司.md",
+      "content_hash": "184066b07cfca0603ea13e410ae918a0c47cc4fa28b7c3c657bcf03410ebabd2",
+      "updated_at": "2026-06-12T12:08:32+00:00"
+    },
+    "1991397559370760194": {
+      "title": "虎牙 Android 开发 技术一面",
+      "company": "虎牙直播",
+      "post": "Android开发工程师",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/虎牙直播/1991397559370760194-虎牙-Android-开发-技术一面.md",
+      "content_hash": "ea4d915b2e18e0dd58618bc3213e34e76a9f2d76b42ede3345c8fa6e8d192693",
+      "updated_at": "2026-06-12T12:08:33+00:00"
+    },
+    "1915238343929405442": {
+      "title": "美团ai面",
+      "company": "美团",
+      "post": "C++服务器开发工程师",
+      "job_type": 1,
+      "source_markdown": "interview-agent/sources/bitejiuyeke/美团/1915238343929405442-美团ai面.md",
+      "content_hash": "a00368ee9b8dd7a6c8ff58ac9ddade61d140f30aacaab62023da038d71f66608",
+      "updated_at": "2026-06-12T12:08:33+00:00"
+    }
+  },
+  "updated_at": "2026-06-12T12:09:53+00:00"
+}

@@ -1,0 +1,404 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>Transformer 整体流程 · 霓虹动画讲解</title>
+<style>
+  :root{
+    --bg:#0a0e1a; --bg-panel:#121829; --node:#1b2540; --edge:#2a3a5c;
+    --text:#e6edf7; --text-soft:#8a97b8;
+    --glow-1:#38e8ff; --glow-2:#b76bff; --glow-3:#44ff9a; --warn:#ff5a7a;
+    --mono:"JetBrains Mono","SF Mono",ui-monospace,monospace;
+    --sans:"Inter","PingFang SC","Microsoft YaHei",system-ui,sans-serif;
+  }
+  *{box-sizing:border-box}
+  html,body{margin:0;background:#05070d;color:var(--text);font-family:var(--sans);min-height:100%}
+  body{display:flex;flex-direction:column;align-items:center;padding:24px 16px 48px;gap:18px}
+  .wrap{width:min(1180px,100%);display:flex;flex-direction:column;gap:14px}
+  .frame{
+    position:relative;width:100%;aspect-ratio:16/9;border-radius:14px;overflow:hidden;
+    background:radial-gradient(120% 80% at 50% 40%, #101830 0%, #0a0e1a 55%, #05070d 100%);
+    box-shadow:0 0 0 1px #1a2238, 0 30px 80px rgba(0,0,0,.5);
+  }
+  .frame::before{
+    content:"";position:absolute;inset:0;pointer-events:none;
+    background-image:
+      linear-gradient(rgba(56,232,255,.04) 1px,transparent 1px),
+      linear-gradient(90deg,rgba(56,232,255,.04) 1px,transparent 1px);
+    background-size:48px 48px;
+  }
+  .frame::after{
+    content:"";position:absolute;inset:0;pointer-events:none;
+    background:radial-gradient(120% 80% at 50% 50%, transparent 55%, rgba(0,0,0,.55) 100%);
+  }
+  .kicker{
+    position:absolute;left:3.2%;top:4%;font-family:var(--mono);
+    font-size:clamp(10px,1.1vw,14px);letter-spacing:.32em;color:var(--glow-1);
+    text-shadow:0 0 8px rgba(56,232,255,.6);text-transform:uppercase;z-index:3;
+  }
+  .step-num{
+    position:absolute;right:3.2%;top:4%;font-family:var(--mono);
+    font-size:clamp(10px,1.1vw,14px);letter-spacing:.28em;color:var(--text-soft);z-index:3;
+  }
+  .title{
+    position:absolute;left:3.2%;top:11%;right:3.2%;
+    font-weight:800;font-size:clamp(22px,4.2vw,56px);line-height:1.05;
+    letter-spacing:-.01em;color:var(--text);z-index:3;pointer-events:none;
+    text-shadow:0 0 24px rgba(56,232,255,.18);
+  }
+  .caption{
+    position:absolute;left:3.2%;right:3.2%;bottom:6%;
+    font-size:clamp(16px,2.4vw,30px);font-weight:600;line-height:1.25;
+    color:#eaf3ff;text-shadow:0 0 12px rgba(56,232,255,.35);z-index:3;
+  }
+  .caption .hl{color:var(--glow-1)}
+  .caption .hl2{color:var(--glow-2)}
+  .caption .hl3{color:var(--glow-3)}
+  svg.stage{position:absolute;inset:0;width:100%;height:100%;z-index:2}
+  .bar{
+    width:100%;display:flex;align-items:center;gap:10px;flex-wrap:wrap;
+    background:#0c1120;border:1px solid #1a2238;border-radius:12px;padding:10px 14px;
+  }
+  .bar button{
+    background:#121a2d;color:var(--text);border:1px solid #243154;border-radius:8px;
+    padding:8px 12px;font-family:var(--mono);font-size:13px;cursor:pointer;
+    min-height:40px;min-width:44px;letter-spacing:.06em;transition:all .15s;
+  }
+  .bar button:hover{border-color:var(--glow-1);color:var(--glow-1);box-shadow:0 0 12px rgba(56,232,255,.25)}
+  .bar .play{background:#0e1f33;border-color:#2a6c8a;color:var(--glow-1)}
+  .progress{flex:1;height:6px;background:#1a2238;border-radius:4px;overflow:hidden;min-width:120px}
+  .progress > i{display:block;height:100%;background:linear-gradient(90deg,var(--glow-2),var(--glow-1));width:0%;transition:width .25s}
+  .step-label{font-family:var(--mono);font-size:12px;color:var(--text-soft);letter-spacing:.18em}
+  .hint{
+    width:100%;font-size:13px;color:var(--text-soft);text-align:center;
+    font-family:var(--mono);letter-spacing:.12em;
+  }
+  .glow1{filter:drop-shadow(0 0 4px var(--glow-1)) drop-shadow(0 0 12px rgba(56,232,255,.55))}
+  .glow2{filter:drop-shadow(0 0 4px var(--glow-2)) drop-shadow(0 0 12px rgba(183,107,255,.55))}
+  .glow3{filter:drop-shadow(0 0 4px var(--glow-3)) drop-shadow(0 0 12px rgba(68,255,154,.55))}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="frame">
+    <div class="kicker" id="kicker">CHAPTER 01 · TRANSFORMER</div>
+    <div class="step-num" id="stepNum">01 / 06</div>
+    <div class="title" id="title">Transformer 是怎么读懂一句话的？</div>
+    <svg class="stage" viewBox="0 0 1600 900" preserveAspectRatio="xMidYMid meet" id="stage"></svg>
+    <div class="caption" id="caption">把整句话拆成 token，让每个词都互相看一眼，再预测下一个词。</div>
+  </div>
+  <div class="bar">
+    <button id="reset" title="重置">↺</button>
+    <button id="prev" title="上一帧">‹ PREV</button>
+    <button id="play" class="play" title="播放/暂停">▶ PLAY</button>
+    <button id="next" title="下一帧">NEXT ›</button>
+    <span class="step-label" id="stepLabel">STEP 01 / 06</span>
+    <div class="progress"><i id="progBar"></i></div>
+  </div>
+  <div class="hint">← / → 切换步骤 · SPACE 播放暂停 · 每一步停下读一句字幕</div>
+</div>
+
+<script>
+(() => {
+  const stage = document.getElementById('stage');
+  const titleEl = document.getElementById('title');
+  const captionEl = document.getElementById('caption');
+  const kickerEl = document.getElementById('kicker');
+  const stepNumEl = document.getElementById('stepNum');
+  const stepLabelEl = document.getElementById('stepLabel');
+  const progBar = document.getElementById('progBar');
+
+  const SVGNS = "http://www.w3.org/2000/svg";
+  const el = (tag, attrs={}, parent=stage) => {
+    const n = document.createElementNS(SVGNS, tag);
+    for (const k in attrs) n.setAttribute(k, attrs[k]);
+    parent.appendChild(n);
+    return n;
+  };
+  const clear = () => { while (stage.firstChild) stage.removeChild(stage.firstChild); };
+
+  const TOKENS = ["我", "爱", "中", "国"];
+  const N = TOKENS.length;
+  const EMB = [
+    [ 0.82,-0.31, 0.55,-0.10],
+    [ 0.41, 0.77,-0.22, 0.36],
+    [-0.18, 0.62, 0.71,-0.24],
+    [-0.55, 0.10, 0.48, 0.66],
+  ];
+  const ATTN = [
+    [0.62,0.18,0.12,0.08],
+    [0.55,0.20,0.15,0.10],
+    [0.10,0.15,0.30,0.45],
+    [0.05,0.10,0.55,0.30],
+  ];
+
+  function step1() {
+    clear();
+    const cy = 560;
+    const sentence = "我爱中国";
+    const t = el("text",{x:800,y:380,"text-anchor":"middle","font-size":92,"font-weight":700,fill:"#eaf3ff",opacity:.95});
+    t.textContent = sentence;
+    t.setAttribute("filter","drop-shadow(0 0 14px rgba(56,232,255,.35))");
+
+    el("path",{d:"M 800 430 L 800 490",stroke:"#38e8ff","stroke-width":3,fill:"none","stroke-linecap":"round"}).classList.add("glow1");
+    el("path",{d:"M 786 478 L 800 498 L 814 478",stroke:"#38e8ff","stroke-width":3,fill:"none","stroke-linecap":"round","stroke-linejoin":"round"}).classList.add("glow1");
+
+    const w=160,h=110,gap=36;
+    const totalW = N*w + (N-1)*gap;
+    const x0 = 800 - totalW/2;
+    for (let i=0;i<N;i++){
+      const x = x0 + i*(w+gap);
+      const g = el("g",{});
+      const r = el("rect",{x,y:cy,width:w,height:h,rx:14,ry:14,fill:"#0e1730",stroke:"#38e8ff","stroke-width":2},g);
+      r.classList.add("glow1");
+      const tx = el("text",{x:x+w/2,y:cy+h/2+18,"text-anchor":"middle","font-size":52,"font-weight":700,fill:"#eaf3ff"},g);
+      tx.textContent = TOKENS[i];
+      const id = el("text",{x:x+w/2,y:cy+h+34,"text-anchor":"middle","font-size":22,"font-family":"JetBrains Mono, ui-monospace, monospace",fill:"#8a97b8"},g);
+      id.textContent = `id:${1023+i*317}`;
+      g.animate(
+        [{opacity:0,transform:"translateY(20px)"},{opacity:1,transform:"translateY(0)"}],
+        {duration:380,delay:120*i,fill:"forwards",easing:"cubic-bezier(.2,.8,.2,1)"}
+      );
+    }
+  }
+
+  function step2() {
+    clear();
+    const w=120,h=80,gap=36;
+    const totalW = N*w + (N-1)*gap;
+    const x0 = 800 - totalW/2;
+    const tokenY = 280, vecY = 460;
+
+    for (let i=0;i<N;i++){
+      const x = x0 + i*(w+gap);
+      el("rect",{x,y:tokenY,width:w,height:h,rx:12,fill:"#0e1730",stroke:"#2a3a5c","stroke-width":1.5});
+      const tx = el("text",{x:x+w/2,y:tokenY+h/2+14,"text-anchor":"middle","font-size":42,"font-weight":700,fill:"#cfdaf0"});
+      tx.textContent = TOKENS[i];
+
+      el("path",{d:`M ${x+w/2} ${tokenY+h+8} L ${x+w/2} ${vecY-12}`,stroke:"#38e8ff","stroke-width":2.5,fill:"none"}).classList.add("glow1");
+
+      const vec = EMB[i];
+      const cellW = 30, cellH = 130;
+      const vx0 = x + w/2 - (vec.length*cellW)/2;
+      for (let j=0;j<vec.length;j++){
+        const v = vec[j];
+        const color = v>=0 ? `rgba(56,232,255,${0.25+Math.abs(v)*0.7})` : `rgba(183,107,255,${0.25+Math.abs(v)*0.7})`;
+        el("rect",{x:vx0+j*cellW,y:vecY,width:cellW-3,height:cellH,rx:4,fill:color,stroke:"#243154","stroke-width":1});
+        const lb = el("text",{x:vx0+j*cellW+(cellW-3)/2,y:vecY+cellH+22,"text-anchor":"middle","font-size":15,"font-family":"JetBrains Mono, ui-monospace, monospace",fill:"#8a97b8"});
+        lb.textContent = v.toFixed(2);
+      }
+      const lab = el("text",{x:x+w/2,y:vecY+cellH+54,"text-anchor":"middle","font-size":15,"font-family":"JetBrains Mono, ui-monospace, monospace",fill:"#8a97b8","letter-spacing":"0.2em"});
+      lab.textContent = "EMBEDDING d=4";
+    }
+  }
+
+  function step3() {
+    clear();
+    const w=140,h=110,gap=46;
+    const totalW = N*w + (N-1)*gap;
+    const x0 = 800 - totalW/2;
+    const embY = 240;
+
+    for (let i=0;i<N;i++){
+      const x = x0 + i*(w+gap);
+      const e1 = el("rect",{x,y:embY,width:w,height:h,rx:12,fill:"rgba(56,232,255,.18)",stroke:"#38e8ff","stroke-width":2});
+      e1.classList.add("glow1");
+      const t1 = el("text",{x:x+w/2,y:embY+h/2-2,"text-anchor":"middle","font-size":30,"font-weight":700,fill:"#eaf3ff"});
+      t1.textContent = TOKENS[i];
+      const tl = el("text",{x:x+w/2,y:embY+h/2+30,"text-anchor":"middle","font-size":13,"font-family":"JetBrains Mono, ui-monospace, monospace",fill:"#cfdaf0","letter-spacing":"0.18em"});
+      tl.textContent = "EMB";
+
+      const plus = el("text",{x:x+w/2,y:embY+h+42,"text-anchor":"middle","font-size":36,"font-weight":700,fill:"#b76bff"});
+      plus.textContent = "+";
+      plus.classList.add("glow2");
+
+      const e2 = el("rect",{x,y:embY+h+58,width:w,height:h*0.75,rx:12,fill:"rgba(183,107,255,.16)",stroke:"#b76bff","stroke-width":2});
+      e2.classList.add("glow2");
+      const t2 = el("text",{x:x+w/2,y:embY+h+58+h*0.75/2-4,"text-anchor":"middle","font-size":22,"font-weight":700,fill:"#eaf3ff"});
+      t2.textContent = `pos=${i}`;
+      const t2b = el("text",{x:x+w/2,y:embY+h+58+h*0.75/2+26,"text-anchor":"middle","font-size":13,"font-family":"JetBrains Mono, ui-monospace, monospace",fill:"#dccaff","letter-spacing":"0.18em"});
+      t2b.textContent = "POS ENC";
+    }
+
+    const note = el("text",{x:800,y:780,"text-anchor":"middle","font-size":22,"font-family":"JetBrains Mono, ui-monospace, monospace",fill:"#8a97b8","letter-spacing":"0.26em"});
+    note.textContent = "= 含位置的输入向量";
+  }
+
+  function step4() {
+    clear();
+    const w=140,h=140,gap=80;
+    const totalW = N*w + (N-1)*gap;
+    const x0 = 800 - totalW/2;
+    const y = 460;
+    const cx = [];
+    for (let i=0;i<N;i++){
+      const x = x0 + i*(w+gap);
+      cx.push(x + w/2);
+      const isFocus = (i===3);
+      const fill = isFocus ? "rgba(68,255,154,.18)" : "#0e1730";
+      const stroke = isFocus ? "#44ff9a" : "#2a3a5c";
+      const r = el("rect",{x,y,width:w,height:h,rx:18,fill,stroke,"stroke-width":isFocus?3:1.5});
+      if (isFocus) r.classList.add("glow3");
+      const tx = el("text",{x:x+w/2,y:y+h/2+18,"text-anchor":"middle","font-size":58,"font-weight":700,fill:isFocus?"#eaf3ff":"#cfdaf0"});
+      tx.textContent = TOKENS[i];
+      if (isFocus){
+        const lb = el("text",{x:x+w/2,y:y+h+34,"text-anchor":"middle","font-size":18,"font-family":"JetBrains Mono, ui-monospace, monospace",fill:"#44ff9a","letter-spacing":"0.2em"});
+        lb.textContent = "QUERY";
+      }
+    }
+
+    const attn = ATTN[3];
+    for (let i=0;i<N;i++){
+      const x1 = cx[3], y1 = y;
+      const x2 = cx[i], y2 = y;
+      const peakY = 220 - Math.abs(i-3)*8;
+      const d = `M ${x1} ${y1} C ${x1} ${peakY}, ${x2} ${peakY}, ${x2} ${y2}`;
+      const w_line = 2 + attn[i]*22;
+      const op = 0.3 + attn[i]*0.7;
+      const stroke = i===2 ? "#44ff9a" : "#38e8ff";
+      const path = el("path",{d,stroke,"stroke-width":w_line,fill:"none",opacity:op,"stroke-linecap":"round"});
+      if (attn[i]>0.3) path.classList.add(i===2 ? "glow3" : "glow1");
+      const lab = el("text",{x:(x1+x2)/2,y:peakY-18,"text-anchor":"middle","font-size":22,"font-family":"JetBrains Mono, ui-monospace, monospace",fill:i===2?"#44ff9a":"#8a97b8","font-weight":700});
+      lab.textContent = attn[i].toFixed(2);
+    }
+
+    const lg = el("text",{x:800,y:760,"text-anchor":"middle","font-size":20,"font-family":"JetBrains Mono, ui-monospace, monospace",fill:"#8a97b8","letter-spacing":"0.22em"});
+    lg.textContent = "QUERY=「国」 · 线粗 = 注意力权重";
+  }
+
+  function step5() {
+    clear();
+    const w=120,h=90,gap=70;
+    const totalW = N*w + (N-1)*gap;
+    const x0 = 800 - totalW/2;
+    const inY = 240, midY = 440, outY = 640;
+
+    for (let i=0;i<N;i++){
+      const x = x0 + i*(w+gap);
+      const r1 = el("rect",{x,y:inY,width:w,height:h,rx:12,fill:"rgba(56,232,255,.18)",stroke:"#38e8ff","stroke-width":2});
+      r1.classList.add("glow1");
+      const t1 = el("text",{x:x+w/2,y:inY+h/2+12,"text-anchor":"middle","font-size":38,"font-weight":700,fill:"#eaf3ff"});
+      t1.textContent = TOKENS[i];
+
+      const r2 = el("rect",{x:x-10,y:midY,width:w+20,height:h,rx:12,fill:"rgba(183,107,255,.16)",stroke:"#b76bff","stroke-width":2});
+      r2.classList.add("glow2");
+      const t2 = el("text",{x:x+w/2,y:midY+h/2,"text-anchor":"middle","font-size":18,"font-weight":700,fill:"#eaf3ff","font-family":"JetBrains Mono, ui-monospace, monospace","letter-spacing":"0.18em"});
+      t2.textContent = "FFN";
+      const t2b = el("text",{x:x+w/2,y:midY+h/2+22,"text-anchor":"middle","font-size":12,"font-family":"JetBrains Mono, ui-monospace, monospace",fill:"#dccaff"});
+      t2b.textContent = "Linear→GELU→Linear";
+
+      const r3 = el("rect",{x,y:outY,width:w,height:h,rx:12,fill:"rgba(68,255,154,.18)",stroke:"#44ff9a","stroke-width":2});
+      r3.classList.add("glow3");
+      const t3 = el("text",{x:x+w/2,y:outY+h/2+12,"text-anchor":"middle","font-size":38,"font-weight":700,fill:"#eaf3ff"});
+      t3.textContent = TOKENS[i] + "′";
+
+      el("path",{d:`M ${x+w/2} ${inY+h+4} L ${x+w/2} ${midY-4}`,stroke:"#38e8ff","stroke-width":2.5,fill:"none"}).classList.add("glow1");
+      el("path",{d:`M ${x+w/2} ${midY+h+4} L ${x+w/2} ${outY-4}`,stroke:"#44ff9a","stroke-width":2.5,fill:"none"}).classList.add("glow3");
+    }
+
+    const lg = el("text",{x:800,y:800,"text-anchor":"middle","font-size":20,"font-family":"JetBrains Mono, ui-monospace, monospace",fill:"#8a97b8","letter-spacing":"0.22em"});
+    lg.textContent = "每个位置独立做相同的非线性变换";
+  }
+
+  function step6() {
+    clear();
+    const bx = 160, by = 230, bw = 560, bh = 78, gap = 16;
+    const layers = ["Layer 1","Layer 2","Layer 3","· · ·","Layer N"];
+    for (let i=0;i<layers.length;i++){
+      const y = by + i*(bh+gap);
+      const r = el("rect",{x:bx,y,width:bw,height:bh,rx:14,fill:"#0e1730",stroke:"#243154","stroke-width":1.5});
+      const isLast = (i===layers.length-1);
+      if (isLast){ r.setAttribute("stroke","#38e8ff"); r.setAttribute("stroke-width",2.5); r.classList.add("glow1"); }
+      const t = el("text",{x:bx+24,y:y+bh/2+9,"font-size":26,"font-weight":700,fill:"#eaf3ff","font-family":"JetBrains Mono, ui-monospace, monospace","letter-spacing":"0.18em"});
+      t.textContent = layers[i];
+      const sub = el("text",{x:bx+bw-24,y:y+bh/2+7,"text-anchor":"end","font-size":16,fill:"#8a97b8","font-family":"JetBrains Mono, ui-monospace, monospace"});
+      sub.textContent = "Self-Attn + FFN";
+    }
+
+    const arrX1 = bx+bw+30, arrY = by + 2*(bh+gap)+bh/2;
+    el("path",{d:`M ${arrX1} ${arrY} L ${arrX1+120} ${arrY}`,stroke:"#38e8ff","stroke-width":3.5,fill:"none","stroke-linecap":"round"}).classList.add("glow1");
+    el("path",{d:`M ${arrX1+108} ${arrY-14} L ${arrX1+128} ${arrY} L ${arrX1+108} ${arrY+14}`,stroke:"#38e8ff","stroke-width":3.5,fill:"none","stroke-linejoin":"round","stroke-linecap":"round"}).classList.add("glow1");
+
+    const vocab = ["人","民","家","队","梦","。"];
+    const probs = [0.62,0.18,0.08,0.06,0.04,0.02];
+    const barX = arrX1 + 160, barY = 210, barW = 60, barGap = 26, maxH = 320;
+    for (let i=0;i<vocab.length;i++){
+      const x = barX + i*(barW+barGap);
+      const h = probs[i]*maxH + 10;
+      const y = barY + (maxH - h);
+      const isTop = (i===0);
+      const fill = isTop ? "rgba(68,255,154,.85)" : "rgba(56,232,255,.55)";
+      const r = el("rect",{x,y,width:barW,height:h,rx:6,fill,stroke:isTop?"#44ff9a":"#38e8ff","stroke-width":isTop?2:1});
+      if (isTop) r.classList.add("glow3");
+      const tl = el("text",{x:x+barW/2,y:barY+maxH+34,"text-anchor":"middle","font-size":28,"font-weight":700,fill:isTop?"#eaf3ff":"#cfdaf0"});
+      tl.textContent = vocab[i];
+      const pl = el("text",{x:x+barW/2,y:y-10,"text-anchor":"middle","font-size":15,"font-family":"JetBrains Mono, ui-monospace, monospace",fill:isTop?"#44ff9a":"#8a97b8","font-weight":700});
+      pl.textContent = probs[i].toFixed(2);
+    }
+
+    const ax = el("text",{x:barX + (vocab.length*(barW+barGap))/2 - barGap/2, y:barY+maxH+74,"text-anchor":"middle","font-size":16,"font-family":"JetBrains Mono, ui-monospace, monospace",fill:"#8a97b8","letter-spacing":"0.22em"});
+    ax.textContent = "下一个 token 的概率分布";
+
+    const inp = el("text",{x:bx+bw/2,y:by-40,"text-anchor":"middle","font-size":22,"font-family":"JetBrains Mono, ui-monospace, monospace",fill:"#cfdaf0","letter-spacing":"0.2em"});
+    inp.textContent = "输入: 「我 爱 中 国」";
+  }
+
+  const STEPS = [
+    { title:"❶ Tokenize — 把句子切成 token",
+      caption:"先把整句话拆成一串 <span class='hl'>token</span>，每个 token 在词表里有一个 id。",
+      kicker:"STEP 01 · TOKENIZE", render:step1 },
+    { title:"❷ Embedding — token 变向量",
+      caption:"每个 token id 查表得到一个 <span class='hl'>稠密向量</span>，相近词义在向量空间里也靠近。",
+      kicker:"STEP 02 · EMBEDDING", render:step2 },
+    { title:"❸ + 位置编码 — 给词加上「位置」",
+      caption:"Transformer 本身不知道顺序，<span class='hl2'>位置编码</span>告诉它谁在前、谁在后。",
+      kicker:"STEP 03 · POSITIONAL ENC", render:step3 },
+    { title:"❹ Self-Attention — 每个词看其他所有词",
+      caption:"「国」用 Query 去和所有 Key 打分，<span class='hl3'>线越粗</span> = 越关注那个词。",
+      kicker:"STEP 04 · SELF-ATTENTION", render:step4 },
+    { title:"❺ Feed-Forward — 每个位置独立变换",
+      caption:"注意力混完上下文后，每个位置再过一个 <span class='hl2'>FFN</span> 做非线性提炼。",
+      kicker:"STEP 05 · FEED-FORWARD", render:step5 },
+    { title:"❻ 堆叠 N 层 → 预测下一个词",
+      caption:"重复 N 层后，用最后一个位置的向量算出 <span class='hl3'>下一个 token 的概率</span>。",
+      kicker:"STEP 06 · STACK & PREDICT", render:step6 },
+  ];
+
+  let cur = 0, playing = false, timer = null;
+
+  function render(i){
+    cur = (i + STEPS.length) % STEPS.length;
+    const s = STEPS[cur];
+    titleEl.textContent = s.title;
+    captionEl.innerHTML = s.caption;
+    kickerEl.textContent = s.kicker;
+    stepNumEl.textContent = `${String(cur+1).padStart(2,'0')} / ${String(STEPS.length).padStart(2,'0')}`;
+    stepLabelEl.textContent = `STEP ${String(cur+1).padStart(2,'0')} / ${String(STEPS.length).padStart(2,'0')}`;
+    progBar.style.width = ((cur+1)/STEPS.length*100).toFixed(1)+"%";
+    s.render();
+  }
+  function next(){ render(cur+1); }
+  function prev(){ render(cur-1); }
+  function setPlaying(p){
+    playing = p;
+    document.getElementById('play').textContent = playing ? "❚❚ PAUSE" : "▶ PLAY";
+    if (timer) { clearInterval(timer); timer = null; }
+    if (playing) timer = setInterval(()=>{ if (cur===STEPS.length-1){ setPlaying(false); return; } next(); }, 3400);
+  }
+
+  document.getElementById('next').addEventListener('click', ()=>{ setPlaying(false); next(); });
+  document.getElementById('prev').addEventListener('click', ()=>{ setPlaying(false); prev(); });
+  document.getElementById('reset').addEventListener('click', ()=>{ setPlaying(false); render(0); });
+  document.getElementById('play').addEventListener('click', ()=> setPlaying(!playing));
+  window.addEventListener('keydown', (e)=>{
+    if (e.key==='ArrowRight'){ setPlaying(false); next(); }
+    else if (e.key==='ArrowLeft'){ setPlaying(false); prev(); }
+    else if (e.key===' '){ e.preventDefault(); setPlaying(!playing); }
+  });
+
+  render(0);
+})();
+</script>
+</body>
+</html>

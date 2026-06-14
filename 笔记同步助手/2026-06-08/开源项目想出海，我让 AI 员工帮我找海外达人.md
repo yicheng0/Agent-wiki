@@ -22,7 +22,7 @@ id: eecf8ce7-98ba-45b7-bbe9-24109a6b443a
 
 我的 GPT-Image2 开源项目，最近冲到了 7K Star，还在涨。
 
-![](https://relay-1.bijitongbu.site/p/ef25c5dd19093201ba12d4fefbcd9f6b.png)
+![[笔记同步助手/images/94e0aa795a96f738bce5a40fffe1d369_MD5.png]]
 
 但比起涨 Star，下面这事更出乎我意料。
 
@@ -32,7 +32,7 @@ id: eecf8ce7-98ba-45b7-bbe9-24109a6b443a
 
 只做了一件事，把海外推广的活，丢给了一个 AI 员工，AhaCreator。
 
-![](https://relay-1.bijitongbu.site/p/4b3e565f1969b6f476b878fba482b034.png)
+![[笔记同步助手/images/340fda0b0ec4683434391e573155226b_MD5.png]]
 
 跑完一圈，我才回过神来。
 
@@ -42,7 +42,7 @@ id: eecf8ce7-98ba-45b7-bbe9-24109a6b443a
 
 人继续做判断，AI 把大量重复执行工作接过去。
 
-![](https://relay-1.bijitongbu.site/p/908b570dd5e94d0782c14db68deedf44.png)
+![[笔记同步助手/images/900312a575f852fdd2abed62564d3f7c_MD5.png]]
 
 那我是怎么做的呢？
 
@@ -52,7 +52,7 @@ id: eecf8ce7-98ba-45b7-bbe9-24109a6b443a
 
 AI 自动把品牌信息和亮点都拼好了，比我自己挤牙膏强太多。
 
-![](https://relay-1.bijitongbu.site/p/feadebae6abb0fa3fdccb30d22274cb7.png)
+![[笔记同步助手/images/f6a8dcf9da3f87f327ff4a42100a5e4a_MD5.png]]
 
 ## 第二步：让 AI 反推「我该找谁」
 
@@ -62,11 +62,11 @@ AI 直接根据产品反推达人画像。
 
 给我的画像是：AI 技术博主、开发者教育类创作者、开源项目分享型博主。
 
-![](https://relay-1.bijitongbu.site/p/53e85ad70ab2c175b33d00e9fd678fff.png)
+![[笔记同步助手/images/30d1c2da60e2c01c99c7e047945e1f79_MD5.png]]
 
 不满意还能直接用大白话改，比一项项调筛选条件舒服多了。
 
-![](https://relay-1.bijitongbu.site/p/1040422baa01b808f77bea7430362b63.png)
+![[笔记同步助手/images/8145ff1a92c6cf7bb0bf8731cc16b59f_MD5.png]]
 
 投放位置、地区、语言它自己识别，全球投放不用再手动填一遍。
 
@@ -74,7 +74,7 @@ AI 直接根据产品反推达人画像。
 
 匹配模式可以按需求选，聚焦模式、扩展模式、最大扩展模式都有。
 
-![](https://relay-1.bijitongbu.site/p/e9e0a6c7ded29ff2102c1af42a370eaf.png)
+![[笔记同步助手/images/e4348be29da64c358461fbfedcb083fb_MD5.png]]
 
 ## 第三步：把我的「私货」喂给它
 
@@ -86,11 +86,11 @@ AI 直接根据产品反推达人画像。
 
 创意脚本要不要审？我选了开启，达人得先把脚本发我看过再开拍。
 
-![](https://relay-1.bijitongbu.site/p/bd51a5c2d9085af9220991404f045e7e.png)
+![[笔记同步助手/images/5c9322b58caedd94b4cd8f6375439331_MD5.png]]
 
 追踪链接我也用了AhaCreator自带的，省得自己再去配 UTM。
 
-![](https://relay-1.bijitongbu.site/p/059741e1ccd2416e1a332bd4a4e5b907.png)
+![[笔记同步助手/images/52994594fd0115d27187ed7ccef94fea_MD5.png]]
 
   
 
@@ -102,7 +102,7 @@ AI 直接根据产品反推达人画像。
 
 还可以设置最高 CPM 和单个达人的封顶价，超出预期就不推送。
 
-![](https://relay-1.bijitongbu.site/p/a8d98866abaa5335a55d85ad72a2e16c.png)
+![[笔记同步助手/images/ef0f1598417df7cb9e39a20a4ec3f7a0_MD5.png]]
 
 ## 第五步：拿到带评分的达人名单
 
@@ -112,17 +112,17 @@ AI 直接根据产品反推达人画像。
 
 更舒服的是，刷粉刷评、抱团操控、争议言论、画质不稳定这些坑，AI 已经提前扫过一遍。
 
-![](https://relay-1.bijitongbu.site/p/772b722a99918e5f9b8666d3b18adda3.png)
+![[笔记同步助手/images/f321f71170a133eae6b72aad74a5b607_MD5.png]]
 
 名单里每个候选人都过了一轮体检，再叠加最近 20 天的互动率和活跃度，心里就有谱了。
 
-![](https://relay-1.bijitongbu.site/p/3b913afd6a24a2bb446dbfa9a83051cf.png)
+![[笔记同步助手/images/e982a5dd9e78d857a6c8417c99791f2b_MD5.png]]
 
 系统按我的预算自动配人，连曝光量、CPM、CPC 都顺手预测好。
 
 确认之后传一张名片证明品牌身份，自动生成授权书，推广计划就部署完了。
 
-![](https://relay-1.bijitongbu.site/p/c2273186910dc82b40149ec4ff44feac.png)
+![[笔记同步助手/images/29c7a728158f0a4dbc038278224245aa_MD5.png]]
 
 ## 第六步：达人开始反过来追我
 
@@ -134,13 +134,13 @@ AI 直接根据产品反推达人画像。
 
 这种节奏，对一个独立开发者来说真的挺新鲜。
 
-![](https://relay-1.bijitongbu.site/p/952c681e83a238d388b1a05e727dfeff.png)
+![[笔记同步助手/images/8275e292a53c61ee4488e674aeb81968_MD5.png]]
 
 每个达人的报价、历史合作、关键指标我都能看到。
 
 可以选确认、拒绝，也可以议价，平台支持多轮砍价。
 
-![](https://relay-1.bijitongbu.site/p/2a05e463745287a506fe823457b22f99.png)
+![[笔记同步助手/images/d023592713578907260be81d83bd2e34_MD5.png]]
 
 我自己感受最深的是，谈判这一段终于不用再去琢磨外语话术。
 
@@ -154,7 +154,7 @@ AhaCreator 30 秒一条，按核心卖点、内容结构、CTA 合规多个维�
 
 它会告诉我哪些地方没有覆盖核心卖点，哪里不符合 brief，CTA 是否清楚，表达是否需要更本地化。
 
-![](https://relay-1.bijitongbu.site/p/0130e9e9bfd53c95aef6582ebf33f93a.png)
+![[笔记同步助手/images/0d3e7919f288ec1676ccf8ff390f43d8_MD5.png]]
 
 我只需要在它的判断上点个确认或者打回。
 
@@ -166,7 +166,7 @@ AhaCreator 30 秒一条，按核心卖点、内容结构、CTA 合规多个维�
 
 达人没按时按量交付，全额自动退款。
 
-![](https://relay-1.bijitongbu.site/p/04503a1d56c092d25a28d51e45921fd9.png)
+![[笔记同步助手/images/ebf66e945401f588ad9cb214505fefc5_MD5.png]]
 
 这块能交出去，我心里反而踏实一截。
 
@@ -176,7 +176,7 @@ AhaCreator 30 秒一条，按核心卖点、内容结构、CTA 合规多个维�
 
 支持下载，回头我自己再做二次分析也方便。
 
-![](https://relay-1.bijitongbu.site/p/01b337f054d785649f3173dee6e54985.png)
+![[笔记同步助手/images/78d891eb7678e49fdc9353352183f952_MD5.png]]
 
 跑完一轮，我能很清楚地知道哪些达人值得长期合作。
 

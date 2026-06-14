@@ -6,5 +6,8 @@
   "colored-text",
   "highlightr-plugin",
   "messager",
-  "notehelper"
+  "notehelper",
+  "callout-manager",
+  "obsidian-style-settings",
+  "obsidian-icon-folder"
 ]
