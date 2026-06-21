@@ -10,9 +10,6 @@ tags:
   - agent
 ---
 
-# 小林面试题 - Agent
-
-> 说明：本文件由 `tools/build_xiaolinnote_interview_cards.py` 从 `xiaolinnote-ai-qa.jsonl` 生成，属于外部资料整理层，未合并进手工精选题库。
 
 ## 1. 什么是 Agent？与大模型有什么本质不同？
 

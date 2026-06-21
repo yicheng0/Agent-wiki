@@ -10,10 +10,6 @@ tags:
   - tools
 ---
 
-# 小林面试题 - Tool Calling / MCP / Skills
-
-> 说明：本文件由 `tools/build_xiaolinnote_interview_cards.py` 从 `xiaolinnote-ai-qa.jsonl` 生成，属于外部资料整理层，未合并进手工精选题库。
-
 ## 1. 什么是 Function Calling ？原理是什么？
 
 - 来源：[https://xiaolinnote.com/ai/tools/1_function_calling.html](https://xiaolinnote.com/ai/tools/1_function_calling.html)
