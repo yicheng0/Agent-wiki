@@ -13,8 +13,6 @@ tags:
 
 ## 1. 什么是 Agent？与大模型有什么本质不同？
 
-- 来源：[https://xiaolinnote.com/ai/agent/1_whatisagent.html](https://xiaolinnote.com/ai/agent/1_whatisagent.html)
-- 本地原文：`interview-agent/sources/xiaolinnote/agent/1_whatisagent.md`
 
 ### 考点
 

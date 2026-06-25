@@ -12,7 +12,6 @@ tags:
 
 # Agent 工程师核心题库
 
-## Basic
 
 ### 1. 什么是 AI Agent？它和普通 Chatbot 有什么区别？
 
