@@ -15,11 +15,7 @@ tags:
 
 # Agent 面试题介绍
 
-> 来源：https://xiaolinnote.com/ai/agent/agent_info.html
 
-![](https://cdn.xiaolincoding.com//picgo/cb600c1b8d1950c1ee64dad0e3a58139.png)
-
-大家好，我是小林。
 
 Agent 这个方向现在有多火不用我多说了吧，基本上只要面的是 AI 工程相关的岗位，Agent 就是绕不过去的必考题。但说实话，我看了不少同学的面经分享，发现很多人答 Agent 的题目都有一个通病：听起来好像说得都对，但面试官一追问就露馅了，因为只记住了概念，没有真的搞懂背后的原理和工程取舍。
 
